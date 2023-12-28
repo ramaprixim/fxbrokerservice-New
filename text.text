@@ -153,8 +153,7 @@
                 </div>
             </div>
         </div>
-        <!-- End overview area -->
-        <!-- Start brand banner area -->
+       
         <div class="brand-area area-padding fix" data-stellar-background-ratio="0.6">
             <div class="container">
                 <div class="row">
@@ -167,8 +166,7 @@
 				</div>
             </div>
         </div>
-        <!-- End brand banner area -->
-        <!-- Start brand area -->
+
         <div class="brand-area-content">
             <div class="container">
                 <div class="row">
@@ -212,8 +210,7 @@
                 </div>
             </div>
         </div>
-        <!-- End brand area -->
-        <!-- Start apps download area -->
+
 		<div class="download-area bg-color area-padding">
 			<div class="container">
 				<div class="row">

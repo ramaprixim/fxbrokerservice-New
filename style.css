@@ -1219,7 +1219,7 @@ button.cale-btn:hover{
 .brand-area {
     background: rgba(0, 0, 0, 0) url(img/background/bg1.jpg) no-repeat scroll top center / cover;
     position: relative;
-    padding: 110px 0px 160px;
+    padding: 90px 0px 70px;
 }
 .brand-area:before{
     position:absolute;
