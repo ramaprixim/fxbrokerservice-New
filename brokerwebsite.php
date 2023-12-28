@@ -71,7 +71,7 @@
             <div class="col-md-4 col-sm-4 col-xs-12">
                 <div class="single-service ">
                     <div class="service-img">
-                        <a class="service-icon" href="#"><i class="flaticon-048-atm"></i></a>
+                        <a class="service-icon" href="#"><i class="flaticon-069-ingots"></i></a>
                     </div>
                     <div class="main-service">
                         <div class="service-content">
@@ -86,7 +86,7 @@
             <div class="col-md-4 col-sm-4 col-xs-12">
                 <div class="single-service ">
                     <div class="service-img">
-                        <a class="service-icon" href="#"><i class="flaticon-103-buildings"></i></a>
+                        <a class="service-icon" href="#"><i class="flaticon-066-safebox-1"></i></a>
                     </div>
                     <div class="main-service">
                         <div class="service-content">
@@ -101,7 +101,7 @@
             <div class="col-md-4 col-sm-4 col-xs-12">
                 <div class="single-service ">
                     <div class="service-img">
-                        <a class="service-icon" href="#"><i class="flaticon-067-shopping-cart-1"></i></a>
+                        <a class="service-icon" href="#"><i class="flaticon-109-credit-card"></i></a>
                     </div>
                     <div class="main-service">
                         <div class="service-content">
@@ -129,8 +129,8 @@
             <!-- End single column-->
             <div class=" col-md-4 col-sm-4 col-xs-12">
                 <div class="single-service ">
-                    <div class="service-img">
-                        <a class="service-icon" href="#"><i class="flaticon-109-credit-card"></i></a>
+                    <div class="service-img">   
+                        <a class="service-icon" href="#"><i class="flaticon-049-fax"></i></a>
                     </div>
                     <div class="main-service">
                         <div class="service-content">
