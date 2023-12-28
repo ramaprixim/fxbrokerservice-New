@@ -54,10 +54,10 @@
                                 <div class="footer-head">
                                     <h4>Quick Link</h4>
                                     <ul class="footer-list">
-                                        <li><a href="index.html">Home</a></li>
-                                        <li><a href="#">Corporate Services</a></li>
-                                        <li><a href="#">Contact Us</a></li>
-                                        <li><a href="#">Blog</a></li>
+                                        <li><a href="index.php">Home</a></li>
+                                        <li><a href="corporateservice.php">Corporate Services</a></li>
+                                        <li><a href="contactus.php">Contact Us</a></li>
+                                        <li><a href="blog.php">Blog</a></li>
                                         
                                     </ul>
                                 </div>
@@ -70,11 +70,11 @@
                                 <div class="footer-head">
                                     <h4>Pricing</h4>
                                     <ul class="footer-list">
-                                        <li><a href="#">Standard MT4/MT5</a></li>
-                                        <li><a href="#">Advanced MT4/MT5</a></li>
-                                        <li><a href="#">About</a></li>
-                                        <li><a href="#">Our Servers</a></li>
-                                        <li><a href="#">Team</a></li>
+                                        <li><a href="standard.php">Standard MT4/MT5</a></li>
+                                        <li><a href="advanced.php">Advanced MT4/MT5</a></li>
+                                        <li><a href="about.php">About</a></li>
+                                        <li><a href="ourservers.php">Our Servers</a></li>
+                                        <li><a href="team.php">Team</a></li>
                                       
                                     </ul>
                                 </div>
@@ -87,10 +87,10 @@
                                 <div class="footer-head">
                                     <h4>Fx Solution</h4>
                                     <ul class="footer-list">
-                                        <li><a href="#">MT4</a></li>
-                                        <li><a href="#">MT5</a></li>
-                                        <li><a href="#">BrokerCRM</a></li>
-                                        <li><a href="#">PSP</a></li>
+                                        <li><a href="mt4.php">MT4</a></li>
+                                        <li><a href="mt5.php">MT5</a></li>
+                                        <li><a href="brokercrm.php">BrokerCRM</a></li>
+                                        <li><a href="psp.php">PSP</a></li>
                                       
                                     </ul>
                                 </div>
@@ -103,9 +103,9 @@
                                 <div class="footer-head">
                                     <h4>Digital</h4>
                                     <ul class="footer-list">
-                                        <li><a href="#">Broker Website</a></li>
-                                        <li><a href="#">Forex SEO</a></li>
-                                        <li><a href="#">Logo Design</a></li>
+                                        <li><a href="brokerwebsite.php">Broker Website</a></li>
+                                        <li><a href="forexseo.php">Forex SEO</a></li>
+                                        <li><a href="logodesign.php">Logo Design</a></li>
                                        
                                     </ul>
                                 </div>
