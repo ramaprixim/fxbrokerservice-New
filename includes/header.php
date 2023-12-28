@@ -109,39 +109,39 @@
                                                     </li>
                                                     <li><a href="about.php">About us</a>
                                                         <ul class="sub-menu">
-                                                            <li><a href="overservers.html">Our Servers</a></li>
-                                                            <li><a href="team.html">team</a></li>
+                                                            <li><a href="overservers.php">Our Servers</a></li>
+                                                            <li><a href="team.php">team</a></li>
                                                         </ul>
                                                     </li>
                                                     <li>
                                                         <a class="pages" href="#">FX Solution </a>
                                                         <ul class="sub-menu">
-                                                            <li><a href="mt4.html">MT4</a></li>
-                                                            <li><a href="mt5.html">MT5</a></li>
-                                                            <li><a href="brokercrm.html">BrokerCRM</a></li>
-                                                            <li><a href="psp.html">PSP</a></li>
+                                                            <li><a href="mt4.php">MT4</a></li>
+                                                            <li><a href="mt5.php">MT5</a></li>
+                                                            <li><a href="brokercrm.php">BrokerCRM</a></li>
+                                                            <li><a href="psp.php">PSP</a></li>
                                                       
                                                         </ul>
                                                     </li>
                                                     <li><a class="pages" href="#">Pricing</a>
                                                         <ul class="sub-menu">
-                                                            <li><a href="standard.html">Standard MT4/MT5</a></li>
-                                                            <li><a href="advanced.html">Advanced MT4/MT5</a></li>
+                                                            <li><a href="standard.php">Standard MT4/MT5</a></li>
+                                                            <li><a href="advanced.php">Advanced MT4/MT5</a></li>
                                                           
                                                         </ul>
                                                     </li>
                                                     <li><a class="pages" href="#">Digital</a>
                                                         <ul class="sub-menu">
-                                                            <li><a href="brokerwebsite.html">BrokerWebsite</a></li>
-                                                            <li><a href="forexseo.html">Forex SEO</a></li>
-                                                            <li><a href="logodesign.html">Logo Design</a></li>
+                                                            <li><a href="brokerwebsite.php">BrokerWebsite</a></li>
+                                                            <li><a href="forexseo.php">Forex SEO</a></li>
+                                                            <li><a href="logodesign.php">Logo Design</a></li>
                                                           
                                                         </ul>
                                                     </li>
                                                     <li><a class="pages" href="#">Corporate Services</a>
                                                         
                                                     </li>
-                                                    <li><a href="blog.html">Blog</a></li>
+                                                    <li><a href="blog.php">Blog</a></li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -165,44 +165,44 @@
                                 </div>
                                 <nav id="dropdown">
                                     <ul>
-                                        <li><a class="pages" href="index.html">Home</a>
+                                        <li><a class="pages" href="index.php">Home</a>
                                           
                                         </li>
-                                        <li><a href="about.html">About us</a></li>
+                                        <li><a href="about.php">About us</a></li>
                                         
                                             <ul class="sub-menu">
-                                                <li><a href="ourservers.html">Our Servers</a></li>
-                                                <li><a href="team.html">Team</a></li>
+                                                <li><a href="ourservers.php">Our Servers</a></li>
+                                                <li><a href="team.php">Team</a></li>
                                             
                                             </ul>
                                         </li>
                                         <li><a class="pages" href="#">FX Solution</a>
                                             <ul class="sub-menu">
-                                                <li><a href="mt4.html">MT4</a></li>
-                                                <li><a href="mt5.html">MT5</a></li>
-                                                <li><a href="brokercrm.html">BrokerCRM</a></li>
-                                                <li><a href="psp.html">PSP</a></li>
+                                                <li><a href="mt4.php">MT4</a></li>
+                                                <li><a href="mt5.php">MT5</a></li>
+                                                <li><a href="brokercrm.php">BrokerCRM</a></li>
+                                                <li><a href="psp.php">PSP</a></li>
                                               
                                             </ul>
                                         </li>
                                         <li><a class="pages" href="#">Pricing</a>
                                             <ul class="sub-menu">
                                        
-                                                <li><a href="standard.html">Standard MT4/MT5</a></li>
-                                                <li><a href="advanced.html">Advanced MT4/MT5</a></li>
+                                                <li><a href="standard.php">Standard MT4/MT5</a></li>
+                                                <li><a href="advanced.php">Advanced MT4/MT5</a></li>
                                             </ul>
                                         </li>
                                         <li><a class="pages" href="#">Digital</a>
                                             <ul class="sub-menu">
-                                                <li><a href="brokerwebsite.html">BrokerWebsite</a></li>
-                                                <li><a href="forexseo.html">Forex SEO</a></li>
-                                                <li><a href="logodesign.html">Logo Design</a></li>
+                                                <li><a href="brokerwebsite.php">BrokerWebsite</a></li>
+                                                <li><a href="forexseo.php">Forex SEO</a></li>
+                                                <li><a href="logodesign.php">Logo Design</a></li>
                                             </ul>
                                         </li>
                                         <li><a class="pages" href="#">Corporate Services</a>
                                                         
                                            </li>
-                                            <li><a href="blog.html">Blog</a></li>
+                                            <li><a href="blog.php">Blog</a></li>
                                     </ul>
                                 </nav>
                             </div>					
