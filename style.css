@@ -610,13 +610,13 @@ div#preloader {
     margin-bottom: 0px;
     color: #fff;
     padding-bottom: 20px;
-    max-width: 640px;
+    max-width: 700px;
     font-weight: 600;
 }
 .slide-content p {
     font-size: 18px;
     color: #ddd;
-    max-width: 460px;
+    max-width: 570px;
 }
 .ready-btn {
     border: 1px solid #17aac9;
@@ -732,6 +732,9 @@ div#preloader {
 .money-send .calculator-inner .nice-select .current {
     color: #fff;
 }
+.navbar-brand>img{
+    height: 45px;
+}
 button.cale-btn {
     width: 100%;
     color: #fff;
@@ -771,7 +774,7 @@ button.cale-btn:hover{
 .nice-select .option.focus, 
 .nice-select .option.selected.focus {
     background-color:transparent;
-    color: :#17aac9;
+    color:#17aac9;
 }
 /*--------------------------------*/
 /* 4. How to work Area

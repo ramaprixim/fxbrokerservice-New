@@ -90,7 +90,7 @@
                                     <div class="logo">
                                         <!-- Brand -->
                                         <a class="navbar-brand page-scroll" href="index.html">
-                                            <img src="img/logo/logo2.png" alt="">
+                                            <img src="img/logo/FXBrokerService new white logo.png" alt="">
                                         </a>
                                     </div>
                                     <!-- logo end -->
