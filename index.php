@@ -339,7 +339,7 @@
             </div>
         </div>
         <!-- End support services area -->
-        <div class="reviews-page-area bg-color fix area-padding-2">
+        <div class="reviews-area fix area-padding">
             <div class="container">
                <div class="row">
 					<div class="col-md-12 col-sm-12 col-xs-12">
@@ -350,113 +350,116 @@
 					</div>
 				</div>
                 <div class="row">
-                    <div class="reviews-content">
-                        <div class="col-md-4 col-sm-6 col-xs-12">
-                            <div class="single-testi">
-                                <div class="testi-text">
-                                    <div class="clients-text">
-                                        <div class="client-rating">
-                                            <a href="#"><i class="ti-star"></i></a>
-                                            <a href="#"><i class="ti-star"></i></a>
-                                            <a href="#"><i class="ti-star"></i></a>
-                                            <a href="#"><i class="ti-star"></i></a>
-                                            <a href="#"><i class="ti-star"></i></a>
-                                        </div>
-                                        <p>      I'm so glad I choose FXBrokerService for my trading needs.
-                                            Their services are fast, efficient, and reliable. They have
-                                            the best customer service team who are always willing to
-                                            answer any questions that I have and provide me with
-                                            valuable insights into the market.</p>
-                                            <br>
-                                    </div>
-                                    <div class="testi-img ">
-                                        <img src="img/review/1.jpg" alt="">
-                                        <div class="guest-details">
-                                            <h4>Google</h4>
-                                            <span class="guest-rev">Clients - <a href="#">Anderson</a></span>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-4 col-sm-6 col-xs-12">
-                            <div class="single-testi">
-                                <div class="testi-text">
-                                    <div class="clients-text">
-                                        <div class="client-rating">
-                                            <a href="#"><i class="ti-star"></i></a>
-                                            <a href="#"><i class="ti-star"></i></a>
-                                            <a href="#"><i class="ti-star"></i></a>
-                                            <a href="#"><i class="ti-star"></i></a>
-                                            <a href="#"><i class="ti-star"></i></a>
-                                        </div>
-                                        <p>    I highly recommend Forex Greylabel for all your forex
-                                            investment needs.FXBrokerService are top-notch and the
-                                            customer support team is always available to answer any
-                                            questions you may have.</p>
-                                            <br>
-                                            <br>
-                                    </div>
-                                    <div class="testi-img ">
-                                        <img src="img/review/2.jpg" alt="">
-                                        <div class="guest-details">
-                                            <h4>Google</h4>
-                                            <span class="guest-rev">Clients - <a href="#">Willow</a></span>
+                    <div class="reviews-top">
+                        <div class="col-md-12 col-sm-12 col-xs-12">
+                            <div class="reviews-content">
+                                <!-- start testimonial carousel -->
+                                <div class="testimonial-carousel item-indicator">
+                                    <div class="single-testi">
+                                        <div class="testi-text">
+                                            <div class="clients-text">
+                                                <div class="client-rating">
+                                                    <a href="#"><i class="ti-star"></i></a>
+                                                    <a href="#"><i class="ti-star"></i></a>
+                                                    <a href="#"><i class="ti-star"></i></a>
+                                                    <a href="#"><i class="ti-star"></i></a>
+                                                    <a href="#"><i class="ti-star"></i></a>
+                                                </div>
+                                                <p>
+                                                    I'm so glad I choose FXBrokerService for my trading needs.
+                                                    Their services are fast, efficient, and reliable. They have
+                                                    the best customer service team who are always willing to
+                                                    answer any questions that I have and provide me with
+                                                    valuable insights into the market.
+                                                  </p>                                            </div>
+                                            <div class="testi-img ">
+                                                <img src="img/review/1.jpg" alt="">
+                                                <div class="guest-details">
+                                                    <!-- <h4>Google</h4> -->
+                                                    <span class="guest-rev">Clients - <a href="#">Anderson</a></span>
+                                                </div>
+                                            </div>
                                         </div>
                                     </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-4 col-sm-6 col-xs-12">
-                            <div class="single-testi">
-                                <div class="testi-text">
-                                    <div class="clients-text">
-                                        <div class="client-rating">
-                                            <a href="#"><i class="ti-star"></i></a>
-                                            <a href="#"><i class="ti-star"></i></a>
-                                            <a href="#"><i class="ti-star"></i></a>
-                                            <a href="#"><i class="ti-star"></i></a>
-                                            <a href="#"><i class="ti-star"></i></a>
-                                        </div>
-                                        <p>                    I've been using FXBrokerService for a couple of months now
-                                            and I'm impressed by their services. Their customer service
-                                            is always on point and they are extremely knowledgeable
-                                            about SEO and the forex market. I highly recommend them for
-                                            anyone looking for quality and reliable Forex SEO services.</p>
-                                    </div>
-                                    <div class="testi-img ">
-                                        <img src="img/review/4.jpg" alt="">
-                                        <div class="guest-details">
-                                            <h4>Google</h4>
-                                            <span class="guest-rev">Clients - <a href="#">Wesley</a></span>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- End single item -->
-                        <div class="col-md-4 col-sm-6 col-xs-12">
-                            <div class="single-testi">
-                                <div class="testi-text">
-                                    <div class="clients-text">
-                                        <div class="client-rating">
-                                            <a href="#"><i class="ti-star"></i></a>
-                                            <a href="#"><i class="ti-star"></i></a>
-                                            <a href="#"><i class="ti-star"></i></a>
-                                            <a href="#"><i class="ti-star"></i></a>
-                                            <a href="#"><i class="ti-star"></i></a>
-                                        </div>
-                                        <p>   I choose FXBrokerService as my broker of choice and I'm so
-                                            glad that I did. They offer great service, with fast
-                                            execution speeds, low fees and quality customer service.</p>
-                                    </div>
-                                    <div class="testi-img ">
-                                        <img src="img/review/5.jpg" alt="">
-                                        <div class="guest-details">
-                                            <h4>Google</h4>
-                                            <span class="guest-rev">Clients - <a href="#">Audrey</a></span>
+                                    <!-- End single item -->
+                                    <div class="single-testi">
+                                        <div class="testi-text">
+                                            <div class="clients-text">
+                                                <div class="client-rating">
+                                                    <a href="#"><i class="ti-star"></i></a>
+                                                    <a href="#"><i class="ti-star"></i></a>
+                                                    <a href="#"><i class="ti-star"></i></a>
+                                                    <a href="#"><i class="ti-star"></i></a>
+                                                    <a href="#"><i class="ti-star"></i></a>
+                                                </div>
+                                                <p>
+                                                    I highly recommend Forex Greylabel for all your forex
+                                                    investment needs.FXBrokerService are top-notch and the
+                                                    customer support team is always available to answer any
+                                                    questions you may have.
+                                                  </p>                                            </div>
+                                            <div class="testi-img ">
+                                                <img src="img/review/2.jpg" alt="">
+                                                <div class="guest-details">
+                                                    <!-- <h4>Angel lima</h4> -->
+                                                    <span class="guest-rev">Clients - <a href="#">Willow</a></span>
+                                                </div>
+                                            </div>
                                         </div>
                                     </div>
+                                    <!-- End single item -->
+                                    <div class="single-testi">
+                                        <div class="testi-text">
+                                            <div class="clients-text">
+                                                <div class="client-rating">
+                                                    <a href="#"><i class="ti-star"></i></a>
+                                                    <a href="#"><i class="ti-star"></i></a>
+                                                    <a href="#"><i class="ti-star"></i></a>
+                                                    <a href="#"><i class="ti-star"></i></a>
+                                                    <a href="#"><i class="ti-star"></i></a>
+                                                </div>
+                                                <p>
+                                                    I've been using FXBrokerService for a couple of months now
+                                                    and I'm impressed by their services. Their customer service
+                                                    is always on point and they are extremely knowledgeable
+                                                    about SEO and the forex market. I highly recommend them for
+                                                    anyone looking for quality and reliable Forex SEO services.
+                                                  </p>                                            </div>
+                                            <div class="testi-img ">
+                                                <img src="img/review/3.jpg" alt="">
+                                                <div class="guest-details">
+                                                    <!-- <h4>Arthur Doil</h4> -->
+                                                    <span class="guest-rev">Clients - <a href="#">Wesley</a></span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- End single item -->
+                                    <div class="single-testi">
+                                        <div class="testi-text">
+                                            <div class="clients-text">
+                                                <div class="client-rating">
+                                                    <a href="#"><i class="ti-star"></i></a>
+                                                    <a href="#"><i class="ti-star"></i></a>
+                                                    <a href="#"><i class="ti-star"></i></a>
+                                                    <a href="#"><i class="ti-star"></i></a>
+                                                    <a href="#"><i class="ti-star"></i></a>
+                                                </div>
+                                                <p>
+                                                    I choose FXBrokerService as my broker of choice and I'm so
+                                                    glad that I did. They offer great service, with fast
+                                                    execution speeds, low fees and quality customer service.
+                                                  </p>                                            </div>
+                                            <div class="testi-img ">
+                                                <img src="img/review/4.jpg" alt="">
+                                                <div class="guest-details">
+                                                    <!-- <h4>Gabriel Hank</h4> -->
+                                                    <span class="guest-rev">Clients - <a href="#">Audrey</a></span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- End single item -->
                                 </div>
                             </div>
                         </div>
