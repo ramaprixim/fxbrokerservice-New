@@ -122,6 +122,7 @@
                         <div class="service-content">
                             <h4>Visitor Registration</h4>
                             <p>Users can sign-up on the site to continue communicating with the organization.</p>
+                            <br>
                         </div>
                     </div>
                 </div>
@@ -130,7 +131,7 @@
             <div class=" col-md-4 col-sm-4 col-xs-12">
                 <div class="single-service ">
                     <div class="service-img">   
-                        <a class="service-icon" href="#"><i class="flaticon-049-fax"></i></a>
+                        <a class="service-icon" href="#"><i class="flaticon-005-agenda"></i></a>
                     </div>
                     <div class="main-service">
                         <div class="service-content">
@@ -144,7 +145,7 @@
             <div class="col-md-4 col-sm-4 col-xs-12">
                 <div class="single-service ">
                     <div class="service-img">
-                        <a class="service-icon" href="#"><i class="flaticon-091-mobile-phone-2"></i></a>
+                        <a class="service-icon" href="#"><i class="flaticon-092-chat"></i></a>
                     </div>
                     <div class="main-service">
                         <div class="service-content">
@@ -158,7 +159,7 @@
             <div class="col-md-4 col-sm-4 col-xs-12">
                 <div class="single-service ">
                     <div class="service-img">
-                        <a class="service-icon" href="#"><i class="flaticon-040-mobile-phone-4"></i></a>
+                        <a class="service-icon" href="#"><i class="flaticon-106-floppy-disk"></i></a>
                     </div>
                     <div class="main-service">
                         <div class="service-content">
@@ -172,7 +173,7 @@
             <div class=" col-md-4 col-sm-4 col-xs-12">
                 <div class="single-service ">
                     <div class="service-img">
-                        <a class="service-icon" href="#"><i class="flaticon-109-credit-card"></i></a>
+                        <a class="service-icon" href="#"><i class="flaticon-085-clipboard"></i></a>
                     </div>
                     <div class="main-service">
                         <div class="service-content">
@@ -186,7 +187,7 @@
             <div class="col-md-4 col-sm-4 col-xs-12">
                 <div class="single-service ">
                     <div class="service-img">
-                        <a class="service-icon" href="#"><i class="flaticon-091-mobile-phone-2"></i></a>
+                        <a class="service-icon" href="#"><i class="flaticon-010-newspaper"></i></a>
                     </div>
                     <div class="main-service">
                         <div class="service-content">
