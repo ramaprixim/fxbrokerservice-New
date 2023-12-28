@@ -1,123 +1,138 @@
+<style>
+    .footer-social-icon>li{
+        padding: 0px 7px;
+    }
+    .footer-content{
+        margin-left: 25px;
+    }
+</style>
+
+
 <footer class="footer-1">
             <div class="footer-area">
                 <div class="container">
                     <div class="row">
-                       <!-- Start column-->
-                       <div class="col-md-4 col-sm-6 col-xs-12">
-                            <div class="footer-content logo-footer">
-                                <div class="footer-head">
-                                    <div class="footer-logo">
-                                    	<a class="footer-black-logo" href="#"><img src="img/logo/logo2.png" alt=""></a>
-                                    </div>
-                                    <ul class="footer-contact-list">
-                        <li><span>Address:</span>
-                        
-                       <strong>FXBrokerService</strong>  <br>
-                       Ground Floor, 60 Hindma Square Block
-                       Third Floor, Kingstown, Saint Vincent & the Grenadines, </li>
-                        <li><span>Phone:</span> <a href="tel:+14087094360">+14087094360</a>
-                        </li>
-                        <li><span>Email:</span> <a href="mailto:sales@fxbrokerservice.com">sales@fxbrokerservice.com</a>
-                        </li>
-                    </ul>
-                    <ul class="footer-social-icon">
-                        <li><a href="https://www.facebook.com/fxbrokerservice" target="_blank"><i class="fab fa-facebook-f"
-                                    style="height: 32px; width: 32px; line-height: 32px;"></i></a>
-                        </li>
+                        <div class="col-md-4">
+<div class="row">
+    <div class="col-md-12">
+        <div class="footer-content logo-footer">
+            <div class="footer-head">
+                <div class="footer-logo">
+                    <a class="footer-black-logo" href="#"><img src="img/logo/logo2.png" alt=""></a>
+                </div>
+                <ul class="footer-contact-list">
+    <li><span>Address:</span>
+    
+   <strong>FXBrokerService</strong>  <br>
+   Ground Floor, 60 Hindma Square Block
+   Third Floor, Kingstown, Saint Vincent & the Grenadines, </li>
+    <li><span>Phone:</span> <a href="tel:+14087094360">+14087094360</a>
+    </li>
+    <li><span>Email:</span> <a href="mailto:sales@fxbrokerservice.com">sales@fxbrokerservice.com</a>
+    </li>
+</ul>
+<ul class="footer-social-icon" style="display: flex;">
+    <li><a href="https://www.facebook.com/fxbrokerservice" target="_blank"><i class="fa fa-facebook"></i></a>
+    </li>
 
-                        <li><a href="https://join.skype.com/invite/uXpRdZJUgs4i" target="_blank"><i class="fab fa-skype"></i></a>
-                        </li>
-                        <li><a href="https://twitter.com/fxbrokerservice
-                            " target="_blank"><i class="fab fa-twitter"></i></a>
-                        </li>
-                       
-                        <li><a href="https://wa.me/+14087094360?text=Hi"  target="_blank"><i class="fab fa-whatsapp"></i></a>
-                        </li>
-                        <li><a href="https://t.me/FXBROKERSERVICE" target="_blank"><i class="fab fa-telegram"></i></a>
-                        </li>
-                        <li><a href="https://www.instagram.com/fxbrokerservice/" target="_blank"><i class="fab fa-instagram"></i></a>
-                        </li>
-                    </ul>
-                                    <div class="subs-feilds">
-                                        <div class="suscribe-input">
-                                            <input type="email" class="email form-control width-80" id="sus_email" placeholder="Type Email">
-                                            <button type="submit" id="sus_submit" class="add-btn">Subscribe</button>
+    <li><a href="https://join.skype.com/invite/uXpRdZJUgs4i" target="_blank"><i class="fa fa-skype"></i></a>
+    </li>
+    <li><a href="https://twitter.com/fxbrokerservice
+        " target="_blank"><i class="fa fa-twitter"></i></a>
+    </li>
+   
+    <li><a href="https://wa.me/+14087094360?text=Hi"  target="_blank"><i class="fa fa-whatsapp"></i></a>
+    </li>
+    <li><a href="https://www.instagram.com/fxbrokerservice/" target="_blank"><i class="fa fa-instagram"></i></a>
+    </li>
+</ul>
+                <div class="subs-feilds">
+                    <div class="suscribe-input">
+                        <input type="email" class="email form-control width-80" id="sus_email" placeholder="Type Email">
+                        <button type="submit" id="sus_submit" class="add-btn">Subscribe</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-6">
+        
+    </div>
+</div>
+                        </div>
+                        <div class="col-md-8">
+                            <div class="row">
+                                <div class="col-md-6 col-sm-3 col-xs-12">
+                                    <div class="footer-content">
+                                        <div class="footer-head">
+                                            <h4>Quick Link</h4>
+                                            <ul class="footer-list">
+                                                <li><a href="index.php">Home</a></li>
+                                                <li><a href="corporateservice.php">Corporate Services</a></li>
+                                                <li><a href="contactus.php">Contact Us</a></li>
+                                                <li><a href="blog.php">Blog</a></li>
+                                                
+                                            </ul>
                                         </div>
                                     </div>
                                 </div>
-                            </div>
-                        </div>
-                        <!-- End column-->
-                        <!-- Start column-->
-                        <div class="col-md-2 col-sm-3 col-xs-12">
-                            <div class="footer-content">
-                                <div class="footer-head">
-                                    <h4>Quick Link</h4>
-                                    <ul class="footer-list">
-                                        <li><a href="index.php">Home</a></li>
-                                        <li><a href="corporateservice.php">Corporate Services</a></li>
-                                        <li><a href="contactus.php">Contact Us</a></li>
-                                        <li><a href="blog.php">Blog</a></li>
-                                        
-                                    </ul>
+                                <!-- End column-->
+                                <!-- Start column-->
+                                <div class="col-md-6 col-sm-3 col-xs-12">
+                                    <div class="footer-content">
+                                        <div class="footer-head">
+                                            <h4>Pricing</h4>
+                                            <ul class="footer-list">
+                                                <li><a href="standard.php">Standard MT4/MT5</a></li>
+                                                <li><a href="advanced.php">Advanced MT4/MT5</a></li>
+                                                <li><a href="about.php">About</a></li>
+                                                <li><a href="ourservers.php">Our Servers</a></li>
+                                                <li><a href="team.php">Team</a></li>
+                                              
+                                            </ul>
+                                        </div>
+                                    </div>
                                 </div>
-                            </div>
-                        </div>
-                        <!-- End column-->
-                        <!-- Start column-->
-                        <div class="col-md-2 col-sm-3 col-xs-12">
-                            <div class="footer-content">
-                                <div class="footer-head">
-                                    <h4>Pricing</h4>
-                                    <ul class="footer-list">
-                                        <li><a href="standard.php">Standard MT4/MT5</a></li>
-                                        <li><a href="advanced.php">Advanced MT4/MT5</a></li>
-                                        <li><a href="about.php">About</a></li>
-                                        <li><a href="ourservers.php">Our Servers</a></li>
-                                        <li><a href="team.php">Team</a></li>
-                                      
-                                    </ul>
+                                <!-- End column-->
+                                <!-- Start column-->
+                                <div class="col-md-6 hidden-sm col-xs-12 mt-4" style="margin-top: 20px;">
+                                    <div class="footer-content">
+                                        <div class="footer-head">
+                                            <h4>Fx Solution</h4>
+                                            <ul class="footer-list">
+                                                <li><a href="mt4.php">MT4</a></li>
+                                                <li><a href="mt5.php">MT5</a></li>
+                                                <li><a href="brokercrm.php">BrokerCRM</a></li>
+                                                <li><a href="psp.php">PSP</a></li>
+                                              
+                                            </ul>
+                                        </div>
+                                    </div>
                                 </div>
-                            </div>
-                        </div>
-                        <!-- End column-->
-                        <!-- Start column-->
-                        <div class="col-md-2 hidden-sm col-xs-12">
-                            <div class="footer-content">
-                                <div class="footer-head">
-                                    <h4>Fx Solution</h4>
-                                    <ul class="footer-list">
-                                        <li><a href="mt4.php">MT4</a></li>
-                                        <li><a href="mt5.php">MT5</a></li>
-                                        <li><a href="brokercrm.php">BrokerCRM</a></li>
-                                        <li><a href="psp.php">PSP</a></li>
-                                      
-                                    </ul>
+    
+                                <!-- End column-->
+                                <!-- Start column-->
+                                <div class="col-md-6 hidden-sm col-xs-12 mt-4" style="margin-top: 20px;">
+                                     <div class="footer-content last-content">
+                                        <div class="footer-head">
+                                            <h4>Digital</h4>
+                                            <ul class="footer-list">
+                                                <li><a href="brokerwebsite.php">Broker Website</a></li>
+                                                <li><a href="forexseo.php">Forex SEO</a></li>
+                                                <li><a href="logodesign.php">Logo Design</a></li>
+                                               
+                                            </ul>
+                                        </div>
+                                    </div>
                                 </div>
-                            </div>
+                            </div> 
                         </div>
-                        <!-- End column-->
-                        <!-- Start column-->
-                        <div class="col-md-2 hidden-sm col-xs-12">
-                             <div class="footer-content last-content">
-                                <div class="footer-head">
-                                    <h4>Digital</h4>
-                                    <ul class="footer-list">
-                                        <li><a href="brokerwebsite.php">Broker Website</a></li>
-                                        <li><a href="forexseo.php">Forex SEO</a></li>
-                                        <li><a href="logodesign.php">Logo Design</a></li>
-                                       
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- End column-->
                     </div>
                 </div>
             </div>
             
             <div class="container"
-                style="padding: 30px; font-size: 15px;border: 1px solid rgb(117, 110, 110); margin-top: 20px; border-radius: 10px;">
+            style="padding: 30px;font-size: 15px;border: 1px solid rgb(117, 110, 110);margin-top: 20px;margin-bottom: 30px;border-radius: 10px;">
                 <span style="color: grey;font-size: 15px;"> <span style="color: white;">Disclaimer </span> <br>
                 <span style="color:white;">Nature of Business -</span> 
                 <span 
