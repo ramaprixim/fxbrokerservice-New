@@ -107,40 +107,41 @@
                                                 <ul class="nav navbar-nav navbar-right">
                                                     <li><a class="pages" href="index.php">Home</a>
                                                     </li>
-                                                    <li><a href="about.php">About us</a></li>
-                                                    <li><a class="pages" href="#">Pages</a>
+                                                    <li><a href="about.php">About us</a>
                                                         <ul class="sub-menu">
+                                                            <li><a href="overservers.html">Our Servers</a></li>
                                                             <li><a href="team.html">team</a></li>
-                                                            <li><a href="faq.html">FAQ</a></li>
-                                                            <li><a href="pricing.html">Pricing</a></li>
-                                                            <li><a href="review.html">Reviews</a></li>
-                                                            <li><a href="terms.html">Terms & Conditions</a></li>
-                                                            <li><a href="login.html">Login</a></li>
-                                                            <li><a href="signup.html">Register</a></li>
                                                         </ul>
                                                     </li>
-                                                    <li><a class="pages" href="#">Dashboard</a>
+                                                    <li>
+                                                        <a class="pages" href="#">FX Solution </a>
                                                         <ul class="sub-menu">
-                                                            <li><a href="a-dashboard.html">Dashboard</a></li>
-                                                            <li><a href="a-send-money.html">Send Money</a></li>
-                                                            <li><a href="a-request-money.html">Request Money</a></li>
-                                                            <li><a href="a-withdraw-money.html">Withdraw Money</a></li>
-                                                            <li><a href="a-deposite-money.html">Deposite Money</a></li>
-                                                            <li><a href="a-currency-change.html">Currency Exchange</a></li>
-                                                            <li><a href="a-add-bank.html">Bank Account</a></li>
-                                                            <li><a href="a-card-number.html">Card Number</a></li>
-                                                            <li><a href="a-transection-log.html">Transection Log</a></li>
-                                                            <li><a href="a-setting-money.html">Notifications</a></li>
+                                                            <li><a href="mt4.html">MT4</a></li>
+                                                            <li><a href="mt5.html">MT5</a></li>
+                                                            <li><a href="brokercrm.html">BrokerCRM</a></li>
+                                                            <li><a href="psp.html">PSP</a></li>
+                                                      
                                                         </ul>
                                                     </li>
-                                                    <li><a class="pages" href="#">Blog</a>
+                                                    <li><a class="pages" href="#">Pricing</a>
                                                         <ul class="sub-menu">
-                                                            <li><a href="blog.html">Blog grid</a></li>
-                                                            <li><a href="blog-sidebar.html">Blog Sidebar</a></li>
-                                                            <li><a href="blog-details.html">Blog Details</a></li>
+                                                            <li><a href="standard.html">Standard MT4/MT5</a></li>
+                                                            <li><a href="advanced.html">Advanced MT4/MT5</a></li>
+                                                          
                                                         </ul>
                                                     </li>
-                                                    <li><a href="contact.html">contacts</a></li>
+                                                    <li><a class="pages" href="#">Digital</a>
+                                                        <ul class="sub-menu">
+                                                            <li><a href="brokerwebsite.html">BrokerWebsite</a></li>
+                                                            <li><a href="forexseo.html">Forex SEO</a></li>
+                                                            <li><a href="logodesign.html">Logo Design</a></li>
+                                                          
+                                                        </ul>
+                                                    </li>
+                                                    <li><a class="pages" href="#">Corporate Services</a>
+                                                        
+                                                    </li>
+                                                    <li><a href="blog.html">Blog</a></li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -165,45 +166,43 @@
                                 <nav id="dropdown">
                                     <ul>
                                         <li><a class="pages" href="index.html">Home</a>
-                                            <ul class="sub-menu">
-                                                <li><a href="index.html">Home 01</a></li>
-                                                <li><a href="index-2.html">Home 02</a></li>
-                                            </ul>
+                                          
                                         </li>
                                         <li><a href="about.html">About us</a></li>
-                                        <li><a class="pages" href="#">Pages</a>
+                                        
                                             <ul class="sub-menu">
-                                                <li><a href="team.html">team</a></li>
-                                                <li><a href="faq.html">FAQ</a></li>
-                                                <li><a href="pricing.html">Pricing</a></li>
-                                                <li><a href="review.html">Reviews</a></li>
-                                                <li><a href="terms.html">Terms & Conditions</a></li>
-                                                <li><a href="login.html">Login</a></li>
-                                                <li><a href="signup.html">Register</a></li>
+                                                <li><a href="ourservers.html">Our Servers</a></li>
+                                                <li><a href="team.html">Team</a></li>
+                                            
                                             </ul>
                                         </li>
-                                        <li><a class="pages" href="#">Dashboard</a>
+                                        <li><a class="pages" href="#">FX Solution</a>
                                             <ul class="sub-menu">
-                                                <li><a href="a-dashboard.html">Dashboard</a></li>
-                                                <li><a href="a-send-money.html">Send Money</a></li>
-                                                <li><a href="a-request-money.html">Request Money</a></li>
-                                                <li><a href="a-withdraw-money.html">Withdraw Money</a></li>
-                                                <li><a href="a-deposite-money.html">Deposite Money</a></li>
-                                                <li><a href="a-currency-change.html">Currency Exchange</a></li>
-                                                <li><a href="a-add-bank.html">Bank Account</a></li>
-                                                <li><a href="a-card-number.html">Card Number</a></li>
-                                                <li><a href="a-transection-log.html">Transection Log</a></li>
-                                                <li><a href="a-setting-money.html">Notifications</a></li>
+                                                <li><a href="mt4.html">MT4</a></li>
+                                                <li><a href="mt5.html">MT5</a></li>
+                                                <li><a href="brokercrm.html">BrokerCRM</a></li>
+                                                <li><a href="psp.html">PSP</a></li>
+                                              
                                             </ul>
                                         </li>
-                                        <li><a class="pages" href="#">Blog</a>
+                                        <li><a class="pages" href="#">Pricing</a>
                                             <ul class="sub-menu">
-                                                <li><a href="blog.html">Blog grid</a></li>
-                                                <li><a href="blog-sidebar.html">Blog Sidebar</a></li>
-                                                <li><a href="blog-details.html">Blog Details</a></li>
+                                       
+                                                <li><a href="standard.html">Standard MT4/MT5</a></li>
+                                                <li><a href="advanced.html">Advanced MT4/MT5</a></li>
                                             </ul>
                                         </li>
-                                        <li><a href="contact.html">contacts</a></li>
+                                        <li><a class="pages" href="#">Digital</a>
+                                            <ul class="sub-menu">
+                                                <li><a href="brokerwebsite.html">BrokerWebsite</a></li>
+                                                <li><a href="forexseo.html">Forex SEO</a></li>
+                                                <li><a href="logodesign.html">Logo Design</a></li>
+                                            </ul>
+                                        </li>
+                                        <li><a class="pages" href="#">Corporate Services</a>
+                                                        
+                                           </li>
+                                            <li><a href="blog.html">Blog</a></li>
                                     </ul>
                                 </nav>
                             </div>					
