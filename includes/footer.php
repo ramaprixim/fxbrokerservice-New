@@ -9,9 +9,35 @@
                                     <div class="footer-logo">
                                     	<a class="footer-black-logo" href="#"><img src="img/logo/logo2.png" alt=""></a>
                                     </div>
-                                    <p>
-                                        Replacing a  maintains the amount of lines. When replacing a selection. help agencies to define their new business objectives and then create. Replacing a  maintains the amount of lines. 
-                                    </p>
+                                    <ul class="footer-contact-list">
+                        <li><span>Address:</span>
+                        
+                       <strong>FXBrokerService</strong>  <br>
+                       Ground Floor, 60 Hindma Square Block
+                       Third Floor, Kingstown, Saint Vincent & the Grenadines, </li>
+                        <li><span>Phone:</span> <a href="tel:+14087094360">+14087094360</a>
+                        </li>
+                        <li><span>Email:</span> <a href="mailto:sales@fxbrokerservice.com">sales@fxbrokerservice.com</a>
+                        </li>
+                    </ul>
+                    <ul class="footer-social-icon">
+                        <li><a href="https://www.facebook.com/fxbrokerservice" target="_blank"><i class="fab fa-facebook-f"
+                                    style="height: 32px; width: 32px; line-height: 32px;"></i></a>
+                        </li>
+
+                        <li><a href="https://join.skype.com/invite/uXpRdZJUgs4i" target="_blank"><i class="fab fa-skype"></i></a>
+                        </li>
+                        <li><a href="https://twitter.com/fxbrokerservice
+                            " target="_blank"><i class="fab fa-twitter"></i></a>
+                        </li>
+                       
+                        <li><a href="https://wa.me/+14087094360?text=Hi"  target="_blank"><i class="fab fa-whatsapp"></i></a>
+                        </li>
+                        <li><a href="https://t.me/FXBROKERSERVICE" target="_blank"><i class="fab fa-telegram"></i></a>
+                        </li>
+                        <li><a href="https://www.instagram.com/fxbrokerservice/" target="_blank"><i class="fab fa-instagram"></i></a>
+                        </li>
+                    </ul>
                                     <div class="subs-feilds">
                                         <div class="suscribe-input">
                                             <input type="email" class="email form-control width-80" id="sus_email" placeholder="Type Email">
@@ -26,14 +52,13 @@
                         <div class="col-md-2 col-sm-3 col-xs-12">
                             <div class="footer-content">
                                 <div class="footer-head">
-                                    <h4>Products</h4>
+                                    <h4>Quick Link</h4>
                                     <ul class="footer-list">
-                                        <li><a href="#">Bank Card</a></li>
-                                        <li><a href="#">Deposit Skim</a></li>
-                                        <li><a href="#">Affiliate</a></li>
-                                        <li><a href="#">Software</a></li>
-                                        <li><a href="#">Branding </a></li>
-                                        <li><a href="#">Promotion </a></li>
+                                        <li><a href="index.html">Home</a></li>
+                                        <li><a href="#">Corporate Services</a></li>
+                                        <li><a href="#">Contact Us</a></li>
+                                        <li><a href="#">Blog</a></li>
+                                        
                                     </ul>
                                 </div>
                             </div>
@@ -43,14 +68,14 @@
                         <div class="col-md-2 col-sm-3 col-xs-12">
                             <div class="footer-content">
                                 <div class="footer-head">
-                                    <h4>Payments</h4>
+                                    <h4>Pricing</h4>
                                     <ul class="footer-list">
-                                        <li><a href="#">Send Mony</a></li>
-                                        <li><a href="#">Receive Money </a></li>
-                                        <li><a href="#">Shopping</a></li>
-                                        <li><a href="#">Online payment</a></li>
-                                        <li><a href="#">pay a Friend </a></li>
-                                        <li><a href="#">pay a bill </a></li>
+                                        <li><a href="#">Standard MT4/MT5</a></li>
+                                        <li><a href="#">Advanced MT4/MT5</a></li>
+                                        <li><a href="#">About</a></li>
+                                        <li><a href="#">Our Servers</a></li>
+                                        <li><a href="#">Team</a></li>
+                                      
                                     </ul>
                                 </div>
                             </div>
@@ -60,14 +85,13 @@
                         <div class="col-md-2 hidden-sm col-xs-12">
                             <div class="footer-content">
                                 <div class="footer-head">
-                                    <h4>Company</h4>
+                                    <h4>Fx Solution</h4>
                                     <ul class="footer-list">
-                                        <li><a href="#">About us</a></li>
-                                        <li><a href="#">Services </a></li>
-                                        <li><a href="#">Events</a></li>
-                                        <li><a href="#">Promotion</a></li>
-                                        <li><a href="#">Transition</a></li>
-                                        <li><a href="#">Social Media</a></li>
+                                        <li><a href="#">MT4</a></li>
+                                        <li><a href="#">MT5</a></li>
+                                        <li><a href="#">BrokerCRM</a></li>
+                                        <li><a href="#">PSP</a></li>
+                                      
                                     </ul>
                                 </div>
                             </div>
@@ -77,14 +101,12 @@
                         <div class="col-md-2 hidden-sm col-xs-12">
                              <div class="footer-content last-content">
                                 <div class="footer-head">
-                                    <h4>Support</h4>
+                                    <h4>Digital</h4>
                                     <ul class="footer-list">
-                                        <li><a href="#">Customer Care</a></li>
-                                        <li><a href="#">Live chat</a></li>
-                                        <li><a href="#">Notification</a></li>
-                                        <li><a href="#">Privacy</a></li>
-                                        <li><a href="#">Terms & Condition</a></li>
-                                        <li><a href="#">Contact us </a></li>
+                                        <li><a href="#">Broker Website</a></li>
+                                        <li><a href="#">Forex SEO</a></li>
+                                        <li><a href="#">Logo Design</a></li>
+                                       
                                     </ul>
                                 </div>
                             </div>
@@ -92,6 +114,23 @@
                         <!-- End column-->
                     </div>
                 </div>
+            </div>
+            
+            <div class="container"
+                style="padding: 30px; font-size: 15px;border: 1px solid rgb(117, 110, 110); margin-top: 20px; border-radius: 10px;">
+                <span style="color: grey;font-size: 15px;"> <span style="color: white;">Disclaimer </span> <br>
+                <span style="color:white;">Nature of Business -</span> 
+                <span 
+                        style="color: grey;">  FXBrokerService is provide brokerage and financial services, including those advertised on this website.
+                        INTELLECTUAL PROPERTY - FXBrokerService does not own any money or functionality based solely on technical services and fixed monthly bills. All intellectual property, copyrights and trademarks mentioned on this website may belong to their respective owners and FXBrokerService does not make any right or claim to them. The use of the respective brands or product names does not constitute an endorsement of FXBrokerService by the Company or the Company by FXBrokerService and does not necessarily imply the existence of a contractual relationship.
+                        </span>
+                    <br><br>
+
+                    <span style="color:white;">Reproduction- </span> <span style="color: grey;">Website visitors are prohibited from copying, linking to, posting content or uploading data to external sources. These prohibitions also apply to the copying, transmission or reproduction of data in whole or in part, regardless of method and form, including elements such as text, audio tracks, video content and other elements.
+                    </span>
+                    <br> <br>
+                    <span style="color: aliceblue;">KYC-</span> <span style="color: grey;">Know Your Customer - All individuals/entities seeking to register for White Label are subject to the FXBrokerService verification process. This includes Know Your Customer (KYC) documents submitted by the approaching beneficiary/customer.
+                    </span>
             </div>
             <!-- Start footer bottom area -->
             <div class="footer-area-bottom">
@@ -108,6 +147,7 @@
                     </div>
                 </div>
             </div>
+            
             <!-- End footer bottom area -->
         </footer>
         <!-- End footer area -->
