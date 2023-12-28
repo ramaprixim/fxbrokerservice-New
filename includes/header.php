@@ -81,7 +81,7 @@
             <!-- End header top bar -->
             <!-- Start header menu area -->
             <div id="sticker" class="header-area hidden-xs">
-                <div class="container">
+                <div class="container-xl" style="margin-right: 130px;margin-left: 180px;">
                     <div class="row">
                         <div class="col-md-12 col-sm-12">
                             <div class="row">
