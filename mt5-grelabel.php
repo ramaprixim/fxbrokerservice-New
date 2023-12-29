@@ -32,62 +32,71 @@
                     <div class="pricing-content">
                         <div class="col-md-4 col-sm-4 col-xs-12">
                             <div class="table-list">
-                                <div class="top-price-inner">
-                                    <h4>Basic</h4>
+                                <div class="top-price-inner text-center">
+                                    <h4>MT5-Generic</h4>
                                     <div class="rates">
-                                        <span class="prices"><span class="dolar">$</span>15</span><span class="users">Per Month</span>
+                                        <span class="prices"><span class="dolar">$</span>750</span><span class="users">Per Month</span>
                                     </div>
                                 </div>
-                                <ol>
-                                    <li class="check">Online System</li>
-                                    <li class="check">Free apps</li>
-                                    <li class="check cross">full access</li>
-                                    <li class="check">live preview</li>
-                                    <li class="check cross">Support unlimited</li>
+                                <ol style="padding: 0px 20px;">
+                                    <li>Groups &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;         4 </li>
+                                    <li>Managers&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      1</li>
+                                    <li>Clients&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;       250</li>
+                                    <li>Symbols&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;        100+</li>
+                                    <li>API Access &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;      No</li>
+                                    <li>CRM&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;     No</li>
+                                    <li>Setup Free&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;      $500</li>
+                                    <li>Monthly Free &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;     $750</li>
                                 </ol>
-                                <div class="price-btn">
-                                    <a href="order-from.html">Buy now</a>
+                                <div class="price-btn text-center">
+                                    <a href="contact-us.php">Enqire Now</a>
                                 </div>
                             </div>
                         </div>
                         <div class="col-md-4 col-sm-4 col-xs-12">
                             <div class="table-list">
                                 <span class="base">Best sale</span>
-                                <div class="top-price-inner">
-                                    <h4>Standard</h4>
+                                <div class="top-price-inner text-center">
+                                    <h4>MT5-Shared</h4>
                                     <div class="rates">
-                                        <span class="prices"><span class="dolar">$</span>80</span><span class="users">Per Month</span>
+                                        <span class="prices"><span class="dolar">$</span>1250</span><span class="users">Per Month</span>
                                     </div>
                                 </div>
                                 <ol>
-                                    <li class="check">Online System</li>
-                                    <li class="check">Free apps</li>
-                                    <li class="check cross">full access</li>
-                                    <li class="check">live preview</li>
-                                    <li class="check">Support unlimited</li>
+                                    <li>Groups &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;         6</li>
+                                    <li>Managers&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      2</li>
+                                    <li>Clients&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;       250</li>
+                                    <li>Symbols&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;        125+</li>
+                                    <li>API Access &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;      Yes</li>
+                                    <li>CRM&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;     No</li>
+                                    <li>Setup Free&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;      $1000</li>
+                                    <li>Monthly Free &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;     $1250</li>
                                 </ol>
-                                <div class="price-btn">
-                                    <a href="order-from.html">Buy now</a>
+                                <div class="price-btn text-center">
+                                    <a href="contact-us.php">Enqire Now</a>
                                 </div>
                             </div>
                         </div>
                         <div class="col-md-4 col-sm-4 col-xs-12">
                             <div class="table-list">
                                 <div class="top-price-inner">
-                                    <h4>Premium</h4>
+                                    <h4>MT5-Branded</h4>
                                     <div class="rates">
-                                        <span class="prices"><span class="dolar">$</span>99</span><span class="users">Per Month</span>
+                                        <span class="prices"><span class="dolar">$</span>3500</span><span class="users">Per Month</span>
                                     </div>
                                 </div>
                                 <ol>
-                                    <li class="check">Online System</li>
-                                    <li class="check">Free apps</li>
-                                    <li class="check">full access</li>
-                                    <li class="check">live preview</li>
-                                    <li class="check">Support unlimited</li>
+                                    <li>Groups &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;         8</li>
+                                    <li>Managers&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      4</li>
+                                    <li>Clients&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;       300</li>
+                                    <li>Symbols&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;        150+</li>
+                                    <li>API Access &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;      Yes</li>
+                                    <li>CRM&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;     Yes</li>
+                                    <li>Setup Free&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;      $1500</li>
+                                    <li>Monthly Free &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;     $3500</li>
                                 </ol>
-                                <div class="price-btn">
-                                    <a href="order-from.html">Buy now</a>
+                                <div class="price-btn text-center">
+                                    <a href="contact-us.php">Enqire Now</a>
                                 </div>
                             </div>
                         </div>

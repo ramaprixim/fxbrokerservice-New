@@ -1,5 +1,13 @@
 <?php include("includes/header.php"); ?>
 <!-- Start breadcrumbs area -->
+<style>
+    h3{
+        color:Black;
+        font-size: 100px;
+    padding: 100px 0px;
+    text-align: center;
+    }
+</style>
 <div class="page-area">
     <div class="breadcumb-overlay"></div>
     <div class="container">
@@ -18,6 +26,10 @@
         </div>
     </div>
 </div>
-
+<div class="coming_soon">
+<div>
+    <h3>Coming Soon</h3>
+</div>
+</div>
 
 <?php include("includes/footer.php"); ?>
