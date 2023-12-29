@@ -18,7 +18,7 @@
         <div class="footer-content logo-footer">
             <div class="footer-head">
                 <div class="footer-logo">
-                    <a class="footer-black-logo" href="#"><img src="img/logo/FXBrokerService new white logo.png" alt=""></a>
+                    <a class="footer-black-logo" href="#"><img src="img/logo/FXBrokerService new white logo.png" alt="" style="height: 50px;"></a>
                 </div>
                 <ul class="footer-contact-list">
     <li><span>Address:</span>
@@ -154,10 +154,19 @@
                         <div class="col-md-6 col-sm-6 col-xs-12">
                             <div class="copyright">
                                 <p>
-                                    Copyright © 2020
-                                    <a href="#">Bultifore</a> All Rights Reserved
+                                
+                                    <a href="#"></a> © 2023 - All Rights Reserved
                                 </p>
                             </div>
+                        </div>
+                        <div class="col-md-6 col-sm-6 col-xs-12" >
+                            <ul style="display: flex; justify-content: flex-end;">
+                                <li> <a href="terms-condition.php">Terms & Conditions</a>
+                                </li>
+                                
+                                <li > <a href="privacy-policy.php">&nbsp; Privacy Policy</a>
+                                </li>
+                            </ul>
                         </div>
                     </div>
                 </div>

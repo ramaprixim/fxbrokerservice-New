@@ -340,7 +340,7 @@
         </div>
         <!-- End support services area -->
         <div class="reviews-area fix area-padding">
-            <div class="container">
+            <div class="container-fluid">
                <div class="row">
 					<div class="col-md-12 col-sm-12 col-xs-12">
 						<div class="section-headline text-center">
@@ -495,7 +495,7 @@
                                                     </a>
                                                 </h4>
                                             </div>
-                                            <div id="check1" class="panel-collapse collapse in">
+                                            <div id="check1" class="panel-collapse collapse">
                                                 <div class="panel-body">
                                                     <p>
                                                         Starting a Forex Brokerage Company can be a lucrative business,
@@ -595,7 +595,7 @@
                                                     </a>
                                                 </h4>
                                             </div>
-                                            <div id="check5" class="panel-collapse collapse in">
+                                            <div id="check5" class="panel-collapse collapse">
                                                 <div class="panel-body">
                                                     <p>
                                                         Opening a Forex Brokerage Firm requires the fulfillment of

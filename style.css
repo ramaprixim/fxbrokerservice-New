@@ -309,9 +309,9 @@ div#preloader {
 .topbar-right>ul>li>a {
     color: #c4d5f6;
     display: block;
-    padding: 12px 30px 10px 0px;
+    padding: 12px 14px 10px 0px;
     position: relative;
-    font-size: 15px;
+    font-size: 18px;
 }
 .topbar-right ul li ul {
     background: #1b2654;
@@ -338,7 +338,7 @@ div#preloader {
 }
 .topbar-right> ul>li>a::after {
     color: #c4d5f6;
-    content: "\e64b";
+    /* content: "\e64b"; */
     font-family: themify;
     font-size: 12px;
     position: absolute;
@@ -572,6 +572,9 @@ div#preloader {
 }
 .mean-container .mean-nav ul li {
     width: 99.7%;
+}
+.container-fluid{
+    width: 1719px;
 }
 /*----------------------------------------*/
 /*  3. Intro Area

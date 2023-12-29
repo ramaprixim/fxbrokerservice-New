@@ -55,23 +55,44 @@
                         <div class=" col-md-6 col-sm-6 col-xs-12">
                             <div class="topbar-left">
                                 <ul>
-                                    <li><a href="#"><i class="fa fa-envelope"></i> info@bultifor.com</a></li>
-                                    <li><a href="#"><i class="fa fa-clock-o"></i> Live support</a></li>
+                                    <li><a href="mailto:sales@fxbrokerservice.com"><i class="fa fa-envelope"></i>sales@fxbrokerservice.com</a></li>
+                                    <li><a href="https://join.skype.com/invite/uXpRdZJUgs4i"><i class="fa fa-skype"></i>Skype</a></li>
+                                    
                                 </ul>  
                             </div>
                         </div>
                         <div class="col-md-6 col-sm-6 col-xs-12">
                             <div class="topbar-right">
 								<ul>
-                                    <li><a href="#"><img src="img/icon/w1.png" alt="">ENG</a>
-                                       <ul>
-                                           <li><a href="#"><img src="img/icon/w2.png" alt="">DEU</a>
-                                           <li><a href="#"><img src="img/icon/w3.png" alt="">ESP</a>
-                                           <li><a href="#"><img src="img/icon/w4.png" alt="">FRA</a>
-                                           <li><a href="#"><img src="img/icon/w5.png" alt="">KSA</a>
-                                       </ul>
-                                    </li>
-                                    <li><a href="login.html"><img src="img/icon/login.png" alt="">Login</a>
+                                <li>
+                  <a href="https://wa.me/+14087094360?text=Hi" target="_blank"
+                    ><i class="fa fa-whatsapp"></i
+                  ></a>
+                </li>
+                                <li>
+                  <a href="https://t.me/FXBROKERSERVICE" target="_blank"
+                    ><i class="fa fa-telegram"></i
+                  ></a>
+                </li>
+                <li>
+                  <a
+                    href="https://www.facebook.com/fxbrokerservice"
+                    target="_blank"
+                    ><i class="fa fa-facebook-f"></i
+                  ></a>
+                </li>
+                <li>
+                  <a href="https://twitter.com/fxbrokerservice" target="_blank"
+                    ><i class="fa fa-twitter"></i
+                  ></a>
+                </li>
+                <li>
+                  <a
+                    href="https://www.instagram.com/fxbrokerservice/"
+                    target="_blank"
+                    ><i class="fa fa-instagram"></i
+                  ></a>
+                </li>
                                 </ul>
 							</div>
                         </div>
@@ -125,9 +146,9 @@
                                                     </li>
                                                     <li><a class="pages" href="#">Pricing</a>
                                                         <ul class="sub-menu">
-                                                            <li><a href="standard.php">Standard MT4/MT5</a></li>
-                                                            <li><a href="advanced.php">Advanced MT4/MT5</a></li>
-                                                          
+                                                            <li><a href="mt4_pricing.php">MT4</a></li>
+                                                            <li><a href="mt5-grelabel.php">MT5 GreyLabel</a></li>
+                                                            <li><a href="mt5-whitelabel.php">MT5 WhiteLabel</a></li>
                                                         </ul>
                                                     </li>
                                                     <li><a class="pages" href="#">Digital</a>
