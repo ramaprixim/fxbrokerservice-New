@@ -1,5 +1,12 @@
 <?php include("includes/header.php"); ?>
 
+<style>
+    h2{
+        font-size: 27px; 
+        line-height: 40px;
+    }
+</style>
+
 
 <div class="page-area">
     <div class="breadcumb-overlay"></div>
@@ -86,7 +93,6 @@
                     <h2>
                         IT The collaboration between Equinix will provide FXBrokerService with a fiber optic network
                         that connects our trading servers around the world.
-                        <!-- <span class="color-text">a Low Cost?</span> -->
                     </h2>
                     <p class="hidden-sm"> We provide lightning fast execution for every trade. Our collaboration with
                         Equinix, the world's leading trading server company, gives FXBrokerService a technological edge

@@ -7,11 +7,11 @@
             <div class="col-md-12 col-sm-12 col-xs-12">
                 <div class="breadcrumb text-center">
                     <div class="section-headline white-headline text-center">
-                        <h3>Forex SEO</h3>
+                        <h3>Logo Design</h3>
                     </div>
                     <ul>
                         <li class="home-bread">Digital</li>
-                        <li>Forex SEO</li>
+                        <li>Logo Design</li>
                     </ul>
                 </div>
             </div>
@@ -25,8 +25,7 @@
             <!-- Start column-->
             <div class="col-md-6 col-sm-6 col-xs-12">
                 <div class="about-image">
-                    <img src="img/about/vd.jpg" alt="" class="ab-first-img">
-                    <img src="img/about/vd1.jpg" alt="" class="ab-second-img">
+                    <img src="img/about/logo design image 1.png" alt="" class="ab-first-img">
                 </div>
             </div>
             <!-- End column-->
