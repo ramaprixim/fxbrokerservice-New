@@ -18,7 +18,7 @@
         <div class="footer-content logo-footer">
             <div class="footer-head">
                 <div class="footer-logo">
-                    <a class="footer-black-logo" href="#"><img src="img/logo/logo2.png" alt=""></a>
+                    <a class="footer-black-logo" href="#"><img src="img/logo/FXBrokerService new white logo.png" alt=""></a>
                 </div>
                 <ul class="footer-contact-list">
     <li><span>Address:</span>
