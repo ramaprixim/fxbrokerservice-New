@@ -102,8 +102,8 @@ h1{
 		
 }
 h2{
-    font-size: 30px;
-    line-height: 40px;
+	font-size: 38px;
+	line-height: 46px;
 		
 }
 h3{
@@ -893,10 +893,10 @@ button.cale-btn:hover{
     overflow: hidden;
     padding-right: 80px;
 }
-.about-image img {
+/* .about-image img {
     border-radius: 5px;
     border: 6px solid #243063;
-}
+} */
 .ab-second-img {
     position: absolute;
     right: 30px;
