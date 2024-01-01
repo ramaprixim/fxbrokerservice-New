@@ -1,3 +1,5 @@
+<?php include("dynmicdata.php") ?>
+
 <!doctype html>
 <html class="no-js" lang="en">
 	
@@ -5,13 +7,14 @@
 <head>
 		<meta charset="utf-8">
 		<meta http-equiv="x-ua-compatible" content="ie=edge">
-		<title>Home-1 | Bultifore</title>
-		<meta name="description" content="">
-		<meta name="viewport" content="width=device-width, initial-scale=1">
+        <title><?php echo $title ?></title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="<?php echo $description ?> " />
+    <meta name="keywords" content="<?php echo $keywords ?> " />
 
 		<!-- favicon -->		
-		<link rel="shortcut icon" type="image/x-icon" href="img/logo/favicon.ico">
-
+		<link rel="shortcut icon" type="image/x-icon" href="img/logo/favicon.png">
+        <link rel="canonical" href="<?php echo $canonical ?>" />
 		<!-- all css here -->
 
 		<!-- bootstrap v3.3.6 css -->
@@ -39,6 +42,13 @@
 		<!-- modernizr css -->
 		<script src="js/vendor/modernizr-2.8.3.min.js"></script>
 	</head>
+    <style>
+        .contact-us-btn{
+    background-color: #17aac9;
+    padding: 10px;
+    border-radius: 5px;
+}
+    </style>
 		<body>
 
 		<!--[if lt IE 8]>
@@ -102,7 +112,7 @@
             <!-- End header top bar -->
             <!-- Start header menu area -->
             <div id="sticker" class="header-area hidden-xs">
-                <div class="container-xl" style="margin-right: 130px;margin-left: 180px;">
+                <div class="container-xl main-container">
                     <div class="row">
                         <div class="col-md-12 col-sm-12">
                             <div class="row">
@@ -110,17 +120,14 @@
                                 <div class="col-md-3 col-sm-3">
                                     <div class="logo">
                                         <!-- Brand -->
-                                        <a class="navbar-brand page-scroll" href="index.html">
+                                        <a class="navbar-brand page-scroll" href="index.php">
                                             <img src="img/logo/FXBrokerService new white logo.png" alt="">
                                         </a>
                                     </div>
                                     <!-- logo end -->
                                 </div>
                                 <div class="col-md-9 col-sm-9">
-                                    <div class="header-right-link">
-                                        <!-- search option end -->
-                                        <a class="s-menu" href="login.html">Contact Us</a>
-                                    </div>
+                                   
                                     <!-- mainmenu start -->
                                     <nav class="navbar navbar-default">
                                         <div class="collapse navbar-collapse" id="navbar-example">
@@ -130,8 +137,8 @@
                                                     </li>
                                                     <li><a href="about.php">About us</a>
                                                         <ul class="sub-menu">
-                                                            <li><a href="overservers.php">Our Servers</a></li>
-                                                            <li><a href="team.php">team</a></li>
+                                                            <li><a href="our-servers.php">Our Servers</a></li>
+                                                            <li><a href="#">team</a></li>
                                                         </ul>
                                                     </li>
                                                     <li>
@@ -139,22 +146,22 @@
                                                         <ul class="sub-menu">
                                                             <li><a href="mt4.php">MT4</a></li>
                                                             <li><a href="mt5.php">MT5</a></li>
-                                                            <li><a href="brokercrm.php">BrokerCRM</a></li>
+                                                            <li><a href="broker-crm.php">BrokerCRM</a></li>
                                                             <li><a href="psp.php">PSP</a></li>
                                                       
                                                         </ul>
                                                     </li>
                                                     <li><a class="pages" href="#">Pricing</a>
                                                         <ul class="sub-menu">
-                                                            <li><a href="mt4_pricing.php">MT4</a></li>
+                                                            <li><a href="mt4-pricing.php">MT4</a></li>
                                                             <li><a href="mt5-grelabel.php">MT5 GreyLabel</a></li>
                                                             <li><a href="mt5-whitelabel.php">MT5 WhiteLabel</a></li>
                                                         </ul>
                                                     </li>
                                                     <li><a class="pages" href="#">Digital</a>
                                                         <ul class="sub-menu">
-                                                            <li><a href="brokerwebsite.php">BrokerWebsite</a></li>
-                                                            <li><a href="forexseo.php">Forex SEO</a></li>
+                                                            <li><a href="broker-website.php">BrokerWebsite</a></li>
+                                                            <li><a href="forex-seo.php">Forex SEO</a></li>
                                                             <li><a href="logodesign.php">Logo Design</a></li>
                                                           
                                                         </ul>
@@ -162,7 +169,15 @@
                                                     <li><a class="pages" href="corporate-services.php">Corporate Services</a>
                                                         
                                                     </li>
-                                                    <li><a href="blog.php">Blog</a></li>
+                                                    <li><a href="#">Blog</a></li>
+                                                    <li>
+                                                        <!-- search option end -->
+                                                        <a class="contact-us-btn" href="contact-us.php" style="    background-color: #17aac9;
+                                                        padding: 10px;
+                                                        border-radius: 5px;
+                                                        margin-top: 21px;
+                                                        margin-left: 18px;">Contact Us</a>
+                                                    </li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -192,8 +207,8 @@
                                         <li><a href="about.php">About us</a></li>
                                         
                                             <ul class="sub-menu">
-                                                <li><a href="ourservers.php">Our Servers</a></li>
-                                                <li><a href="team.php">Team</a></li>
+                                                <li><a href="our-servers.php">Our Servers</a></li>
+                                                <li><a href="#">Team</a></li>
                                             
                                             </ul>
                                         </li>
@@ -201,29 +216,30 @@
                                             <ul class="sub-menu">
                                                 <li><a href="mt4.php">MT4</a></li>
                                                 <li><a href="mt5.php">MT5</a></li>
-                                                <li><a href="brokercrm.php">BrokerCRM</a></li>
+                                                <li><a href="broker-crm.php">BrokerCRM</a></li>
                                                 <li><a href="psp.php">PSP</a></li>
                                               
                                             </ul>
                                         </li>
                                         <li><a class="pages" href="#">Pricing</a>
                                             <ul class="sub-menu">
-                                       
-                                                <li><a href="standard.php">Standard MT4/MT5</a></li>
-                                                <li><a href="advanced.php">Advanced MT4/MT5</a></li>
+                                            <li><a href="mt4-pricing.php">MT4</a></li>
+                                                            <li><a href="mt5-grelabel.php">MT5 GreyLabel</a></li>
+                                                            <li><a href="mt5-whitelabel.php">MT5 WhiteLabel</a></li>
                                             </ul>
                                         </li>
                                         <li><a class="pages" href="#">Digital</a>
                                             <ul class="sub-menu">
-                                                <li><a href="brokerwebsite.php">BrokerWebsite</a></li>
-                                                <li><a href="forexseo.php">Forex SEO</a></li>
+                                                <li><a href="broker-website.php">BrokerWebsite</a></li>
+                                                <li><a href="forex-seo.php">Forex SEO</a></li>
                                                 <li><a href="logodesign.php">Logo Design</a></li>
                                             </ul>
                                         </li>
                                         <li><a class="pages" href="#">Corporate Services</a>
                                                         
                                            </li>
-                                            <li><a href="blog.php">Blog</a></li>
+                                            <li><a href="#">Blog</a></li>
+                                            <li><a class="s-menu" href="contact-us.php">Contact Us</a></li>
                                     </ul>
                                 </nav>
                             </div>					

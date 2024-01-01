@@ -3,6 +3,12 @@
     .brand-area{
         padding: 90px 0px 150px;
     }
+    .support-services{
+        height: 350px;
+    }
+    .single-service{
+        height: 358px;
+    }
 </style>
 <div class="page-area">
             <div class="breadcumb-overlay"></div>
@@ -30,11 +36,7 @@
                     <!-- Start column-->
                     <div class="col-md-6 col-sm-6 col-xs-12">
                         <div class="about-image">
-                            <img src="img/about/vd.jpg" alt="" class="ab-first-img">
-                            <img src="img/about/vd1.jpg" alt="" class="ab-second-img">
-                             <a href="https://www.youtube.com/watch?v=O33uuBh6nXA" class="video-play vid-zone">
-                                <i class="fa fa-play"></i>
-                             </a>
+                            <img src="img/content/FX solution  MT5  first image.png" alt="" class="ab-first-img">
                         </div>
                     </div>
                     <!-- End column-->
@@ -67,11 +69,7 @@
                     </div>
                     <div class="col-md-6 col-sm-6 col-xs-12">
                         <div class="about-image">
-                            <img src="img/about/vd.jpg" alt="" class="ab-first-img">
-                            <img src="img/about/vd1.jpg" alt="" class="ab-second-img">
-                             <a href="https://www.youtube.com/watch?v=O33uuBh6nXA" class="video-play vid-zone">
-                                <i class="fa fa-play"></i>
-                             </a>
+                            <img src="img/content/FX solution  MT5  second image.png" alt="" class="ab-first-img">
                         </div>
                     </div>
                     <!-- End column-->
@@ -109,7 +107,6 @@
                                 <div class="support-content">
                                     <h4>Choose your MT5 Grey Label Provider</h4>
                                     <p>Choosing the right MT5 Grey Label provider is essential to the success of your Brokerage business. Compare different providers and choose the one that aligns with your business goals, needs, and budget.</p>
-                               <br>
                                 </div>
                             </div>
                         </div>
@@ -120,9 +117,7 @@
                                     <h4>Register your Business</h4>
                                     <p>Register your business with the relevant authorities in your location. Obtain all necessary licenses and permits to operate your business legally.</p>
                               <br>
-                              <br>
-                              <br>
-                              <br>
+                  
                                 </div>
                             </div>
                         </div>
@@ -169,11 +164,7 @@
                     <!-- Start column-->
                     <div class="col-md-6 col-sm-6 col-xs-12">
                         <div class="about-image">
-                            <img src="img/about/vd.jpg" alt="" class="ab-first-img">
-                            <img src="img/about/vd1.jpg" alt="" class="ab-second-img">
-                             <a href="https://www.youtube.com/watch?v=O33uuBh6nXA" class="video-play vid-zone">
-                                <i class="fa fa-play"></i>
-                             </a>
+                            <img src="img/content/FX solution  MT5  third image.png" alt="" class="ab-first-img">
                         </div>
                     </div>
                     <!-- End column-->
@@ -495,7 +486,7 @@ MT5 Grey Label solution empowers brokers to offer a fully branded and customized
 						<div class="section-headline text-center">
                             <h3>Most Useful For You Infrastructure</h3>
                             <p style="max-width: fit-content;">Get access to our robust global network coverage and the most powerful forex ecosystem in the world.</p>
-						<a href="" class="ready-btn">Contact Us</a>
+						<a href="contact-us.php" class="ready-btn">Contact Us</a>
                         </div>
 					</div>
 				</div>
@@ -510,7 +501,7 @@ MT5 Grey Label solution empowers brokers to offer a fully branded and customized
                         <div class="brand-content">
                           <h4>We guarantee that your trade will be executed at the highest speed!</h4>
                           <p>Our system is physically connected to the central trading servers of major exchanges, liquidity provider banks and other banks, which allows us to reduce the number of your trading requests and complete the trade quickly.</p>
-                           <a class="hire-btn" href="contact.html">Let's Talk Now</a>
+                           <a class="hire-btn" href="contact-us.php">Let's Talk Now</a>
                         </div>
                     </div>
                 </div>

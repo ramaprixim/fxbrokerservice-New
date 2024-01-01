@@ -25,7 +25,7 @@
             <!-- Start column-->
             <div class="col-md-6 col-sm-6 col-xs-12">
                 <div class="about-image">
-                    <img src="img/about/logo design image 1.png" alt="" class="ab-first-img">
+                    <img src="img/content/logo design image 1.png" alt="" class="ab-first-img">
                 </div>
             </div>
             <!-- End column-->

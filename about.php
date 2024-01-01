@@ -28,11 +28,8 @@
             <!-- Start column-->
             <div class="col-md-6 col-sm-6 col-xs-12">
                 <div class="about-image">
-                    <img src="img/about/vd.jpg" alt="" class="ab-first-img">
-                    <img src="img/about/vd1.jpg" alt="" class="ab-second-img">
-                    <a href="https://www.youtube.com/watch?v=O33uuBh6nXA" class="video-play vid-zone">
-                        <i class="fa fa-play"></i>
-                    </a>
+                 <img src="img/content/about us our servers 1st  image.png" alt="">
+                   
                 </div>
             </div>
             <!-- End column-->

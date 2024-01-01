@@ -1,4 +1,15 @@
 <?php include("includes/header.php"); ?>
+<style>
+    .brand-content{
+        margin-top: -90px;
+    }
+    .support-services{
+        height: 300px;
+    }
+    .single-service{
+        height: 410px;
+    }
+</style>
 <div class="page-area">
             <div class="breadcumb-overlay"></div>
             <div class="container">
@@ -25,11 +36,7 @@
                     <!-- Start column-->
                     <div class="col-md-6 col-sm-6 col-xs-12">
                         <div class="about-image">
-                            <img src="img/about/vd.jpg" alt="" class="ab-first-img">
-                            <img src="img/about/vd1.jpg" alt="" class="ab-second-img">
-                             <a href="https://www.youtube.com/watch?v=O33uuBh6nXA" class="video-play vid-zone">
-                                <i class="fa fa-play"></i>
-                             </a>
+                            <img src="img/content/FX solution  MT4 second image.png" alt="" class="ab-first-img">
                         </div>
                     </div>
                     <!-- End column-->
@@ -83,11 +90,8 @@
                     </div>
                     <div class="col-md-6 col-sm-6 col-xs-12">
                         <div class="about-image">
-                            <img src="img/about/vd.jpg" alt="" class="ab-first-img">
-                            <img src="img/about/vd1.jpg" alt="" class="ab-second-img">
-                             <a href="https://www.youtube.com/watch?v=O33uuBh6nXA" class="video-play vid-zone">
-                                <i class="fa fa-play"></i>
-                             </a>
+                            <img src="img/content/FX solution  MT4 first image.png" alt="" class="ab-first-img">
+
                         </div>
                     </div>
                     <!-- End column-->
@@ -104,11 +108,7 @@
                     <!-- Start column-->
                     <div class="col-md-6 col-sm-6 col-xs-12">
                         <div class="about-image">
-                            <img src="img/about/vd.jpg" alt="" class="ab-first-img">
-                            <img src="img/about/vd1.jpg" alt="" class="ab-second-img">
-                             <a href="https://www.youtube.com/watch?v=O33uuBh6nXA" class="video-play vid-zone">
-                                <i class="fa fa-play"></i>
-                             </a>
+                            <img src="img/content/FX solution  MT4 third image.png" alt="" class="ab-first-img">
                         </div>
                     </div>
                     <!-- End column-->
@@ -241,11 +241,7 @@ With hard work and dedication, starting a <a href="https://fxbrokerservice.com/m
                     <!-- Start column-->
                     <div class="col-md-6 col-sm-6 col-xs-12">
                         <div class="about-image">
-                            <img src="img/about/vd.jpg" alt="" class="ab-first-img">
-                            <img src="img/about/vd1.jpg" alt="" class="ab-second-img">
-                             <a href="https://www.youtube.com/watch?v=O33uuBh6nXA" class="video-play vid-zone">
-                                <i class="fa fa-play"></i>
-                             </a>
+                            <img src="img/content/FX solution  MT4 4th image.png" alt="" class="ab-first-img">
                         </div>
                     </div>
                     <!-- End column-->
@@ -253,7 +249,8 @@ With hard work and dedication, starting a <a href="https://fxbrokerservice.com/m
                     <div class="col-md-6 col-sm-6 col-xs-12">
                         <div class="about-content">
                             <h3>MT4 Grey Label Solution</h3>
-                            <p class="hidden-sm">The Forex Market offers immense opportunities for individuals and organizations to establish their own Brokerage businesses. However, starting a Forex Brokerage from scratch can be a complex and time-consuming process. That's where the Forex Grey Label solution comes in. You can use our Forex Grey Label Solution to build your Brokerage business because it comes with various tools. You can use our Forex Grey Label Solution to build your Brokerage business because it comes with various tools.</p>
+                            <p class="hidden-sm">The Forex Market offers immense opportunities for individuals and organizations to establish their own Brokerage businesses. However, starting a Forex Brokerage from scratch can be a complex and time-consuming process. That's where the Forex Grey Label solution comes in. </p>
+                       <p class="hidden-sm">You can use our Forex Grey Label Solution to build your Brokerage business because it comes with various tools. You can use our Forex Grey Label Solution to build your Brokerage business because it comes with various tools.</p>
                         </div>
                     </div>
                     <!-- End column-->
@@ -299,7 +296,6 @@ With hard work and dedication, starting a <a href="https://fxbrokerservice.com/m
                                     <h4>Cost-Effectiveness</h4>
                                     <p>As a second benefit of MT4 grey label providers, brokers can enter the Forex market at a lower cost. Instead of developing a trading platform from scratch, brokers can leverage the existing MT4 infrastructure, which significantly reduces development costs and time-to-market.
                                     </p>
-                                    <br>
                                 </div>
                             </div>
                         </div>
@@ -315,7 +311,6 @@ With hard work and dedication, starting a <a href="https://fxbrokerservice.com/m
                                     <h4>Advanced Trading Features</h4>
                                     <p>Another benefit of MT4 grey label provider is access to a wide range of advanced trading features, such as real-time quotes, multiple orders, technical indicators, charting tools, and automated trading. This enables brokers to offer a comprehensive trading experience to their clients.
                                     </p>
-                                    <br>
                                 </div>
                             </div>
                         </div>
@@ -330,6 +325,9 @@ With hard work and dedication, starting a <a href="https://fxbrokerservice.com/m
                                 <div class="service-content">
                                     <h4>Risk Management Tools</h4>
                                     <p>MT4 grey label provider often come equipped with robust risk management tools. These tools help brokers monitor and manage their clients' trading activities, set trading limits, apply margin requirements, and implement risk mitigation strategies effectively.</p>
+                               <br>
+                               <br>
+                               <br>
                                 </div>
                             </div>
                         </div>
@@ -344,6 +342,8 @@ With hard work and dedication, starting a <a href="https://fxbrokerservice.com/m
                                 <div class="service-content">
                                     <h4>Back-Office Support</h4>
                                     <p>MT4 grey label providers usually include a comprehensive back-office system that allows brokers to manage their operations efficiently. This includes features such as client management, reporting and analysis tools, financial management, and administrative capabilities.</p>
+                               <br>
+                               <br>
                                 </div>
                             </div>
                         </div>
@@ -358,7 +358,6 @@ With hard work and dedication, starting a <a href="https://fxbrokerservice.com/m
                                 <div class="service-content">
                                     <h4>Integration Flexibility</h4>
                                     <p>The last benefit of MT4 grey label provider is that it can be easily integrated with third-party systems. Some of the third-party systems that can be integrated include liquidity providers, payment gateways, and compliance tools.. This flexibility enables brokers to create a seamless trading environment and offer additional services to their clients.</p>
-                                    <br>
                                 </div>
                             </div>
                         </div>
@@ -512,7 +511,7 @@ With hard work and dedication, starting a <a href="https://fxbrokerservice.com/m
 						<div class="section-headline text-center">
                             <h3>We guarantee that your trade will be executed at the highest speed!</h3>
                             <p style="max-width: fit-content;">Our system is physically connected to the central trading servers of major exchanges, liquidity provider banks and other banks, which allows us to reduce the number of your trading requests and complete the trade quickly.</p>
-						<a href="" class="ready-btn">Contact Us</a>
+						<a href="contact-us.php" class="ready-btn">Contact Us</a>
                         </div>
 					</div>
 				</div>
@@ -526,7 +525,7 @@ With hard work and dedication, starting a <a href="https://fxbrokerservice.com/m
                     <div class="col-md-12 col-sm-12 col-xs-12">
                         <div class="brand-content">
                           <h4>We’re here to help and answer any question you might have.</h4>
-                           <a class="hire-btn" href="contact.html">Let's Talk Now</a>
+                           <a class="hire-btn" href="contact-us.php">Let's Talk Now</a>
                         </div>
                     </div>
                 </div>

@@ -25,7 +25,7 @@
             <!-- Start column-->
             <div class="col-md-6 col-sm-6 col-xs-12">
                 <div class="about-image">
-                    <img src="img/about/Corporate Services img 1.png" alt="" class="ab-first-img">
+                    <img src="img/content/Corporate Services img 1.png" alt="" class="ab-first-img">
                 </div>
             </div>
             <!-- End column-->
@@ -77,8 +77,8 @@
             </div>
             <div class="col-md-6 col-sm-6 col-xs-12">
                 <div class="about-image">
-                    <img src="img/about/vd.jpg" alt="" class="ab-first-img">
-                    <img src="img/about/vd1.jpg" alt="" class="ab-second-img">
+                    <img src="img/content/Corporate Services img 2.png" alt="" class="ab-first-img">
+
                 </div>
             </div>
         </div>

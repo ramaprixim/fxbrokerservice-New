@@ -386,9 +386,58 @@ div#preloader {
     color: #fff;
     font-size: 16px;
     font-weight: 700;
-    padding: 33px 15px;
+    padding: 33px 20px;
     text-transform: uppercase;
     position: relative;
+}
+.main-container{
+    margin-right: 130px;
+    margin-left: 180px;
+}
+@media screen and (max-width: 1664px) {
+.main-menu ul.navbar-nav li a {
+    background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+    color: #fff;
+    font-size: 13px;
+    font-weight: 700;
+    padding: 34px 8px;
+    text-transform: uppercase;
+    position: relative;
+}
+.main-container{
+    margin-right: 130px;
+    margin-left: 180px;
+}
+}
+@media screen and (max-width: 1400px) {
+    .main-menu ul.navbar-nav li a {
+        background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+        color: #fff;
+        font-size: 13px;
+        font-weight: 700;
+        padding: 34px 8px;
+        text-transform: uppercase;
+        position: relative;
+    }
+    .main-container{
+        margin-right: 70px;
+        margin-left: 70px;
+    }
+}
+@media screen and (max-width: 1251px) {
+    .main-menu ul.navbar-nav li a {
+        background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+        color: #fff;
+        font-size: 13px;
+        font-weight: 700;
+        padding: 34px 8px;
+        text-transform: uppercase;
+        position: relative;
+    }
+    .main-container{
+        margin-right: 40px;
+    margin-left: 40px;
+    }
 }
 .main-menu ul.navbar-nav li a:hover{
 	color: #17aac9;

@@ -38,11 +38,7 @@
             <!-- Start column-->
             <div class="col-md-6 col-sm-6 col-xs-12">
                 <div class="about-image">
-                    <img src="img/about/vd.jpg" alt="" class="ab-first-img">
-                    <img src="img/about/vd1.jpg" alt="" class="ab-second-img">
-                    <a href="https://www.youtube.com/watch?v=O33uuBh6nXA" class="video-play vid-zone">
-                        <i class="fa fa-play"></i>
-                    </a>
+                    <img src="img/content/FXBrokerService home page image .png" alt="">
                 </div>
             </div>
             <!-- End column-->
@@ -396,7 +392,7 @@
                                         </p>
                                     </div>
                                     <div class="testi-img ">
-                                        <img src="img/review/1.jpg" alt="">
+                                        <img src="img/review/1.png" alt="">
                                         <div class="guest-details">
                                             <!-- <h4>Google</h4> -->
                                             <span class="guest-rev">Clients - <a href="#">Anderson</a></span>
@@ -423,7 +419,7 @@
                                         </p>
                                     </div>
                                     <div class="testi-img ">
-                                        <img src="img/review/2.jpg" alt="">
+                                        <img src="img/review/1.png" alt="">
                                         <div class="guest-details">
                                             <!-- <h4>Angel lima</h4> -->
                                             <span class="guest-rev">Clients - <a href="#">Willow</a></span>
@@ -451,7 +447,7 @@
                                         </p>
                                     </div>
                                     <div class="testi-img ">
-                                        <img src="img/review/3.jpg" alt="">
+                                        <img src="img/review/1.png" alt="">
                                         <div class="guest-details">
                                             <!-- <h4>Arthur Doil</h4> -->
                                             <span class="guest-rev">Clients - <a href="#">Wesley</a></span>
@@ -477,7 +473,7 @@
                                         </p>
                                     </div>
                                     <div class="testi-img ">
-                                        <img src="img/review/4.jpg" alt="">
+                                        <img src="img/review/1.png" alt="">
                                         <div class="guest-details">
                                             <!-- <h4>Gabriel Hank</h4> -->
                                             <span class="guest-rev">Clients - <a href="#">Audrey</a></span>
@@ -491,221 +487,10 @@
                 </div>
             </div>
         </div>
+    </div>
+</div>
         <!-- End support services area -->
-        <div class="reviews-area fix area-padding">
-            <div class="container-fluid">
-               <div class="row">
-					<div class="col-md-12 col-sm-12 col-xs-12">
-						<div class="section-headline text-center">
-							<h2>Customer Reviews</h2>
-							<p>Dummy text is also used to demonstrate the appearance of different typefaces and layouts</p>
-						</div>
-					</div>
-				</div>
-                <div class="row">
-                    <div class="reviews-top">
-                        <div class="col-md-12 col-sm-12 col-xs-12">
-                            <div class="reviews-content">
-                                <!-- start testimonial carousel -->
-                                <div class="testimonial-carousel item-indicator">
-                                    <div class="single-testi">
-                                        <div class="testi-text">
-                                            <div class="clients-text">
-                                                <div class="client-rating">
-                                                    <a href="#"><i class="ti-star"></i></a>
-                                                    <a href="#"><i class="ti-star"></i></a>
-                                                    <a href="#"><i class="ti-star"></i></a>
-                                                    <a href="#"><i class="ti-star"></i></a>
-                                                    <a href="#"><i class="ti-star"></i></a>
-                                                </div>
-                                                <p>
-                                                    I'm so glad I choose FXBrokerService for my trading needs.
-                                                    Their services are fast, efficient, and reliable. They have
-                                                    the best customer service team who are always willing to
-                                                    answer any questions that I have and provide me with
-                                                    valuable insights into the market.
-                                                  </p>                                            </div>
-                                            <div class="testi-img ">
-                                                <img src="img/review/1.jpg" alt="">
-                                                <div class="guest-details">
-                                                    <!-- <h4>Google</h4> -->
-                                                    <span class="guest-rev">Clients - <a href="#">Anderson</a></span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- End Panel Default -->
-                                <!-- Panel Default -->
-                                <div class="panel panel-default">
-                                    <div class="panel-heading">
-                                        <h4 class="check-title">
-                                            <a data-toggle="collapse" data-parent="#accordion" href="#check2">
-                                                <span class="acc-icons"></span>What are the Requirements for
-                                                Opening a Brokerage Firm?
-                                            </a>
-                                        </h4>
-                                    </div>
-                                    <div id="check2" class="panel-collapse collapse">
-                                        <div class="panel-body">
-                                            <p>
-                                                To <b>Opening a Brokerage Firm</b> , you will need to have the
-                                                necessary licenses, including a Series 7 license, which allows
-                                                you to trade securities, as well as a Series 63 license, which
-                                                is required for selling securities. You will also need to
-                                                register your firm with the Financial Industry Regulatory
-                                                Authority (FINRA) and comply with its rules and regulations. </p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- End Panel Default -->
-                                <!-- Panel Default -->
-                                <div class="panel panel-default">
-                                    <div class="panel-heading">
-                                        <h4 class="check-title">
-                                            <a data-toggle="collapse" data-parent="#accordion" href="#check3">
-                                                <span class="acc-icons"></span>How Can I Start my Own Forex
-                                                Brokerage?
-                                            </a>
-                                        </h4>
-                                    </div>
-                                    <div id="check3" class="panel-collapse collapse ">
-                                        <div class="panel-body">
-                                            <p>
-                                                To open a Forex Brokerage, you will need to choose a location,
-                                                obtain regulatory licenses, set up a trading platform, and
-                                                establish banking relationships. Additionally, you will need to
-                                                hire staff, develop marketing strategies, and create a risk
-                                                management system. </p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- End Panel Default -->
-                                <!-- Panel Default -->
-                                <div class="panel panel-default">
-                                    <div class="panel-heading">
-                                        <h4 class="check-title">
-                                            <a data-toggle="collapse" data-parent="#accordion" href="#check4">
-                                                <span class="acc-icons"></span>What are the Risks involved in
-                                                Opening A Forex Brokerage?
-                                            </a>
-                                        </h4>
-                                    </div>
-                                    <div id="check4" class="panel-collapse collapse">
-                                        <div class="panel-body">
-                                            <p>
-                                                The main risks of opening a Forex Brokerage include market
-                                                volatility, regulatory compliance, and operational risks such as
-                                                system failures, fraud, and cyber threats. It is important to
-                                                establish robust risk management policies and procedures to
-                                                mitigate these risks and protect your business and clients. </p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- End Panel Default -->
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-6 col-sm-8 col-xs-12">
-                    <div class="faq-full">
-                        <div class="faq-details">
-                            <div class="panel-group" id="accordion">
-                                <!-- Panel Default -->
-                                <div class="panel panel-default">
-                                    <div class="panel-heading">
-                                        <h4 class="check-title">
-                                            <a data-toggle="collapse" class="active" data-parent="#accordion"
-                                                href="#check5">
-                                                <span class="acc-icons"></span>What are the Legal Requirements
-                                                for Opening a Forex Brokerage Firm?
-                                            </a>
-                                        </h4>
-                                    </div>
-                                    <div id="check5" class="panel-collapse collapse in">
-                                        <div class="panel-body">
-                                            <p>
-                                                Opening a Forex Brokerage Firm requires the fulfillment of
-                                                several legal requirements. This includes obtaining the
-                                                necessary licenses and permits from regulatory agencies,
-                                                complying with anti-money laundering and other financial
-                                                regulations, and maintaining the appropriate level of
-                                                capitalization. </p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- End Panel Default -->
-                                <!-- Panel Default -->
-                                <div class="panel panel-default">
-                                    <div class="panel-heading">
-                                        <h4 class="check-title">
-                                            <a data-toggle="collapse" data-parent="#accordion" href="#check6">
-                                                <span class="acc-icons"></span> What are the Benefits of using a
-                                                Grey Label Solution?
-                                            </a>
-                                        </h4>
-                                    </div>
-                                    <div id="check6" class="panel-collapse collapse">
-                                        <div class="panel-body">
-                                            <p>
-                                                There are various benefits of using a Forex Grey Label Solution,
-                                                depending on the provider. Forex Grey Label Solution provides
-                                                turnkey solutions for Brokerage companies to start their own
-                                                business, easily setting up their operations and quickly start
-                                                operations with powerful features provided by expert Forex
-                                                services providers. </p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- End Panel Default -->
-                                <!-- Panel Default -->
-                                <div class="panel panel-default">
-                                    <div class="panel-heading">
-                                        <h4 class="check-title">
-                                            <a data-toggle="collapse" data-parent="#accordion" href="#check7">
-                                                <span class="acc-icons"></span>What is a Forex White Label?
-                                            </a>
-                                        </h4>
-                                    </div>
-                                    <div id="check7" class="panel-collapse collapse ">
-                                        <div class="panel-body">
-                                            <p>
-                                                A Forex White Label is a service that allows financial
-                                                institutions to offer their clients Forex trading under their
-                                                own brand, without the need to invest in or maintain expensive
-                                                trading infrastructure. </p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- End Panel Default -->
-                                <!-- Panel Default -->
-                                <div class="panel panel-default">
-                                    <div class="panel-heading">
-                                        <h4 class="check-title">
-                                            <a data-toggle="collapse" data-parent="#accordion" href="#check8">
-                                                <span class="acc-icons"></span>What is the main Difference
-                                                Between MT4 and MT5?
-                                            </a>
-                                        </h4>
-                                    </div>
-                                    <div id="check8" class="panel-collapse collapse">
-                                        <div class="panel-body">
-                                            <p>
-                                                Main <b>Difference Between MT4 and MT5 </b> is MT4 & MT5 are
-                                                both trading platforms, but MT5 was developed to be more
-                                                advanced and feature-rich than MT4. MT5 offers more technical
-                                                analysis tools, more trading instruments, and better multi-asset
-                                                trading capabilities than MT4. </p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- End Panel Default -->
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+
         <!-- Start overview Area -->
         <div class="faq-page bg-color area-padding">
             <div class="container ">
@@ -920,6 +705,7 @@
                 </div>
             </div>
         </div>
+    </div>
 		<!-- End apps download area -->
         <!-- Start footer area -->
         <?php include("includes/footer.php"); ?>

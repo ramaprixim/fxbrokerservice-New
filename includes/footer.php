@@ -18,7 +18,7 @@
         <div class="footer-content logo-footer">
             <div class="footer-head">
                 <div class="footer-logo">
-                    <a class="footer-black-logo" href="#"><img src="img/logo/FXBrokerService new white logo.png" alt="" style="height: 50px;"></a>
+                    <a class="footer-black-logo" href="index.php"><img src="img/logo/FXBrokerService new white logo.png" alt="" style="height: 50px;"></a>
                 </div>
                 <ul class="footer-contact-list">
     <li><span>Address:</span>
@@ -70,45 +70,43 @@
                                                 <li><a href="index.php">Home</a></li>
                                                 <li><a href="corporateservice.php">Corporate Services</a></li>
                                                 <li><a href="contactus.php">Contact Us</a></li>
-                                                <li><a href="blog.php">Blog</a></li>
+                                                <li><a href="#">Blog</a></li>
                                                 
                                             </ul>
                                         </div>
                                     </div>
                                 </div>
-                                <!-- End column-->
-                                <!-- Start column-->
-                                <div class="col-md-6 col-sm-3 col-xs-12">
-                                    <div class="footer-content">
-                                        <div class="footer-head">
-                                            <h4>Pricing</h4>
-                                            <ul class="footer-list">
-                                                <li><a href="standard.php">Standard MT4/MT5</a></li>
-                                                <li><a href="advanced.php">Advanced MT4/MT5</a></li>
-                                                <li><a href="about.php">About</a></li>
-                                                <li><a href="ourservers.php">Our Servers</a></li>
-                                                <li><a href="team.php">Team</a></li>
-                                              
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- End column-->
-                                <!-- Start column-->
-                                <div class="col-md-6 hidden-sm col-xs-12 mt-4" style="margin-top: 20px;">
+                                <div class="col-md-6 hidden-sm col-xs-12 mt-4" >
                                     <div class="footer-content">
                                         <div class="footer-head">
                                             <h4>Fx Solution</h4>
                                             <ul class="footer-list">
                                                 <li><a href="mt4.php">MT4</a></li>
                                                 <li><a href="mt5.php">MT5</a></li>
-                                                <li><a href="brokercrm.php">BrokerCRM</a></li>
+                                                <li><a href="broker-crm.php">BrokerCRM</a></li>
                                                 <li><a href="psp.php">PSP</a></li>
                                               
                                             </ul>
                                         </div>
                                     </div>
                                 </div>
+                                <!-- End column-->
+                                <!-- Start column-->
+                                <div class="col-md-6 col-sm-3 col-xs-12" style="margin-top: 20px;">
+                                    <div class="footer-content">
+                                        <div class="footer-head">
+                                            <h4>Pricing</h4>
+                                            <ul class="footer-list">
+                                            <li><a href="mt4-pricing.php">MT4</a></li>
+                                            <li><a href="mt5-grelabel.php">MT5 GreyLabel</a></li>
+                                            <li><a href="mt5-whitelabel.php">MT5 WhiteLabel</a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- End column-->
+                                <!-- Start column-->
+                               
     
                                 <!-- End column-->
                                 <!-- Start column-->
@@ -117,7 +115,7 @@
                                         <div class="footer-head">
                                             <h4>Digital</h4>
                                             <ul class="footer-list">
-                                                <li><a href="brokerwebsite.php">Broker Website</a></li>
+                                                <li><a href="broker-website.php">Broker Website</a></li>
                                                 <li><a href="forexseo.php">Forex SEO</a></li>
                                                 <li><a href="logodesign.php">Logo Design</a></li>
                                                
@@ -201,6 +199,59 @@
 		<script src="js/plugins.js"></script>
 		<!-- main js -->
 		<script src="js/main.js"></script>
+        <script src="https://dashboard.chatfuel.com/integration/landing-wa-widget.js" async defer data-prefilled="Hey" data-welcome="Hello" data-phone="14087094360"></script>
+<script src="https://www.google.com/recaptcha/api.js"></script>
+
+    <script type="application/ld+json">
+        {
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "name": "<?php echo $name ?>",
+          "alternateName": "<?php echo $alternateName ?>",
+          "url": "<?php echo $url ?>",
+          "logo": "https://fxbrokerservice.com/assets/img/logo-black.png",
+          "contactPoint": {
+            "@type": "ContactPoint",
+            "telephone": "+14087094360",
+            "contactType": "customer service",
+            "areaServed": "GB",
+            "availableLanguage": "en"
+          }
+        }
+        </script>
+<!--Start of Tawk.to Script-->
+<script type="text/javascript">
+    var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+    (function(){
+    var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+    s1.async=true;
+    s1.src='https://embed.tawk.to/642130fc4247f20fefe826ad/1gsgqemom';
+    s1.charset='UTF-8';
+    s1.setAttribute('crossorigin','*');
+    s0.parentNode.insertBefore(s1,s0);
+    })();
+    </script>
+    <!--End of Tawk.to Script-->
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-2VR9HMYS9H"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-2VR9HMYS9H');
+</script>
+
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-261793652-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-261793652-1');
+</script>
 	</body>
 
 <!-- Mirrored from rockstheme.com/rocks/bultifore-preview/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 27 Dec 2023 11:11:36 GMT -->

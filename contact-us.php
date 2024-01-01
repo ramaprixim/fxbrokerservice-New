@@ -33,8 +33,6 @@
                         <div class="login-form">
                             <h4 class="login-title text-center">Contact Us </h4>
                             <div class="row">
-
-
                                 <div class="col-lg-5 " style="padding-right: 0px;">
                                     <div class="contact-box">
                                         <div class="row">
@@ -55,25 +53,23 @@
                                     </div>
                                 </div>
 
-                                <form id="contactForm" method="POST"
-                                    action="https://rockstheme.com/rocks/bultifore-preview/contact.php"
-                                    class="log-form">
-                                    <div class="col-md-6 col-sm-6 col-xs-6">
+                                <form method="POST" action="contact-us.php" class="log-form">
+                                    <div class="col-md-6 col-sm-12 col-xs-12">
                                         <label for="name">Name <span class="req">*</span></label>
-                                        <input type="text" id="name" class="form-control" placeholder="Username"
+                                        <input type="text" id="name" class="form-control" placeholder="name" name="name"
                                             required data-error="Please enter your name">
                                     </div>
-                                    <div class="col-md-6 col-sm-6 col-xs-6">
+                                    <div class="col-md-6 col-sm-12 col-xs-12">
                                         <label for="name">Email <span class="req">*</span></label>
-                                        <input type="text" id="name" class="form-control" placeholder="Email" required
+                                        <input type="text" id="name" class="form-control" placeholder="Email" name="email" required
                                             data-error="Please enter your email">
                                     </div>
-                                    <div class="col-md-6 col-sm-6 col-xs-6">
+                                    <div class="col-md-6 col-sm-12 col-xs-12">
                                         <label for="name">Phone<span class="req">*</span></label>
-                                        <input type="text" id="name" class="form-control" placeholder="Phone" required
+                                        <input type="text" id="name" class="form-control" placeholder="Phone" name="phone" required
                                             data-error="Please enter your phone">
                                     </div>
-                                    <div class="col-md-6 col-sm-6 col-xs-6">
+                                    <div class="col-md-6 col-sm-12 col-xs-12">
                                         <label for="message">Message</label>
                                         <textarea cols="46" rows="3" name="message" class="form-control"></textarea>
                                         <div class="g-recaptcha"
@@ -90,15 +86,7 @@
                                                     required=""></textarea>
                                             </div><iframe style="display: none;"></iframe>
                                         </div>
-                                        <div class="check-group flexbox">
-                                            <label class="check-box">
-                                                <input type="checkbox" class="check-box-input" checked>
-                                                <span class="remember-text">Remember me</span>
-                                            </label>
-
-                                            <a class="text-muted" href="#">Forgot password?</a>
-                                        </div>
-                                        <button type="submit" id="submit" class="slide-btn login-btn">Login</button>
+                                        <button class="slide-btn login-btn" type="submit"  value="submit"> Submit</button>
                                         <div id="msgSubmit" class="h3 text-center hidden"></div>
                                         <div class="clearfix"></div>
                                     </div>
@@ -106,36 +94,8 @@
                                     <div class="col-md-3 col-sm-6 col-xs-6 text-center">
 
                                     </div>
-
-                                    <!-- <li>
-                <p class="left">
-                  <label for="name">Name <span class="req">*</span></label>
-                  <input type="text" name="name" placeholder="Enter Your Name" required="">
-                </p>
-                <p class="pull-right">
-                  <label for="email">Email <span class="req">*</span></label>
-                  <input type="text" name="email" placeholder="Email Address" required="">      
-                </p>
-              </li>
-              
-              <li>
-                <p>
-                  <label for="phone">Phone  <span class="req">*</span></label>
-                  <input type="tel" name="phone" placeholder="Phone Number" required="">
-                </p>
-               
-              </li>        
-              <li><div class="divider"></div></li>
-              <li>
-                <label for="message">Message</label>
-                <textarea cols="46" rows="3" name="message"></textarea>
-                <div class="g-recaptcha" data-sitekey="6Lejq5EnAAAAAI9fsOplf3te6eRj_j5B_CX73BbR"><div style="width: 304px; height: 78px;"><div><iframe title="reCAPTCHA" width="304" height="78" role="presentation" name="a-z7042un4hgwg" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox allow-storage-access-by-user-activation" src="https://www.google.com/recaptcha/api2/anchor?ar=1&amp;k=6Lejq5EnAAAAAI9fsOplf3te6eRj_j5B_CX73BbR&amp;co=aHR0cHM6Ly9meGJyb2tlcnNlcnZpY2UuY29tOjQ0Mw..&amp;hl=en&amp;v=u-xcq3POCWFlCr3x8_IPxgPu&amp;size=normal&amp;cb=nd56xwlcw3tl"></iframe></div><textarea id="g-recaptcha-response" name="g-recaptcha-response" class="g-recaptcha-response" style="width: 250px; height: 40px; border: 1px solid rgb(193, 193, 193); margin: 10px 25px; padding: 0px; resize: none; display: none;" required=""></textarea></div><iframe style="display: none;"></iframe></div>
-  
-              </li>
-              
-              <li>
-                <button class="beautiful-button text-center" type="submit" value="submit"> Submit</button> -->
                                 </form>
+                       
                             </div>
                         </div>
                     </div>
