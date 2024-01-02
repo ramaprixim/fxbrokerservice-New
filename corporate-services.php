@@ -33,24 +33,18 @@
             <div class="col-md-6 col-sm-6 col-xs-12">
                 <div class="about-content">
                     <h2>
-                        <span class="color-text">One-Stop Solution for Corporate Services</span>
+                        <span class="color-text">Company Formation</span>
                     </h2>
-                    <p class="hidden-sm">No matter how simple or complex your needs, our expert team of industry experts
-                        have the talent to turn your business experience into a successful operational business.</p>
-
-                    <p class="hidden-sm">FXBrokerService has connections with experienced company formation agents
-                        worldwide. FXBrokerService has successfully assisted many corporate entities in various
-                        jurisdictions across the forex market.</p>
-
-                    <p class="hidden-sm">After analyzing with you, we suggest the jurisdiction that best suits your
-                        business goals. Once you have decided which jurisdiction to choose, continue with the process.
+                    <p class="hidden-sm">
+                        Start on your brokerage venture with confidence. Our dedicated team specializes in simplifying
+                        the intricate process of company formation. From handling the necessary paperwork to providing
+                        expert guidance, we ensure a hassle-free experience customized to your specific requirements.
+                    </p>
+                    <p class="hidden-sm">
+                        Whether you're starting from scratch or expanding your business, our seamless approach to
+                        company formation sets the stage for your success.
                     </p>
 
-                    <p class="hidden-sm">With specialist incorporation agents in every jurisdiction, our highly skilled
-                        team has helped clients around the world set up and manage their forex businesses. We also
-                        support banking requirements (for foreign exchange businesses) and offer fully nominated and
-                        virtual office services to help you get your online business up and running professionally and
-                        efficiently.</p>
                 </div>
             </div>
         </div>
@@ -63,16 +57,16 @@
             <div class="col-md-6 col-sm-6 col-xs-12">
                 <div class="about-content">
                     <h2>
-                        <span class="color-text">Open An Offshore (overseas) Bank Account</span>
+                        <span class="color-text">Company Licensing</span>
                     </h2>
-                    <p class="hidden-sm">In the growing forex industry, there are many trades made every day that
-                        require an offshore business bank account with a financially stable institution.</p>
-
-                    <p class="hidden-sm">Make your brokerage successful with our services. We can help you get a bank
-                        account quickly, depending on your jurisdiction's needs.</p>
-
-                    <p class="hidden-sm">Contact the FXBrokerService team today to get your offshore trading account.
-                    </p>
+                    <p class="hidden-sm">Navigate regulatory landscapes effortlessly. Acquiring the right licenses is
+                        crucial for a thriving brokerage. Our seasoned experts possess in-depth knowledge of regulatory
+                        frameworks, guiding you through the maze of compliance requirements. We carefully assist in
+                        obtaining the essential licenses, ensuring that your brokerage operates within the legal
+                        framework, fostering trust and credibility among your clients.</p>
+                    <p class="hidden-sm">We carefully assist in
+                        obtaining the essential licenses, ensuring that your brokerage operates within the legal
+                        framework, fostering trust and credibility among your clients.</p>
                 </div>
             </div>
             <div class="col-md-6 col-sm-6 col-xs-12">
@@ -84,7 +78,38 @@
         </div>
     </div>
 </div>
+<div class="about-area bg-color2 area-padding">
+    <div class="container">
+        <div class="row">
+            <!-- Start column-->
+            <div class="col-md-6 col-sm-6 col-xs-12">
+                <div class="about-image">
+                    <img src="img/content/open banking account .png" alt="" class="ab-first-img">
+                </div>
+            </div>
+            <!-- End column-->
+            <!-- Start column-->
+            <div class="col-md-6 col-sm-6 col-xs-12">
+                <div class="about-content">
+                    <h2>
+                        <span class="color-text">Company Bank Account Opening</span>
+                    </h2>
+                    <p class="hidden-sm">
+                        Access financial opportunities without the complexity. Opening a bank account for your brokerage
+                        shouldn't be a troublesome task. Our proficient team streamlines the process, facilitating the
+                        opening of your company bank account. 
+                    </p>
+                    <p class="hidden-sm">
+                        Leveraging our network of banking partners and industry
+                        expertise, we ensure a smooth and efficient setup, providing you with essential banking services
+                        necessary for your brokerage's operational success.
+                    </p>
 
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 <div class="brand-area area-padding fix" data-stellar-background-ratio="0.6">
     <div class="container">
         <div class="row">

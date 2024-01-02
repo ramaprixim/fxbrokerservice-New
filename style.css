@@ -145,10 +145,10 @@ body {
 	background: #fff none repeat scroll 0 0;
 	color: #e3e1e7;
     font-family: 'Nunito', sans-serif;
-	font-size: 16px;
-	text-align: left;
-	overflow-x: hidden;
-	line-height: 26px;
+    font-size: 17px;
+    text-align: left;
+    overflow-x: hidden;
+    line-height: 26px;
 }
 #scrollUp {
     bottom: 40px;
