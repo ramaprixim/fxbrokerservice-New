@@ -154,7 +154,7 @@
                                                     <li><a href="about.php">About us</a>
                                                         <ul class="sub-menu">
                                                             <li><a href="our-servers.php">Our Servers</a></li>
-                                                            <li><a href="#">team</a></li>
+                                                            <!-- <li><a href="#">team</a></li> -->
                                                         </ul>
                                                     </li>
                                                     <li>
@@ -220,7 +220,7 @@
                                         
                                             <ul class="sub-menu">
                                                 <li><a href="our-servers.php">Our Servers</a></li>
-                                                <li><a href="#">Team</a></li>
+                                                <!-- <li><a href="#">Team</a></li> -->
                                             
                                             </ul>
                                         </li>
@@ -235,7 +235,7 @@
                                         </li>
                                         <li><a class="pages" href="#">Pricing</a>
                                             <ul class="sub-menu">
-                                            <li><a href="mt4-pricing.php">MT4</a></li>
+                                            <!-- <li><a href="mt4-pricing.php">MT4</a></li> -->
                                                             <li><a href="mt5-grelabel.php">MT5 GreyLabel</a></li>
                                                             <li><a href="mt5-whitelabel.php">MT5 WhiteLabel</a></li>
                                             </ul>

@@ -1,4 +1,4 @@
-<?php include("includes/header.php"); ?>
+<!--
 <style>
     h3{
         color:Black;
@@ -7,7 +7,7 @@
     text-align: center;
     }
 </style>
-<!-- Start breadcrumbs area -->
+
 <div class="page-area">
     <div class="breadcumb-overlay"></div>
     <div class="container">
@@ -32,4 +32,4 @@
 </div>
 </div>
 
-<?php include("includes/footer.php"); ?>
+--> 
