@@ -28,7 +28,7 @@
    Third Floor, Kingstown, Saint Vincent & the Grenadines, </li>
     <li><span>Phone:</span> <a href="tel:+14087094360">+14087094360</a>
     </li>
-    <li><span>Email:</span> <a href="mailto:sales@fxbrokerservice.com">sales@fxbrokerservice.com</a>
+    <li><span>Email:</span> <a href="mailto:sales@priximglobal.com">sales@priximglobal.com</a>
     </li>
 </ul>
 <ul class="footer-social-icon" style="display: flex;">
@@ -199,8 +199,8 @@
 		<script src="js/plugins.js"></script>
 		<!-- main js -->
 		<script src="js/main.js"></script>
-        <script src="https://dashboard.chatfuel.com/integration/landing-wa-widget.js" async defer data-prefilled="Hey" data-welcome="Hello" data-phone="14087094360"></script>
-<script src="https://www.google.com/recaptcha/api.js"></script>
+        <!-- <script src="https://dashboard.chatfuel.com/integration/landing-wa-widget.js" async defer data-prefilled="Hey" data-welcome="Hello" data-phone="14087094360"></script>
+<script src="https://www.google.com/recaptcha/api.js"></script> -->
 
     <script type="application/ld+json">
         {
@@ -220,7 +220,7 @@
         }
         </script>
 <!--Start of Tawk.to Script-->
-<script type="text/javascript">
+<!-- <script type="text/javascript">
     var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
     (function(){
     var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
@@ -230,7 +230,7 @@
     s1.setAttribute('crossorigin','*');
     s0.parentNode.insertBefore(s1,s0);
     })();
-    </script>
+    </script> -->
     <!--End of Tawk.to Script-->
 
 <!-- Google tag (gtag.js) -->

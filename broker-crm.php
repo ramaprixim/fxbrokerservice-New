@@ -3,6 +3,17 @@
     .support-services{
         height: 358px;
     }
+    @media (min-width: 992px) and (max-width: 1269px){
+.support-content {
+    padding-left: 0px;
+}
+.support-content h4{
+    font-size:20px;
+}
+.support-services {
+    height: 546px;
+}
+}
 </style>
 <div class="page-area">
     <div class="breadcumb-overlay"></div>

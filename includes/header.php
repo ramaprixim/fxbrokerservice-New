@@ -48,6 +48,22 @@
     padding: 10px;
     border-radius: 5px;
 }
+.nbtn{
+    background-color: #17aac9 !important;
+    padding: 10px !important;
+    border-radius: 5px !important;
+    margin-top: 21px !important;
+    margin-left: 18px !important;
+    border: 1px solid #17aac9 !important
+}
+.nbtn:hover{
+    background-color: transparent !important;
+    padding: 10px !important;
+    border-radius: 5px !important;
+    margin-top: 21px !important;
+    margin-left: 18px !important;
+    border: 1px solid #17aac9 !important
+}
     </style>
 		<body>
 
@@ -65,7 +81,7 @@
                         <div class=" col-md-6 col-sm-6 col-xs-12">
                             <div class="topbar-left">
                                 <ul>
-                                    <li><a href="mailto:sales@fxbrokerservice.com"><i class="fa fa-envelope"></i>sales@fxbrokerservice.com</a></li>
+                                    <li><a href="mailto:sales@priximglobal.com"><i class="fa fa-envelope"></i>sales@priximglobal.com</a></li>
                                     <li><a href="https://join.skype.com/invite/uXpRdZJUgs4i"><i class="fa fa-skype"></i>Skype</a></li>
                                     
                                 </ul>  
@@ -151,13 +167,7 @@
                                                       
                                                         </ul>
                                                     </li>
-                                                    <li><a class="pages" href="#">Pricing</a>
-                                                        <ul class="sub-menu">
-                                                            <li><a href="mt4-pricing.php">MT4</a></li>
-                                                            <li><a href="mt5-grelabel.php">MT5 GreyLabel</a></li>
-                                                            <li><a href="mt5-whitelabel.php">MT5 WhiteLabel</a></li>
-                                                        </ul>
-                                                    </li>
+                                                   
                                                     <li><a class="pages" href="#">Digital</a>
                                                         <ul class="sub-menu">
                                                             <li><a href="broker-website.php">BrokerWebsite</a></li>
@@ -170,13 +180,15 @@
                                                         
                                                     </li>
                                                     <li><a href="#">Blog</a></li>
+                                                    <li><a class="pages nbtn" href="#">Pricing</a>
+                                                        <ul class="sub-menu">
+                                                            <li><a href="mt5-grelabel.php">MT5 GreyLabel</a></li>
+                                                            <li><a href="mt5-whitelabel.php">MT5 WhiteLabel</a></li>
+                                                        </ul>
+                                                    </li>
                                                     <li>
                                                         <!-- search option end -->
-                                                        <a class="contact-us-btn" href="contact-us.php" style="    background-color: #17aac9;
-                                                        padding: 10px;
-                                                        border-radius: 5px;
-                                                        margin-top: 21px;
-                                                        margin-left: 18px;">Contact Us</a>
+                                                        <a class="contact-us-btn nbtn" href="contact-us.php">Contact Us</a>
                                                     </li>
                                                 </ul>
                                             </div>

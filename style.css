@@ -394,6 +394,9 @@ div#preloader {
     margin-right: 130px;
     margin-left: 180px;
 }
+.container-fluid{
+    width: 1719px;
+}
 @media screen and (max-width: 1664px) {
 .main-menu ul.navbar-nav li a {
     background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
@@ -407,6 +410,9 @@ div#preloader {
 .main-container{
     margin-right: 130px;
     margin-left: 180px;
+}
+.container-fluid{
+    width: 1380px;
 }
 }
 @media screen and (max-width: 1400px) {
@@ -423,6 +429,9 @@ div#preloader {
         margin-right: 70px;
         margin-left: 70px;
     }
+    .container-fluid{
+        width: 1200px;
+    }
 }
 @media screen and (max-width: 1251px) {
     .main-menu ul.navbar-nav li a {
@@ -437,6 +446,9 @@ div#preloader {
     .main-container{
         margin-right: 40px;
     margin-left: 40px;
+    }
+    .container-fluid{
+        width: 1200px;
     }
 }
 .main-menu ul.navbar-nav li a:hover{
@@ -622,9 +634,7 @@ div#preloader {
 .mean-container .mean-nav ul li {
     width: 99.7%;
 }
-.container-fluid{
-    width: 1719px;
-}
+
 /*----------------------------------------*/
 /*  3. Intro Area
 /*----------------------------------------*/
