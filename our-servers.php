@@ -87,7 +87,7 @@
             <div class="col-md-6 col-sm-6 col-xs-12">
                 <div class="about-content">
                     <h2>
-                        IT The collaboration between Equinix will provide FXBrokerService with a fiber optic network
+                        The collaboration between Equinix will provide FXBrokerService with a fiber optic network
                         that connects our trading servers around the world.
                     </h2>
                     <p class="hidden-sm"> We provide lightning fast execution for every trade. Our collaboration with
