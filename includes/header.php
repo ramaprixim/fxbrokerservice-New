@@ -65,7 +65,7 @@
                         <div class=" col-md-6 col-sm-6 col-xs-12">
                             <div class="topbar-left">
                                 <ul>
-                                    <li><a href="mailto:sales@fxbrokerservice.com"><i class="fa fa-envelope"></i>sales@fxbrokerservice.com</a></li>
+                                    <li><a href="mailto:sales@priximglobal.com"><i class="fa fa-envelope"></i>sales@priximglobal.com</a></li>
                                     <li><a href="https://join.skype.com/invite/uXpRdZJUgs4i"><i class="fa fa-skype"></i>Skype</a></li>
                                     
                                 </ul>  
@@ -138,7 +138,7 @@
                                                     <li><a href="about.php">About us</a>
                                                         <ul class="sub-menu">
                                                             <li><a href="our-servers.php">Our Servers</a></li>
-                                                            <li><a href="#">team</a></li>
+                                                            <!-- <li><a href="#">team</a></li> -->
                                                         </ul>
                                                     </li>
                                                     <li>
@@ -153,7 +153,7 @@
                                                     </li>
                                                     <li><a class="pages" href="#">Pricing</a>
                                                         <ul class="sub-menu">
-                                                            <li><a href="mt4-pricing.php">MT4</a></li>
+                                                            <!-- <li><a href="mt4-pricing.php">MT4</a></li> -->
                                                             <li><a href="mt5-grelabel.php">MT5 GreyLabel</a></li>
                                                             <li><a href="mt5-whitelabel.php">MT5 WhiteLabel</a></li>
                                                         </ul>
@@ -208,7 +208,7 @@
                                         
                                             <ul class="sub-menu">
                                                 <li><a href="our-servers.php">Our Servers</a></li>
-                                                <li><a href="#">Team</a></li>
+                                                <!-- <li><a href="#">Team</a></li> -->
                                             
                                             </ul>
                                         </li>
@@ -223,7 +223,7 @@
                                         </li>
                                         <li><a class="pages" href="#">Pricing</a>
                                             <ul class="sub-menu">
-                                            <li><a href="mt4-pricing.php">MT4</a></li>
+                                            <!-- <li><a href="mt4-pricing.php">MT4</a></li> -->
                                                             <li><a href="mt5-grelabel.php">MT5 GreyLabel</a></li>
                                                             <li><a href="mt5-whitelabel.php">MT5 WhiteLabel</a></li>
                                             </ul>

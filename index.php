@@ -17,7 +17,7 @@
                                     trust and performance, we aim to build long-term relationships
                                     with our clients.</p>
                                 <div class="layer-1-3">
-                                    <a href="contact.php" class="ready-btn">Contact Us</a>
+                                    <a href="contact-us.php" class="ready-btn">Contact Us</a>
                                     <a href="about.php" class="ready-btn">About Us</a>
                                 </div>
                             </div>
@@ -357,7 +357,7 @@
     </div>
 </div>
 <!-- End support services area -->
-<div class="reviews-area fix area-padding">
+<!-- <div class="reviews-area fix area-padding">
     <div class="container">
         <div class="row">
             <div class="col-md-12 col-sm-12 col-xs-12">
@@ -371,7 +371,7 @@
             <div class="reviews-top">
                 <div class="col-md-12 col-sm-12 col-xs-12">
                     <div class="reviews-content">
-                        <!-- start testimonial carousel -->
+                      
                         <div class="testimonial-carousel item-indicator">
                             <div class="single-testi">
                                 <div class="testi-text">
@@ -394,13 +394,13 @@
                                     <div class="testi-img ">
                                         <img src="img/review/1.png" alt="">
                                         <div class="guest-details">
-                                            <!-- <h4>Google</h4> -->
+                                          
                                             <span class="guest-rev">Clients - <a href="#">Anderson</a></span>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                            <!-- End single item -->
+                          
                             <div class="single-testi">
                                 <div class="testi-text">
                                     <div class="clients-text">
@@ -421,13 +421,13 @@
                                     <div class="testi-img ">
                                         <img src="img/review/1.png" alt="">
                                         <div class="guest-details">
-                                            <!-- <h4>Angel lima</h4> -->
+                                          
                                             <span class="guest-rev">Clients - <a href="#">Willow</a></span>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                            <!-- End single item -->
+                          
                             <div class="single-testi">
                                 <div class="testi-text">
                                     <div class="clients-text">
@@ -449,13 +449,13 @@
                                     <div class="testi-img ">
                                         <img src="img/review/1.png" alt="">
                                         <div class="guest-details">
-                                            <!-- <h4>Arthur Doil</h4> -->
+                                          
                                             <span class="guest-rev">Clients - <a href="#">Wesley</a></span>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                            <!-- End single item -->
+                          
                             <div class="single-testi">
                                 <div class="testi-text">
                                     <div class="clients-text">
@@ -475,20 +475,20 @@
                                     <div class="testi-img ">
                                         <img src="img/review/1.png" alt="">
                                         <div class="guest-details">
-                                            <!-- <h4>Gabriel Hank</h4> -->
+                                           
                                             <span class="guest-rev">Clients - <a href="#">Audrey</a></span>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                            <!-- End single item -->
+                          
                         </div>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-</div>
+</div> -->
         <!-- End support services area -->
 
         <!-- Start overview Area -->

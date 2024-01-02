@@ -28,7 +28,7 @@
    Third Floor, Kingstown, Saint Vincent & the Grenadines, </li>
     <li><span>Phone:</span> <a href="tel:+14087094360">+14087094360</a>
     </li>
-    <li><span>Email:</span> <a href="mailto:sales@fxbrokerservice.com">sales@fxbrokerservice.com</a>
+    <li><span>Email:</span> <a href="mailto:sales@priximglobal.com.com">sales@priximglobal.com.com</a>
     </li>
 </ul>
 <ul class="footer-social-icon" style="display: flex;">
