@@ -97,7 +97,6 @@
                                         <div class="footer-head">
                                             <h4>Pricing</h4>
                                             <ul class="footer-list">
-                                            <li><a href="mt4-pricing.php">MT4</a></li>
                                             <li><a href="mt5-grelabel.php">MT5 GreyLabel</a></li>
                                             <li><a href="mt5-whitelabel.php">MT5 WhiteLabel</a></li>
                                             </ul>
@@ -116,7 +115,7 @@
                                             <h4>Digital</h4>
                                             <ul class="footer-list">
                                                 <li><a href="broker-website.php">Broker Website</a></li>
-                                                <li><a href="forexseo.php">Forex SEO</a></li>
+                                                <li><a href="forex-seo.php">Forex SEO</a></li>
                                                 <li><a href="logodesign.php">Logo Design</a></li>
                                                
                                             </ul>

@@ -104,7 +104,7 @@
                             <h4>Secure Transactions</h4>
                             <p>Payment gateways offer secure payment processing that ensures that the customer's
                                 personal and financial information is kept safe during transactions.</p>
-                            <br>
+                       
                         </div>
                     </div>
                 </div>

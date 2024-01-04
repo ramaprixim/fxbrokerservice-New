@@ -295,6 +295,7 @@
                             <p>As your FX Brokerage grows, FXBrokerservice Company's FX CRM solution can scale alongside
                                 your business. It can accommodate an increasing number of clients, expanding product
                                 offerings, and evolving business requirements.</p>
+                                <br>
                         </div>
                     </div>
                 </div>
