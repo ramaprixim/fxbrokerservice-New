@@ -345,6 +345,7 @@
                                 technology, which presents opportunities for brokers to leverage advanced trading
                                 platforms and tools. By offering cutting-edge technology and user-friendly platforms,
                                 brokers can attract more clients and retain existing ones.</p>
+                                <br>
                         </div>
                     </div>
                 </div>
