@@ -85,7 +85,6 @@
                             <p>A well-designed logo can help establish your brand identity and increase brand
                                 recognition. We create a logo that is memorable and recognizable to your target
                                 audience.</p>
-                                <br>
                         </div>
                     </div>
                 </div>
@@ -135,6 +134,7 @@
                             <p>FXBrokerService companies specialize in creating logos for businesses, so they have the
                                 expertise and knowledge necessary to create a professional and effective logo.</p>
                                 <br>
+                                <br>
                         </div>
                     </div>
                 </div>
@@ -150,6 +150,7 @@
                             <h4>Value for Money</h4>
                             <p>While hiring a logo design company may seem like an additional expense. FXBrokerService
                                 can help attract new customers, increase brand recognition, and boost revenue.</p>
+                                <br>
                         </div>
                     </div>
                 </div>
