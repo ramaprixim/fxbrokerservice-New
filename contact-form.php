@@ -18,7 +18,8 @@ if(isset($_POST['email'])) {
     if(!isset($_POST['name']) ||
         !isset($_POST['phone']) ||
         !isset($_POST['email']) ||
-        
+        !isset($_POST['country']) ||
+        !isset($_POST['service_interested']) ||
         !isset($_POST['message'])) {
         died('We are sorry, but there appears to be a problem with the form you submitted.');       
     }
@@ -28,6 +29,8 @@ if(isset($_POST['email'])) {
     $name = $_POST['name']; 
     $phone = $_POST['phone']; 
     $email_from = $_POST['email']; 
+    $country = $_POST['country']; 
+    $service_interested= $_POST['service_interested']; 
     $comments = $_POST['message']; 
     
     $ip = $_SERVER['REMOTE_ADDR']; 
@@ -42,6 +45,8 @@ if(isset($_POST['email'])) {
     $email_message .= "Senders IP: ".clean_string($ip)."\n\n"; 
     $email_message .= "Name: ".clean_string($name)."\n";
     $email_message .= "Phone: ".clean_string($phone)."\n";
+    $email_message .= "Country: ".clean_string($phone)."\n";
+    $email_message .= "Service Interested: ".clean_string($service_interested)."\n";
     $email_message .= "Email: ".clean_string($email_from)."\n";
    
     $email_message .= "Message: ".clean_string($comments)."\n";
