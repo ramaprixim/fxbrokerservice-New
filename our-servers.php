@@ -1,8 +1,8 @@
 <?php include("includes/header.php"); ?>
 
 <style>
-    h2{
-        font-size: 27px; 
+    h2 {
+        font-size: 27px;
         line-height: 40px;
     }
 </style>
@@ -42,19 +42,23 @@
                         Our Servers
                         <!-- <span class="color-text">a Low Cost?</span> -->
                     </h2>
-                    <p class="hidden-sm">FXBrokerService is an industry leader in technology, which is why live trading
-                        servers are located in leading financial centers in London and New York.</p>
+                    <p class="hidden-sm">At FXBrokerService, we lead the industry in technological innovation,
+                        strategically siting our live trading servers in key financial hubs such as London and New York.
+                    </p>
 
 
                     <p class="hidden-sm">
-                    <p class="hidden-sm">We source ECN market liquidity from these trading servers and stream it to our
-                        clients' MT5 accounts. We spent a lot of time and resources researching which markets would
-                        bring the greatest benefit to our clients. From a global business perspective, this combination
-                        of New York and London is the best. FXBrokerService position in the industry will only improve
-                        with the continuous improvement of its trading network of servers, data centers, including
-                        hardware upgrades and physical locations. FXBrokerService clients will enjoy the super-fast, but
-                        above all, stable trading conditions that this combination of servers provides. FXBrokerService
-                        offers a technological revolution! Get started today!</p>
+                    <p class="hidden-sm">Our commitment to excellence is reflected in our sourcing of ECN market
+                        liquidity from these servers, seamlessly streaming it to our clients' MT5 accounts. Extensive
+                        research and investment guide our choice of markets to ensure optimal benefits for our clients
+                        on a global scale. The synergy between New York and London establishes an unparalleled
+                        foundation for FXBrokerService, and our continuous enhancements to the trading network,
+                        including server infrastructure, data centers, and hardware upgrades, reinforce our industry
+                        position. Experience super-fast and rock-solid trading conditions with FXBrokerService's
+                        cutting-edge technology—a revolution in the world of Forex. Join us today and elevate your
+                        trading journey!
+
+                    </p>
 
 
                 </div>
@@ -83,7 +87,7 @@
             <div class="col-md-6 col-sm-6 col-xs-12">
                 <div class="about-content">
                     <h2>
-                        IT The collaboration between Equinix will provide FXBrokerService with a fiber optic network
+                        The collaboration between Equinix will provide FXBrokerService with a fiber optic network
                         that connects our trading servers around the world.
                     </h2>
                     <p class="hidden-sm"> We provide lightning fast execution for every trade. Our collaboration with
@@ -260,6 +264,7 @@
 
                             </p>
                             <br>
+                            <br>
                         </div>
                     </div>
                 </div>
@@ -291,7 +296,7 @@
                             <h4>Cost Savings</h4>
                             <p>By consolidating data and applications onto a single server, businesses can reduce
                                 hardware and software costs, as well as IT management expenses.</p>
-                                <br>
+                            <br>
                         </div>
                     </div>
                 </div>

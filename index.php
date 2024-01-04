@@ -59,17 +59,13 @@
                         customer service is a vital component.</p>
 
                     <p class="hidden-sm"> Forex Brokers can start small with
-                        <a href="" style="color: #5764ec"><b>MT4</b></a>
-                        and
                         <a href="" style="color: #5764ec"><b>MT5</b></a>
                         Forex trading Solutions at an affordable cost and scale up as their
                         business grows. This is a great way to start a small Online Forex
                         Trading Brokerage business without investing a lot of money. It is
                         great for people who want to grow their business by investing small
-                        amounts of money, so they can use different software like MT4 and
-                        MT5 Solutions. With careful planning and execution, starting a Forex
-                        Brokerage firm with MT4 and MT5 Forex trading solutions can be a
-                        profitable and fulfilling venture.
+                        amounts of money, so they can use different software like
+                        MT5 Solutions.
                     </p>
                 </div>
             </div>
@@ -199,6 +195,7 @@
                             <p>We take the security of our client's funds very seriously and use state-of-the-art
                                 technology to ensure that all transactions are secure and protected.
                             </p>
+                            <br>
                         </div>
                     </div>
                 </div>

@@ -3,6 +3,16 @@
     .support-services{
         height: 358px;
     }
+    @media screen and (max-width: 1300px) {
+        .support-services {
+    height: 450px;
+}
+    }
+    @media screen and (max-width: 1400px) {
+        .support-services {
+    height: 530px;
+}
+    }
     @media (min-width: 992px) and (max-width: 1269px){
 .support-content {
     padding-left: 0px;

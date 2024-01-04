@@ -69,7 +69,7 @@
                                             <ul class="footer-list">
                                                 <li><a href="index.php">Home</a></li>
                                                 <li><a href="corporateservice.php">Corporate Services</a></li>
-                                                <li><a href="contactus.php">Contact Us</a></li>
+                                                <li><a href="contact-us.php">Contact Us</a></li>
                                                 <li><a href="#">Blog</a></li>
                                                 
                                             </ul>
@@ -199,8 +199,8 @@
 		<script src="js/plugins.js"></script>
 		<!-- main js -->
 		<script src="js/main.js"></script>
-        <!-- <script src="https://dashboard.chatfuel.com/integration/landing-wa-widget.js" async defer data-prefilled="Hey" data-welcome="Hello" data-phone="14087094360"></script>
-<script src="https://www.google.com/recaptcha/api.js"></script> -->
+        <script src="https://dashboard.chatfuel.com/integration/landing-wa-widget.js" async defer data-prefilled="Hey" data-welcome="Hello" data-phone="14087094360"></script>
+<script src="https://www.google.com/recaptcha/api.js"></script> 
 
     <script type="application/ld+json">
         {
