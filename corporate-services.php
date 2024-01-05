@@ -116,7 +116,7 @@
             <div class="col-md-12 col-sm-12 col-xs-12">
                 <div class="section-headline text-center">
                     <h3>We’re here to help and answer any question you might have.</h3>
-                    <a class="hire-btn" href="#">Let's Talk Now</a>
+                    <a class="hire-btn" href="contact-us.php">Let's Talk Now</a>
                 </div>
             </div>
         </div>
