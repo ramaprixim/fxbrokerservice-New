@@ -1,7 +1,12 @@
 <?php include("includes/header.php"); ?>
 <style>
     .support-services {
-        height: 358px;
+        height: 300px;
+    }
+    @media screen and (max-width: 1600px) {
+        .support-services {
+            height: 350px;
+        }
     }
 
     @media screen and (max-width: 1300px) {

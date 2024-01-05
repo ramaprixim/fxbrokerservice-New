@@ -81,7 +81,6 @@
                                         <div class="footer-head">
                                             <h4>Fx Solution</h4>
                                             <ul class="footer-list">
-                                                <li><a href="mt4.php">MT4</a></li>
                                                 <li><a href="mt5.php">MT5</a></li>
                                                 <li><a href="broker-crm.php">BrokerCRM</a></li>
                                                 <li><a href="psp.php">PSP</a></li>
