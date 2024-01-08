@@ -108,9 +108,7 @@
                                 <!-- Start column-->
                                 <div class="col-md-6 col-sm-3 col-xs-12" >
                                     <div class="footer-content last-content">
-                                        <div class="footer-head" style="
-    margin-top: 20px;
-">
+                                        <div class="footer-head" style="margin-top: 17px;">
                                             <h4>Pricing</h4>
                                             <ul class="footer-list">
                                             <li><a href="mt5-grelabel.php">MT5 GreyLabel</a></li>
