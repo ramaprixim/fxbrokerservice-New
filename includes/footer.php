@@ -55,9 +55,9 @@
             </div>
         </div>
     </div>
-    <div class="col-md-6">
+    <!-- <div class="col-md-6">
         
-    </div>
+    </div> -->
 </div>
                         </div>
                         <div class="col-md-8">
@@ -89,10 +89,25 @@
                                         </div>
                                     </div>
                                 </div>
+
+
+                                <div class="col-md-6 hidden-sm col-xs-12 mt-4" style="margin-top: 20px;">
+                                     <div class="footer-content ">
+                                        <div class="footer-head">
+                                            <h4>Digital</h4>
+                                            <ul class="footer-list">
+                                                <li><a href="broker-website.php">Broker Website</a></li>
+                                                <li><a href="forex-seo.php">Forex SEO</a></li>
+                                                <li><a href="logodesign.php">Logo Design</a></li>
+                                               
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
                                 <!-- End column-->
                                 <!-- Start column-->
-                                <div class="col-md-6 col-sm-3 col-xs-12" style="margin-top: 20px;">
-                                    <div class="footer-content">
+                                <div class="col-md-6 col-sm-3 col-xs-12" >
+                                    <div class="footer-content last-content">
                                         <div class="footer-head">
                                             <h4>Pricing</h4>
                                             <ul class="footer-list">
@@ -108,19 +123,7 @@
     
                                 <!-- End column-->
                                 <!-- Start column-->
-                                <div class="col-md-6 hidden-sm col-xs-12 mt-4" style="margin-top: 20px;">
-                                     <div class="footer-content last-content">
-                                        <div class="footer-head">
-                                            <h4>Digital</h4>
-                                            <ul class="footer-list">
-                                                <li><a href="broker-website.php">Broker Website</a></li>
-                                                <li><a href="forex-seo.php">Forex SEO</a></li>
-                                                <li><a href="logodesign.php">Logo Design</a></li>
-                                               
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
+                               
                             </div> 
                         </div>
                     </div>
