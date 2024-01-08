@@ -38,7 +38,7 @@
     <li><a href="https://join.skype.com/invite/uXpRdZJUgs4i" target="_blank"><i class="fa fa-skype"></i></a>
     </li>
     <li><a href="https://twitter.com/fxbrokerservice
-        " target="_blank"><i class="fa fa-twitter"></i></a>
+        " target="_blank"><i class="fa-brands fa-x-twitter"></i></a>
     </li>
    
     <li><a href="https://wa.me/+14087094360?text=Hi"  target="_blank"><i class="fa fa-whatsapp"></i></a>
@@ -140,7 +140,7 @@
                         </span>
                     <br><br>
 
-                    <span style="color:white;">Reproduction- </span> <span style="color: grey;">Website visitors are prohibited from copying, linking to, posting content or uploading data to external sources. These prohibitions also apply to the copying, transmission or reproduction of data in whole or in part, regardless of method and form, including elements such as text, audio tracks, video content and other elements.
+                    <span style="color:white;">Recreation- </span> <span style="color: grey;">Website visitors are prohibited from copying, linking to, posting content or uploading data to external sources. These prohibitions also apply to the copying, transmission or reproduction of data in whole or in part, regardless of method and form, including elements such as text, audio tracks, video content and other elements.
                     </span>
                     <br> <br>
                     <span style="color: aliceblue;">KYC-</span> <span style="color: grey;">Know Your Customer - All individuals/entities seeking to register for White Label are subject to the FXBrokerService verification process. This includes Know Your Customer (KYC) documents submitted by the approaching beneficiary/customer.

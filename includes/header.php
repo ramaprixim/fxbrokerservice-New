@@ -16,7 +16,7 @@
 		<link rel="shortcut icon" type="image/x-icon" href="img/logo/favicon.png">
         <link rel="canonical" href="<?php echo $canonical ?>" />
 		<!-- all css here -->
-
+        <script src="https://kit.fontawesome.com/d9355482a9.js" crossorigin="anonymous"></script>
 		<!-- bootstrap v3.3.6 css -->
 		<link rel="stylesheet" href="css/bootstrap.min.css">
 		<!-- owl.carousel css -->
@@ -109,7 +109,7 @@
                 </li>
                 <li>
                   <a href="https://twitter.com/fxbrokerservice" target="_blank"
-                    ><i class="fa fa-twitter"></i
+                    ><i class="fa-brands fa-x-twitter"></i
                   ></a>
                 </li>
                 <li>
