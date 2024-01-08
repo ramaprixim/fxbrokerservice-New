@@ -169,7 +169,7 @@
                                                    
                                                     <li><a class="pages" href="#">Digital</a>
                                                         <ul class="sub-menu">
-                                                            <li><a href="broker-website.php">BrokerWebsite</a></li>
+                                                            <li><a href="broker-website.php">Broker Website</a></li>
                                                             <li><a href="forex-seo.php">Forex SEO</a></li>
                                                             <li><a href="logodesign.php">Logo Design</a></li>
                                                           
@@ -240,7 +240,7 @@
                                         </li>
                                         <li><a class="pages" href="#">Digital</a>
                                             <ul class="sub-menu">
-                                                <li><a href="broker-website.php">BrokerWebsite</a></li>
+                                                <li><a href="broker-website.php">Broker Website</a></li>
                                                 <li><a href="forex-seo.php">Forex SEO</a></li>
                                                 <li><a href="logodesign.php">Logo Design</a></li>
                                             </ul>
