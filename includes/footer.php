@@ -76,7 +76,7 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-md-6 hidden-sm col-xs-12 mt-4" >
+                                <div class="col-md-6 hidden-sm col-xs-12 mt-4" style="margin-bottom: 33px;">
                                     <div class="footer-content">
                                         <div class="footer-head">
                                             <h4>Fx Solution</h4>
