@@ -345,6 +345,7 @@
                                 technology, which presents opportunities for brokers to leverage advanced trading
                                 platforms and tools. By offering cutting-edge technology and user-friendly platforms,
                                 brokers can attract more clients and retain existing ones.</p>
+                                <br>
                         </div>
                     </div>
                 </div>
@@ -536,29 +537,6 @@
                                 <div class="panel panel-default">
                                     <div class="panel-heading">
                                         <h4 class="check-title">
-                                            <a data-toggle="collapse" data-parent="#accordion" href="#check2">
-                                                <span class="acc-icons"></span>What are the Requirements for
-                                                Opening a Brokerage Firm?
-                                            </a>
-                                        </h4>
-                                    </div>
-                                    <div id="check2" class="panel-collapse collapse">
-                                        <div class="panel-body">
-                                            <p>
-                                                To <b>Opening a Brokerage Firm</b> , you will need to have the
-                                                necessary licenses, including a Series 7 license, which allows
-                                                you to trade securities, as well as a Series 63 license, which
-                                                is required for selling securities. You will also need to
-                                                register your firm with the Financial Industry Regulatory
-                                                Authority (FINRA) and comply with its rules and regulations. </p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- End Panel Default -->
-                                <!-- Panel Default -->
-                                <div class="panel panel-default">
-                                    <div class="panel-heading">
-                                        <h4 class="check-title">
                                             <a data-toggle="collapse" data-parent="#accordion" href="#check3">
                                                 <span class="acc-icons"></span>How Can I Start my Own Forex
                                                 Brokerage?
@@ -573,6 +551,26 @@
                                                 establish banking relationships. Additionally, you will need to
                                                 hire staff, develop marketing strategies, and create a risk
                                                 management system. </p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- End Panel Default -->
+                                <!-- Panel Default -->
+                                <div class="panel panel-default">
+                                    <div class="panel-heading">
+                                        <h4 class="check-title">
+                                            <a data-toggle="collapse" data-parent="#accordion" href="#check7">
+                                                <span class="acc-icons"></span> What is gray label?
+                                            </a>
+                                        </h4>
+                                    </div>
+                                    <div id="check7" class="panel-collapse collapse ">
+                                        <div class="panel-body">
+                                            <p>
+                                                Grey label typically refers to a product or service that allows partial
+                                                customization and branding, offering fewer options than white label but
+                                                more than standard products.
+                                            </p>
                                         </div>
                                     </div>
                                 </div>
@@ -650,26 +648,6 @@
                                                 business, easily setting up their operations and quickly start
                                                 operations with powerful features provided by expert Forex
                                                 services providers. </p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- End Panel Default -->
-                                <!-- Panel Default -->
-                                <div class="panel panel-default">
-                                    <div class="panel-heading">
-                                        <h4 class="check-title">
-                                            <a data-toggle="collapse" data-parent="#accordion" href="#check7">
-                                                <span class="acc-icons"></span> What is gray label?
-                                            </a>
-                                        </h4>
-                                    </div>
-                                    <div id="check7" class="panel-collapse collapse ">
-                                        <div class="panel-body">
-                                            <p>
-                                                Grey label typically refers to a product or service that allows partial
-                                                customization and branding, offering fewer options than white label but
-                                                more than standard products.
-                                            </p>
                                         </div>
                                     </div>
                                 </div>

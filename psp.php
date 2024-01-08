@@ -41,10 +41,8 @@
                         prompted to furnish details such as their credit or debit card number, expiration date, and CVV
                         code, after which the process of transferring funds from the client's account to the broker's
                         account is executed. MT4 and MT5 Solutions.</p>
-                        <br>
-                        <br>
                     <div class="about-blockquote">
-                        <p style="color: #fffafa; font-size: 18px; font-weight: 500; line-height: 1.5; font-family: Roboto, sans-serif;">
+                        <p class="hidden-sm">
                             This streamlined and hassle-free system ensures that your payments
                             are always processed efficiently and with the utmost security.
                         </p>
@@ -104,7 +102,7 @@
                             <h4>Secure Transactions</h4>
                             <p>Payment gateways offer secure payment processing that ensures that the customer's
                                 personal and financial information is kept safe during transactions.</p>
-                            <br>
+                       
                         </div>
                     </div>
                 </div>

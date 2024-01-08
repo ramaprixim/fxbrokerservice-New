@@ -78,6 +78,7 @@
                             <h4>Module Integration & Plugins</h4>
                             <p>To make websites easy to access, it is important to integrate web Plugins and Modules.
                             </p>
+                            <br>
                         </div>
                     </div>
                 </div>
@@ -108,6 +109,7 @@
                             <h4>SEO Integration</h4>
                             <p>We integrate all modules and plugins associated with SEO into our forex website design services.
                             </p>
+                            <br>
                         </div>
                     </div>
                 </div>
@@ -209,7 +211,7 @@
             <div class="col-md-12 col-sm-12 col-xs-12">
                 <div class="section-headline text-center">
                     <h3>We’re here to help and answer any question you might have.</h3>
-                    <a class="hire-btn" href="#">Let's Talk Now</a>
+                    <a class="hire-btn" href="contact-us.php">Let's Talk Now</a>
                 </div>
             </div>
         </div>

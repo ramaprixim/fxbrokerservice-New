@@ -160,7 +160,6 @@
                                                     <li>
                                                         <a class="pages" href="#">FX Solution </a>
                                                         <ul class="sub-menu">
-                                                            <li><a href="mt4.php">MT4</a></li>
                                                             <li><a href="mt5.php">MT5</a></li>
                                                             <li><a href="broker-crm.php">BrokerCRM</a></li>
                                                             <li><a href="psp.php">PSP</a></li>
@@ -226,7 +225,6 @@
                                         </li>
                                         <li><a class="pages" href="#">FX Solution</a>
                                             <ul class="sub-menu">
-                                                <li><a href="mt4.php">MT4</a></li>
                                                 <li><a href="mt5.php">MT5</a></li>
                                                 <li><a href="broker-crm.php">BrokerCRM</a></li>
                                                 <li><a href="psp.php">PSP</a></li>

@@ -23,7 +23,7 @@
                 <div class="row">
 					<div class="col-md-12 col-sm-12 col-xs-12">
 						<div class="section-headline text-center">
-                            <h3>Our all services worldwide</h3>
+                            <h3>MT5 GreyLabel Forex Services</h3>
                             <p>Our MT5 GreyLabel Forex Broker Services Comprehensive Range of Offerings</p>
 						</div>
 					</div>
