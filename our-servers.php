@@ -115,8 +115,8 @@
                         FXBrokerService is constantly implementing new technologies to help our clients.
                         <!-- <span class="color-text">a Low Cost?</span> -->
                     </h2>
-                    <p class="hidden-sm">Equinix MT4 Cross is a next-generation price aggregator that connects dark
-                        money pools to customers' MT4 platform. The Equinix MT4 bridge is the only technologically
+                    <p class="hidden-sm">Equinix MT5 Cross is a next-generation price aggregator that connects dark
+                        money pools to customers' MT5 platform. The Equinix MT5 bridge is the only technologically
                         advanced solution on the market that can process large orders at lightning speed.</p>
 
 
@@ -184,7 +184,7 @@
                         uptime and supports mission-critical workloads.
                         <!-- <span class="color-text">a Low Cost?</span> -->
                     </h2>
-                    <p class="hidden-sm">The processing power of AWS makes the MT4 bridge the fastest. Clients have
+                    <p class="hidden-sm">The processing power of AWS makes the MT5 bridge the fastest. Clients have
                         quick access to global market prices for smooth trading.</p>
 
 
