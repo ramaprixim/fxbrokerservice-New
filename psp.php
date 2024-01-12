@@ -40,7 +40,8 @@
                         of using this payment gateway does not differ from that of other platforms. The user will be
                         prompted to furnish details such as their credit or debit card number, expiration date, and CVV
                         code, after which the process of transferring funds from the client's account to the broker's
-                        account is executed. MT4 and MT5 Solutions.</p>
+                        account is executed. MT5 Solutions.
+                    </p>
                     <div class="about-blockquote">
                         <p class="hidden-sm">
                             This streamlined and hassle-free system ensures that your payments
@@ -102,7 +103,7 @@
                             <h4>Secure Transactions</h4>
                             <p>Payment gateways offer secure payment processing that ensures that the customer's
                                 personal and financial information is kept safe during transactions.</p>
-                       
+
                         </div>
                     </div>
                 </div>
