@@ -63,6 +63,7 @@
             </div>
         </div>
     </div>
+</div>
     <div class="how-to-area bg-color area-padding">
         <div class="container">
             <div class="row">
