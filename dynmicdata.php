@@ -13,9 +13,9 @@ switch ($menuactive) {
         break;
 
     case 'about.php':
-        $title = "About Us | Forex Broker | Forex Grey Label | FXBrokerservice";
-        $description = "Ready to become a Forex Broker? FXBrokerservice offers the best Forex Grey Label and Foex Brokerage Solutions. Experience success in the Forex Market.";
-        $keywords = "Forex Broker, Forex Grey Label, Forex Business, Forex Company, Forex Brokerage Solution, MT4 Grey Label, MT5 Grey Label,  Forex Brokerage Services, Forex Trading, Forex Brokerage Technology, Forex Brokerage Solutions, Start your Forex Brokerage Business, Vision, Mission, Forex Brokerages, Online Forex Trading, FX Broker, Brokerage Business, Forex Trading Platforms, Start Your Own Forex Brokerage, How to Start Forex Trading, About us,";
+        $title = "Start a Forex Brokerage Business | Forex Greylable Solution | About Us";
+        $description = "Looking to Start a Forex Brokerage Firm? Our Forex brokerages Solutions are designed to help you build a successful business.Join us today!";
+        $keywords = "Forex Trading, Forex Brokers, Best Forex Broker, Forex Trading Platforms, Best Trading Platform, Forex Market, Trading Platform, Best Trading, trading fx, Best Forex Markets to Trade, MT5 Server, MT4 Server, MT5 Forex Trading, Best Forex Companies, Best Trading Broker, Forex Brokerage, Forex Brokerage Business, FXbrokerservice, FX Broker, Forex Company, Forex Trading Brokers, Best Broker for Forex Trading, Forex Trading Software, Forex Market Trading, Best Trading Company, FX Companies, Best Forex Brokerage Solution, MT4 Brokers, MT4 Trading, MT5 Trading, Trading FX, MT4 Forex, Best Forex, Best Forex Trading, Forex Business, mt4 mt5, MT5 Market, MT5 Forex, MT4 Market, Best Forex to Trade, Forex Trading mt4, MT4 and MT5, MT4 to MT5, Best Forex Trading Company, Forex and Trading";
         $name="About us";
         $alternateName="About us";
         $url="https://fxbrokerservice.com/about.php";
@@ -58,10 +58,10 @@ switch ($menuactive) {
         $url="https://fxbrokerservice.com/forex-seo.php";
         break;
 
-    case 'logo-design.php':
-        $title = "Logo Design Services | Logo Design Firm - FXBrokerService";
-        $description = "Looking for a Logo Design Services? Our Logo Design firm offers top-notch services to create a unique and compelling Logo for your Business. Contact us today.";
-        $keywords = "Logo Design Solutions, Logo Design Company, Logo Maker, Logo Design Agency, Logo Design Firm, Logo Design For Business, Logo Design Online, Company Logo Design, Best Logo Maker, Brand Logo Maker, Logo Design Maker, Forex Logo, Logo Design Website, Name Logo Maker, Best Logo Design, Logo Design Creator, Creative Logo Maker, Best Logo Design Software, Logo Design Tool, Logo Design Services,";
+    case 'logodesign.php':
+        $title = "Professional Logo Design Services| Logo Design Company";
+        $description = "FXBrokerservice is a Logo Design Company that offers a range of services to help you create the perfect logo for your company.";
+        $keywords = "Logo Design Online, Logo Creator, Logo Maker, Free Logo Maker, Logo Editor, Logo Generator, Business Logo, Company Logo Design, Best Logo Maker, Brand Logo Maker, Logo Design Maker, Forex Logo, Logo Design Website, Name Logo Maker, Best Logo Design, Logo Design Creator, Creative Logo Maker, Best Logo Design Software, Logo Design Tool, My Logo Maker, Best Logo Design Company, Corporate Logo Design, Logo Design And Branding, Logo, Logo Design For Business";
         $name="Logo Design";
         $alternateName="Logo Design";
         $url="https://fxbrokerservice.com/logo-design.php";
@@ -84,6 +84,23 @@ switch ($menuactive) {
         $alternateName="MT5";
         $url="https://fxbrokerservice.com/mt5.php";
         break;
+
+        case 'mt5-greylabel.php':
+            $title ="MT5 Grey Label | MT5 Grey Label Provider | Forex Brokerage";
+            $description ="Looking for a Reliable Forex Brokerage Business? We are a Leading MT5 Grey Label Provider, Offering a Comprehensive Range of Services. Join us today!";
+            $keywords ="MT5 Grey Label, MT5 Grey Label Cost, MetaTrader5, Forex Brokers, MT5 Grey Label Provider, How to Start a Forex Brokerage Firm, How to Start Forex Brokerage Business, Forex Grey Label Provider, Forex Trading Platforms, MT5 brokers, MT5 Trading, Forex Broker Services, MT5 Manager, MT5 Trading Platform, Forex Brokerage Business with MT5 Grey Label, MT5 Grey Label Solution, Benefits of MT5, Benefits of MT5 Grey Label, Forex Grey Label Solution, Forex Grey Label, Forex Broker Services";
+            $name="MT5";
+            $alternateName="MT5";
+            $url="https://fxbrokerservice.com/mt5.php";
+            break;
+        case 'mt4-greylabel.php':
+            $title ="MT4 Grey Label | MT4 Grey Label Provider | Grey Label Solution";
+            $description ="Are you Looking for a Forex Grey Label solution? Our MT4 Grey Label Platform is designed to help you achieve your financial goals.";
+            $keywords ="MT4 Grey Label, Forex Trading Platform, Forex Brokerage Business, MT4 Grey Label Solution, MT4 brokers, MET4 Manager, MT4 Trading, Forex Brokerage, Benefits of MT4 Grey Label,  MT4 Trading Platform, Forex Broker Services, Best Forex Trading Platform, MT4 Grey Label Cost, Start a Forex Brokerage, Best Forex Broker,  Forex Grey Label Cost, Metaquotes Grey Label, Metatrader 4 Grey Label, Forex Trading Brokers, Trading Solutions, Metatrader, Trading Platform, Forex Grey Label Solution, MT4 indicators            ";
+            $name="MT5";
+            $alternateName="MT5";
+            $url="https://fxbrokerservice.com/mt5.php";
+            break;
 
     case 'our-servers.php':
         $title = "Forex Trading Servers | Our Servers |  Best Trading Servers";
