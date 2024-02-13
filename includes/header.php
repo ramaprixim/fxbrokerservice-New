@@ -181,7 +181,7 @@
                                                     <li><a href="#">Blog</a></li>
                                                     <li><a class="pages nbtn" href="#">Pricing</a>
                                                         <ul class="sub-menu">
-                                                            <li><a href="mt5-grelabel.php">MT5 GreyLabel</a></li>
+                                                            <li><a href="mt5-greylabel.php">MT5 GreyLabel</a></li>
                                                             <li><a href="mt5-whitelabel.php">MT5 WhiteLabel</a></li>
                                                         </ul>
                                                     </li>
@@ -234,7 +234,7 @@
                                         <li><a class="pages" href="#">Pricing</a>
                                             <ul class="sub-menu">
                                             <!-- <li><a href="mt4-pricing.php">MT4</a></li> -->
-                                                            <li><a href="mt5-grelabel.php">MT5 GreyLabel</a></li>
+                                                            <li><a href="mt5-greylabel.php">MT5 GreyLabel</a></li>
                                                             <li><a href="mt5-whitelabel.php">MT5 WhiteLabel</a></li>
                                             </ul>
                                         </li>

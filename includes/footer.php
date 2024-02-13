@@ -68,7 +68,7 @@
                                             <h4>Quick Link</h4>
                                             <ul class="footer-list">
                                                 <li><a href="index.php">Home</a></li>
-                                                <li><a href="corporateservice.php">Corporate Services</a></li>
+                                                <li><a href="corporate-services.php">Corporate Services</a></li>
                                                 <li><a href="contact-us.php">Contact Us</a></li>
                                                 <li><a href="#">Blog</a></li>
                                                 
