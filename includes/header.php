@@ -81,7 +81,7 @@
                         <div class=" col-md-6 col-sm-6 col-xs-12">
                             <div class="topbar-left">
                                 <ul>
-                                    <li><a href="mailto:sales@priximglobal.com"><i class="fa fa-envelope"></i>sales@priximglobal.com</a></li>
+                                    <li><a href="mailto:sales@fxbrokerservice.com"><i class="fa fa-envelope"></i>sales@fxbrokerservice.com</a></li>
                                     <li><a href="https://join.skype.com/invite/uXpRdZJUgs4i"><i class="fa fa-skype"></i>Skype</a></li>
                                     
                                 </ul>  
