@@ -26,7 +26,7 @@
    <strong>FXBrokerService</strong>  <br>
    Ground Floor, 60 Hindma Square Block
    Third Floor, Kingstown, Saint Vincent & the Grenadines, </li>
-    <li><span>Phone:</span> <a href="tel:+14087094360">+14087094360</a>
+    <li><span>Phone:</span> <a href="tel:+44 7466242914">+44 7466242914</a>
     </li>
     <li><span>Email:</span> <a href="mailto:sales@fxbrokerservice.com">sales@fxbrokerservice.com</a>
     </li>
@@ -48,6 +48,11 @@
    
     
     <li><a href="https://www.instagram.com/fxbrokerservice/" target="_blank"><i class="fa fa-instagram"></i></a>
+    </li>
+    <li>
+    <a href="https://wa.me/+44 7466242914?text=Hi" target="_blank"
+                    ><i class="fa fa-whatsapp"></i
+                  ></a> 
     </li>
 </ul>
                 <div class="subs-feilds">

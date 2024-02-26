@@ -97,9 +97,9 @@
                             <div class="topbar-right">
 								<ul>
                                 <li>
-                  <!-- <a href="https://wa.me/+14087094360?text=Hi" target="_blank"
+                   <a href="https://wa.me/+44 7466242914?text=Hi" target="_blank"
                     ><i class="fa fa-whatsapp"></i
-                  ></a> -->
+                  ></a> 
                 </li>
                                 <li>
                   <a href="https://t.me/fxbrokerservices" target="_blank"
