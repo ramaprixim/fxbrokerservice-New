@@ -76,9 +76,9 @@
                                             </div>
                                             <div class="contact-form-content">
 
-                                                <h5><a href="mailto:sales@fxbrokerservice.com"
-                                                    style="color:white;font-weight: 600;">sales@fxbrokerservice.com</a></h5>
-                                                <p></p>
+                                                <h5>Email</h5>
+                                                <p><a href="mailto:sales@fxbrokerservice.com"
+                                                    style="color:white;font-weight: 600;">sales@fxbrokerservice.com</a></p>
                                             </div>
                                         </div>
                                         <div class="sub-contact-box">
@@ -126,10 +126,6 @@
                                                     Vincent & the Grenadines</p>
                                             </div>
                                         </div>
-
-
-
-
                                     </div>
                                 </div>
                                 <div class="col-lg-6">

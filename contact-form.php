@@ -2,7 +2,7 @@
 if(isset($_POST['email'])) {
  
     
-    $email_to = "sales@priximglobal.com";
+    $email_to = "sales@fxbrokerservice.com";
     
     $email_subject = "Contact Us Form";
  
