@@ -5,9 +5,6 @@
         max-height: 150px !important;
         overflow-y: auto !important;
     }
-    .fa{
-        font-size: 40px;
-    }
     .single-contact-box2{
         display: grid;
     align-items: center;
@@ -40,6 +37,7 @@
             <div class="col-md-12 col-sm-12 col-xs-12">
                 <div class="breadcrumb text-center">
                     <div class="section-headline white-headline text-center">
+                        <h3>Contact Us</h3>
                     </div>
                     <ul>
                         <li class="home-bread">Home</li>
@@ -66,59 +64,76 @@
                                     <div class="single-contact-box single-contact-box2">
                                         
                                         <div class="single-contact-box">
-                                          
-                                            <h4 class="login-title">LET’S GET TO WORK</h4>
+                                            <h2 class="">LET’S GET TO WORK</h2>
                                             <p>
                                                 Fill up the form and leave your query here. <br> Our team will assist
-                                                you shortly or email us directly on
-    
-                                                <a href="mailto:sales@fxbrokerservice.com"
-                                                    style="color: 000;font-weight: 600;">sales@fxbrokerservice.com</a>
+                                                you shortly.
                                             </p>
-                                            <p>We look forward to hearing from you!</p>
                                         </div>
                                         <div class="sub-contact-box">
                                             <div class="icon">
-                                                <i class="fa fa-envelope mb-4"></i>
+                                                <i class="fa fa-envelope mb-4" style="font-size: 25px;"></i>
                                             </div>
                                             <div class="contact-form-content">
 
                                                 <h5>Email</h5>
-                                                <p>sales@fxbrokerservice.com</p>
+                                                <p><a href="mailto:sales@fxbrokerservice.com"
+                                                    style="color:white;font-weight: 600;">sales@fxbrokerservice.com</a></p>
                                             </div>
                                         </div>
                                         <div class="sub-contact-box">
                                             <div class="icon">
-                                                <i class="fa fa-phone"></i>
+                                                <i class="fa fa-phone" style="font-size: 25px;"></i>
                                                 <br>
                                             </div>
                                             <div class="contact-form-content">
 
                                                 <h5>Phone</h5>
-                                                <p> +14087094360</p>
+                                                <p><a style="color: white;" href="tel:+14087094360">+14087094360</a></p>
                                             </div>
                                         </div>
                                         <div class="sub-contact-box">
                                             <div class="icon">
-                                                <i class="fa fa-location"></i>
+                                                <i class="fa fa-whatsapp mb-4" style="font-size: 25px;"></i>
+                                            </div>
+                                            <div class="contact-form-content">
+
+                                                <h5>WhatsApp</h5>
+                                                <p><a href="https://wa.me/+14087094360?text=Hi"
+                                                    style="color:white;">+14087094360</a></p>
+                                            </div>
+                                        </div>
+                                        <div class="sub-contact-box">
+                                            <div class="icon">
+                                                <i class="fa fa-telegram mb-4" style="font-size: 25px;"></i>
+                                            </div>
+                                            <div class="contact-form-content">
+
+                                                <h5>Telegram</h5>
+                                                <p><a href="https://t.me/FXBROKERSERVICE"
+                                                    style="color:white;">+14087094360</a></p>
+                                            </div>
+                                        </div>
+                                        <div class="sub-contact-box">
+                                            <div class="icon">
+                                                <i class="fa fa-location" style="font-size: 25px;"></i>
                                                 <br>
                                             </div>
                                             <div class="contact-form-content">
 
                                                 <h5>Address</h5>
-                                                <p>Ground Floor, 60 Hindma Square Block Third Floor, <br> Kingstown, Saint
-                                                    Vincent & the Grenadines,</p>
+                                                <p>Ground Floor, 60 Hindma Square Block Third Floor, Kingstown, Saint
+                                                    Vincent & the Grenadines</p>
                                             </div>
                                         </div>
-
-
-
-
                                     </div>
                                 </div>
                                 <div class="col-lg-6">
                                   
-                                    <h2>Contact Us </h2>
+                                  
+                                           
+                                           
+                                            <p>We look forward to hearing from you!</p>
                                     <form method="POST" action="contact-form.php" class="log-form">
                                         <div class="col-md-6 col-sm-12 col-xs-12">
                                             <label for="name">Name <span class="req">*</span></label>

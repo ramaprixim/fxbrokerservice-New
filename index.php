@@ -1,36 +1,130 @@
 <?php include("includes/header.php"); ?>sales
 <!--  End Header Area -->
 <!-- Start intro Area -->
-<div class="slide-area fix">
-    <div class="display-table">
-        <div class="display-table-cell">
-            <div class="container">
-                <div class="row">
-                    <div class="slide-text-inner">
-                        <div class="col-md-8 col-sm-12 col-xs-12">
-                            <!-- Start slide content -->
-                            <div class="slide-content">
-                                <h2 class="title2">Forex Brokerage <span class="color-text">Solutions For </span> A
-                                    Better Future</h2>
-                                <p>FXBrokerService is a complete solution that will allow you to
-                                    Launch a Brokerage Business. With our corporate values of
-                                    trust and performance, we aim to build long-term relationships
-                                    with our clients.</p>
-                                <div class="layer-1-3">
-                                    <a href="contact-us.php" class="ready-btn">Contact Us</a>
-                                    <a href="about.php" class="ready-btn">About Us</a>
-                                </div>
-                            </div>
-                            <!-- End slide content -->
-                        </div>
-                        <div class="col-md-4 col-sm-12 col-xs-12">
-                        </div>
+<style>
+header .carousel-inner .item{
+  height: 90vh;
+}
+header .carousel-inner .item img{
+  width: 100%;
+}
+.carousel-caption{
+  padding-bottom: 150px;
+  text-align: left;
+}
+.carousel-caption h2{
+  font-size: 50px;
+  text-transform: uppercase;
+  line-height: 55px;
+}
+.carousel-control.right{
+  background-image: none;
+}
+.carousel-control.left{
+  background-image: none;
+}
+.link-area
+{
+  position:fixed;
+  bottom:20px;
+  left:20px;  
+  padding:15px;
+  border-radius:40px;
+  background:tomato;
+}
+.link-area a
+{
+  text-decoration:none;
+  color:#fff;
+  font-size:25px;
+}
+.overlay{
+    position: static;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    background: rgba(7,11,41,0.80);
+    content: "";
+    z-index: -1;
+}
+.item>img{
+    opacity: 0.2;
+}
+.item{
+background-color: #11193b;
+}
+.tagimg{
+height: 120px;width: 252px !important;}
+@media (max-width: 700px){
+.tagimg{
+    height: 70px !important;
+    padding-bottom: 28px !important;
+    margin-top: -18px !important;
+}}
+</style>
+<header class="carousel-overlay">
+    <div class="overlay">
+    <div id="carousel-example-generic" class="carousel slide " data-ride="carousel">
+      <!-- Indicators -->
+      <ol class="carousel-indicators">
+        <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+        <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+      </ol>
+  
+      <!-- Wrapper for slides -->
+      <div class="carousel-inner " role="listbox">
+        <div class="item active ">
+          <img src="img/background/slide1.jpg" alt="forexbrokerservice">
+          <div class="carousel-caption">
+            <div class="row">
+                <div class="col-lg-6">
+                    <h2 class="animated" style="animation-delay: 1s">Forex Brokerage Solutions For A Better Future</h2>
+                    <p>FXBrokerService is a complete solution that will allow you to Launch a Brokerage Business. With our corporate values of trust and performance, we aim to build long-term relationships with our clients.</p>
+                    <div class="layer-1-3">
+                        <a href="contact-us.php" class="ready-btn">Contact Us</a>
+                        <a href="about.php" class="ready-btn">About Us</a>
                     </div>
                 </div>
+                <div class="col-lg-6"></div>
+            </div>
+          
+        </div>
+        </div>
+        <div class="item">
+          <img src="img/background/bg1.jpg" alt="...">
+          <div class="carousel-caption">
+            <div class="row">
+                <div class="col-lg-7">
+                    <h2 class="animated " style="animation-delay: 1s">MT5 Generic Package's Now At Its Lowest Price
+                    </h2>
+                    <p>Presenting the brand-new MT5 Generic Packages at $1000! Get excellent services at a low cost to improve your trading business.</p>
+                    <img class="tagimg" src="img/brand/fxbrokerservices tag.png" alt="" style="">
+
+                    <div class="layer-1-3">
+                        <a href="contact-us.php" class="ready-btn">Contact Us</a>
+                        <a href="about.php" class="ready-btn">About Us</a>
+                    </div>
+                </div>
+                <div class="col-lg-5"></div>
             </div>
         </div>
+        </div>  
+  
+      </div>
+  
+      <!-- Controls -->
+      <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+      </a>
+      <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+      </a>
     </div>
 </div>
+  </header>
 <!-- End intro Area -->
 <div class="about-area bg-color2 area-padding">
     <div class="container">
@@ -691,6 +785,57 @@
     </div>
 </div>
 </div>
+<script>
+    "use strict";
+// Select all slides
+const slides = document.querySelectorAll(".slide");
+
+// loop through slides and set each slides translateX
+slides.forEach((slide, indx) => {
+  slide.style.transform = `translateX(${indx * 100}%)`;
+});
+
+// select next slide button
+const nextSlide = document.querySelector(".btn-next");
+
+// current slide counter
+let curSlide = 0;
+// maximum number of slides
+let maxSlide = slides.length - 1;
+
+// add event listener and navigation functionality
+nextSlide.addEventListener("click", function () {
+  // check if current slide is the last and reset current slide
+  if (curSlide === maxSlide) {
+    curSlide = 0;
+  } else {
+    curSlide++;
+  }
+
+  //   move slide by -100%
+  slides.forEach((slide, indx) => {
+    slide.style.transform = `translateX(${100 * (indx - curSlide)}%)`;
+  });
+});
+
+// select next slide button
+const prevSlide = document.querySelector(".btn-prev");
+
+// add event listener and navigation functionality
+prevSlide.addEventListener("click", function () {
+  // check if current slide is the first and reset current slide to last
+  if (curSlide === 0) {
+    curSlide = maxSlide;
+  } else {
+    curSlide--;
+  }
+
+  //   move slide by 100%
+  slides.forEach((slide, indx) => {
+    slide.style.transform = `translateX(${100 * (indx - curSlide)}%)`;
+  });
+});
+</script>
 <!-- End apps download area -->
 <!-- Start footer area -->
 <?php include("includes/footer.php"); ?>
