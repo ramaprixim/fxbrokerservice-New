@@ -64,6 +64,12 @@
     margin-left: 18px !important;
     border: 1px solid #17aac9 !important
 }
+.fa{
+    font-size:25px;
+}
+.fa-brands {
+    font-size:25px;
+}
     </style>
 		<body>
 
@@ -91,12 +97,12 @@
                             <div class="topbar-right">
 								<ul>
                                 <li>
-                  <a href="https://wa.me/+14087094360?text=Hi" target="_blank"
+                  <!-- <a href="https://wa.me/+14087094360?text=Hi" target="_blank"
                     ><i class="fa fa-whatsapp"></i
-                  ></a>
+                  ></a> -->
                 </li>
                                 <li>
-                  <a href="https://t.me/FXBROKERSERVICE" target="_blank"
+                  <a href="https://t.me/fxbrokerservices" target="_blank"
                     ><i class="fa fa-telegram"></i
                   ></a>
                 </li>
@@ -182,7 +188,6 @@
                                                     <li><a class="pages nbtn" href="#">Pricing</a>
                                                         <ul class="sub-menu">
                                                             <li><a href="mt5-greylabel.php">MT5 GreyLabel</a></li>
-                                                            <li><a href="mt5-whitelabel.php">MT5 WhiteLabel</a></li>
                                                         </ul>
                                                     </li>
                                                     <li>
@@ -235,7 +240,6 @@
                                             <ul class="sub-menu">
                                             <!-- <li><a href="mt4-pricing.php">MT4</a></li> -->
                                                             <li><a href="mt5-greylabel.php">MT5 GreyLabel</a></li>
-                                                            <li><a href="mt5-whitelabel.php">MT5 WhiteLabel</a></li>
                                             </ul>
                                         </li>
                                         <li><a class="pages" href="#">Digital</a>

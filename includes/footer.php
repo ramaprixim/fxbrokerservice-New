@@ -30,8 +30,13 @@
     </li>
     <li><span>Email:</span> <a href="mailto:sales@fxbrokerservice.com">sales@fxbrokerservice.com</a>
     </li>
+    <br>
 </ul>
 <ul class="footer-social-icon" style="display: flex;">
+<li><a href="https://t.me/fxbrokerservices" target="_blank"
+                    ><i class="fa fa-telegram"></i
+                  ></a>
+    </li>
     <li><a href="https://www.facebook.com/fxbrokerservice" target="_blank"><i class="fa fa-facebook"></i></a>
     </li>
 
@@ -41,8 +46,7 @@
         " target="_blank"><i class="fa-brands fa-x-twitter"></i></a>
     </li>
    
-    <li><a href="https://wa.me/+14087094360?text=Hi"  target="_blank"><i class="fa fa-whatsapp"></i></a>
-    </li>
+    
     <li><a href="https://www.instagram.com/fxbrokerservice/" target="_blank"><i class="fa fa-instagram"></i></a>
     </li>
 </ul>
@@ -112,7 +116,6 @@
                                             <h4>Pricing</h4>
                                             <ul class="footer-list">
                                             <li><a href="mt5-grelabel.php">MT5 GreyLabel</a></li>
-                                            <li><a href="mt5-whitelabel.php">MT5 WhiteLabel</a></li>
                                             </ul>
                                         </div>
                                     </div>

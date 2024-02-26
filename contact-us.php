@@ -16,6 +16,7 @@
                 <div class="breadcrumb text-center">
                     <div class="section-headline white-headline text-center">
                         <h3>Contact Us</h3>
+                        <h3>Contact Us</h3>
                     </div>
                     <ul>
                         <li class="home-bread">Home</li>
