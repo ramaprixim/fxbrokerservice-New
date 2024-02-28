@@ -56,13 +56,164 @@ background-color: #11193b;
 }
 .tagimg{
 height: 120px;width: 252px !important;}
+
+</style>
+<script type="text/javascript" src="https://code.jquery.com/jquery-1.8.2.js"></script>
+<style type="text/css">
+#overlay {
+position: fixed;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+background-color: #000;
+filter:alpha(opacity=70);
+-moz-opacity:0.7;
+-khtml-opacity: 0.7;
+opacity: 0.7;
+z-index: 100;
+display: none;
+}
+.cnt223 a{
+text-decoration: none;
+}
+.popup{
+width: 100%;
+margin: 0 auto;
+display: none;
+position: fixed;
+z-index: 9999;
+}
+.cnt223{
+    min-width: 600px;
+    width: 25%;
+    min-height: 150px;
+    margin: 200px auto;
+    background: #fafcff;
+    position: relative;
+    z-index: 103;
+    padding: 15px 35px;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px #000;
+}
+.cnt223 p{
+    clear: both;
+    color: #000000;
+    /* text-align: justify; */
+    font-size: 20px;
+    font-family: sans-serif;
+}
+.cnt223 p a{
+color: #d91900;
+font-weight: bold;
+}
+.cnt223 .x{
+float: right;
+height: 35px;
+left: 22px;
+position: relative;
+top: -25px;
+width: 34px;
+}
+.cnt223 .x:hover{
+cursor: pointer;
+}
+.close{
+    float: right;
+    font-size: 21px;
+    font-weight: bold;
+    line-height: 1;
+    color: #c40000;
+    text-shadow: 0 1px 0 #fff;
+    filter: alpha(opacity=20);
+    position: relative;
+    bottom: 0px;
+    opacity: 1;
+}
+.content{
+    border: 2px solid #c8c8c8;
+    border-radius: 22px;
+    padding: 30px;
+    background: white;
+    box-shadow: 3px 4px 20px #cecece;
+    margin: 10px 0px 0px 0px;
+}
 @media (max-width: 700px){
 .tagimg{
-    height: 70px !important;
+    height: 120px !important;
     padding-bottom: 28px !important;
     margin-top: -18px !important;
+}
+.cnt223{
+    min-width: 363px;
+        margin: 50px auto;
+}
+.content{
+margin: 25px 0px 0px 0px;
+margin: 32px auto;
+}
+.carousel-caption h2 {
+    font-size: 27px;
+    text-transform: uppercase;
+    line-height: 36px;
+}
+header .carousel-inner .item {
+    height: 110vh;
+}
+header .carousel-inner .item img {
+    width: 100%;
+    height: 100%;
+}
+.carousel-caption {
+    padding-bottom: 240px;
+    text-align: left;
+}
+}
+@media (max-width: 400px){
+header .carousel-inner .item {
+    height: 116vh;
 }}
 </style>
+<script type='text/javascript'>
+$(function(){
+var overlay = $('<div id="overlay"></div>');
+overlay.show();
+overlay.appendTo(document.body);
+$('.popup').show();
+$('.close').click(function(){
+$('.popup').hide();
+overlay.appendTo(document.body).remove();
+return false;
+});
+
+
+ 
+
+$('.x').click(function(){
+$('.popup').hide();
+overlay.appendTo(document.body).remove();
+return false;
+});
+});
+</script>
+<div class='popup'>
+<div class='cnt223'>
+
+    <div class="row ">
+        <a href='' class='close'>Close</a>
+        <div class="col-lg-12 content">
+            <h2 class="text-center" style="color:#00194e;">Important Notice</h2>
+            <p>
+                This is to inform you that our Support Number +14087094360 is non-operational due to technical issues. We will be available on Telegram Follow the <a style="color: #00194e;" href="https://t.me/fxbrokerservices">link</a> and Please use <b style="color: #00194e;">+44 7466242914</b> for all the Whatsapp Communication at FxBrokerService.            </p>
+            <p>For any needed support, please feel free to contact us at email sales@fxbrokerservice.com</p>
+            <p>Inconvenience caused during the meantime is highly regretted.</p>
+        </div>
+    </div>
+
+
+
+</div>
+</div>
 <header class="carousel-overlay">
     <div class="overlay">
     <div id="carousel-example-generic" class="carousel slide " data-ride="carousel">
@@ -99,7 +250,7 @@ height: 120px;width: 252px !important;}
                     <h2 class="animated " style="animation-delay: 1s">MT5 Generic Package's Now At Its Lowest Price
                     </h2>
                     <p>Presenting the brand-new MT5 Generic Packages at $1000! Get excellent services at a low cost to improve your trading business.</p>
-                    <img class="tagimg" src="img/brand/fxbrokerservices tag.png" alt="" style="">
+                    <!-- <img class="tagimg" src="img/brand/fxbrokerservices tag.png" alt="" style=""> -->
 
                     <div class="layer-1-3">
                         <a href="contact-us.php" class="ready-btn">Contact Us</a>

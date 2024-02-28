@@ -38,7 +38,7 @@
 		<link rel="stylesheet" href="style.css">
 		<!-- responsive css -->
 		<link rel="stylesheet" href="css/responsive.css">
-
+        <link rel="stylesheet" href="magnific-popup.min.css">
 		<!-- modernizr css -->
 		<script src="js/vendor/modernizr-2.8.3.min.js"></script>
 	</head>
@@ -263,3 +263,4 @@
             </div>
             <!-- End mobile menu area -->	
         </header>
+        
