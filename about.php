@@ -40,20 +40,20 @@
                         About us
                         <!-- <span class="color-text">a Low Cost?</span> -->
                     </h2>
-                    <p class="hidden-sm"> FXBrokerService helps you develop your forex company from scratch
+                    <p> FXBrokerService helps you develop your forex company from scratch
                         FXBrokerService is a global forex technology provider. Our company offers the best forex
                         brokerage solution in the world for your forex company. Become a forex broker with
                         FXBrokerservice. We offer the MT5 Greylabel platform at reasonable prices. In the past, we have
                         helped many people to start their forex trading company.
                         .</p>
 
-                    <p class="hidden-sm">
+                    <p>
                         Our team of experts have extensive experience in forex retail trading and are highly experienced
                         in forex brokerage technology. I totally understand. The forex retail market handles things
                         well. Find all the tools you need to start your forex brokerage business in one place.
                     </p>
 
-                    <p class="hidden-sm">
+                    <p>
                         Offering the world's most advanced forex brokerage solutions, we can help you with everything
                         your forex trading needs. We offer a complete solution for Forex brokers including the MT5
                         Greylabel Platform.

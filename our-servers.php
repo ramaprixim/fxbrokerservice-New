@@ -42,13 +42,13 @@
                         Our Servers
                         <!-- <span class="color-text">a Low Cost?</span> -->
                     </h2>
-                    <p class="hidden-sm">At FXBrokerService, we lead the industry in technological innovation,
+                    <p >At FXBrokerService, we lead the industry in technological innovation,
                         strategically siting our live trading servers in key financial hubs such as London and New York.
                     </p>
 
 
-                    <p class="hidden-sm">
-                    <p class="hidden-sm">Our commitment to excellence is reflected in our sourcing of ECN market
+                    <p >
+                    <p >Our commitment to excellence is reflected in our sourcing of ECN market
                         liquidity from these servers, seamlessly streaming it to our clients' MT5 accounts. Extensive
                         research and investment guide our choice of markets to ensure optimal benefits for our clients
                         on a global scale. The synergy between New York and London establishes an unparalleled
@@ -90,7 +90,7 @@
                         The collaboration between Equinix will provide FXBrokerService with a fiber optic network
                         that connects our trading servers around the world.
                     </h2>
-                    <p class="hidden-sm"> We provide lightning fast execution for every trade. Our collaboration with
+                    <p > We provide lightning fast execution for every trade. Our collaboration with
                         Equinix, the world's leading trading server company, gives FXBrokerService a technological edge
                         over its competitors.</p>
 
@@ -115,7 +115,7 @@
                         FXBrokerService is constantly implementing new technologies to help our clients.
                         <!-- <span class="color-text">a Low Cost?</span> -->
                     </h2>
-                    <p class="hidden-sm">Equinix MT5 Cross is a next-generation price aggregator that connects dark
+                    <p >Equinix MT5 Cross is a next-generation price aggregator that connects dark
                         money pools to customers' MT5 platform. The Equinix MT5 bridge is the only technologically
                         advanced solution on the market that can process large orders at lightning speed.</p>
 
@@ -152,7 +152,7 @@
                         FXBrokerService fiber optic network offers unparalleled performance for all clients.
                         <!-- <span class="color-text">a Low Cost?</span> -->
                     </h2>
-                    <p class="hidden-sm"> Every fiber optic line that connects to our servers is carefully tested to
+                    <p > Every fiber optic line that connects to our servers is carefully tested to
                         minimize latency and ensure that our customers receive the fastest possible performance. With
                         FXBrokerservice fiber optic networks, you can improve performance, unlock new features, and
                         accelerate implementation.
@@ -184,7 +184,7 @@
                         uptime and supports mission-critical workloads.
                         <!-- <span class="color-text">a Low Cost?</span> -->
                     </h2>
-                    <p class="hidden-sm">The processing power of AWS makes the MT5 bridge the fastest. Clients have
+                    <p >The processing power of AWS makes the MT5 bridge the fastest. Clients have
                         quick access to global market prices for smooth trading.</p>
 
 

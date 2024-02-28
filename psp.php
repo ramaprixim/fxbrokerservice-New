@@ -35,7 +35,7 @@
                     <h2>
                         <span class="color-text">Forex Brokers: Dedicated Payment Gateways (PSPs)</span>
                     </h2>
-                    <p class="hidden-sm">The Forex Payment Gateways presents itself as a sophisticated and secure online
+                    <p >The Forex Payment Gateways presents itself as a sophisticated and secure online
                         payment solution that seamlessly integrates with your Forex CRM and Trader's Room. The procedure
                         of using this payment gateway does not differ from that of other platforms. The user will be
                         prompted to furnish details such as their credit or debit card number, expiration date, and CVV
@@ -43,7 +43,7 @@
                         account is executed. MT5 Solutions.
                     </p>
                     <div class="about-blockquote">
-                        <p class="hidden-sm">
+                        <p >
                             This streamlined and hassle-free system ensures that your payments
                             are always processed efficiently and with the utmost security.
                         </p>
@@ -62,11 +62,11 @@
                     <h2>
                         <span class="color-text">Reliable Forex Payment Gateways Solutions For Your Business</span>
                     </h2>
-                    <p class="hidden-sm">We have integrated a reliable forex payment gateway with FXBrokerService to
+                    <p >We have integrated a reliable forex payment gateway with FXBrokerService to
                         ensure a smooth trading flow. The integration is built on global security, customer experience
                         and payment acceptance and offers multiple payment options. We emphasize that customers can
                         choose a manual bank transfer PSP (or any other PSP that requires broker approval).</p>
-                    <p class="hidden-sm">but this processing time takes approximately 12-24 hours. Unlike well-known
+                    <p >but this processing time takes approximately 12-24 hours. Unlike well-known
                         automated PSPs, these PSPs offer psychological trading in traders' MET4/MET5 accounts. Please
                         note that you must apply to open a merchant account with your PSP to integrate with your CRM. If
                         you are already registered with your PSP of choice, FXBrokerService can help you optimize your

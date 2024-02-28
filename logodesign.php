@@ -35,7 +35,7 @@
                     <h2>
                         <span class="color-text">Empower Your Brand with Our Professional Logo Design Services</span>
                     </h2>
-                    <p class="hidden-sm">FXBrokerservice is a logo design firm that specializes in creating custom logos
+                    <p >FXBrokerservice is a logo design firm that specializes in creating custom logos
                         for any type of Business. We provide comprehensive logo design services to help our clients
                         create memorable and unique logos that reflect their brand identity and values.</p>
                 </div>

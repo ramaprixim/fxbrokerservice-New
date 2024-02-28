@@ -35,12 +35,12 @@
                     <h2>
                         <span class="color-text">Company Formation</span>
                     </h2>
-                    <p class="hidden-sm">
+                    <p >
                         Start on your brokerage venture with confidence. Our dedicated team specializes in simplifying
                         the intricate process of company formation. From handling the necessary paperwork to providing
                         expert guidance, we ensure a hassle-free experience customized to your specific requirements.
                     </p>
-                    <p class="hidden-sm">
+                    <p >
                         Whether you're starting from scratch or expanding your business, our seamless approach to
                         company formation sets the stage for your success.
                     </p>
@@ -59,12 +59,12 @@
                     <h2>
                         <span class="color-text">Company Licensing</span>
                     </h2>
-                    <p class="hidden-sm">Navigate regulatory landscapes effortlessly. Acquiring the right licenses is
+                    <p >Navigate regulatory landscapes effortlessly. Acquiring the right licenses is
                         crucial for a thriving brokerage. Our seasoned experts possess in-depth knowledge of regulatory
                         frameworks, guiding you through the maze of compliance requirements. We carefully assist in
                         obtaining the essential licenses, ensuring that your brokerage operates within the legal
                         framework, fostering trust and credibility among your clients.</p>
-                    <p class="hidden-sm">We carefully assist in
+                    <p >We carefully assist in
                         obtaining the essential licenses, ensuring that your brokerage operates within the legal
                         framework, fostering trust and credibility among your clients.</p>
                 </div>
@@ -94,12 +94,12 @@
                     <h2>
                         <span class="color-text">Company Bank Account Opening</span>
                     </h2>
-                    <p class="hidden-sm">
+                    <p >
                         Access financial opportunities without the complexity. Opening a bank account for your brokerage
                         shouldn't be a troublesome task. Our proficient team streamlines the process, facilitating the
                         opening of your company bank account. 
                     </p>
-                    <p class="hidden-sm">
+                    <p >
                         Leveraging our network of banking partners and industry
                         expertise, we ensure a smooth and efficient setup, providing you with essential banking services
                         necessary for your brokerage's operational success.

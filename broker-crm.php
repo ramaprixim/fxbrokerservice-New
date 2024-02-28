@@ -71,7 +71,7 @@
                 <div class="about-content">
                     <h3>Transform Your Forex Business with CRM Integration</h3>
                     <p>Metatrader</p>
-                    <p class="hidden-sm">Forex CRM , a specialized software designed to streamline operations and
+                    <p>Forex CRM , a specialized software designed to streamline operations and
                         enhance customer interactions, has become an indispensable tool for Brokerage firms. Broker/ FX
                         CRM solutions are powerful tools designed specifically for brokers and financial institutions
                         operating in the Forex market. By leveraging these Broker CRM tools, brokers can optimize their

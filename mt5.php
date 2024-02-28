@@ -45,7 +45,7 @@
                         <div class="about-content">
                             <h3>MT5 Grey Label</h3>
                             <p>Metatrader</p>
-                            <p class="hidden-sm">MT5 Grey Label refers to a specific offering within the MetaTrader 5 (MT5) trading platform. MT5 is a popular trading software used by brokers and traders worldwide. It provides access to various financial markets, including Forex, stocks, commodities, and cryptocurrencies. brokers can leverage the advanced features and capabilities of the MT5 platform, including advanced charting tools, automated trading options, and access to multiple markets, to attract and retain clients. You can purchase the MT5 Grey Label trading platform services and products designed specifically for your business.</p>
+                            <p >MT5 Grey Label refers to a specific offering within the MetaTrader 5 (MT5) trading platform. MT5 is a popular trading software used by brokers and traders worldwide. It provides access to various financial markets, including Forex, stocks, commodities, and cryptocurrencies. brokers can leverage the advanced features and capabilities of the MT5 platform, including advanced charting tools, automated trading options, and access to multiple markets, to attract and retain clients. You can purchase the MT5 Grey Label trading platform services and products designed specifically for your business.</p>
                       
                       <p>Choosing Forex Grey Label Solution can be the best solution for you if you wish to start a Forex Brokerage business at a low cost. With a Forex Grey Label solution, the broker typically provides a fully functional trading platform, back-end systems, and liquidity, while the grey label partner focuses on marketing, client acquisition, and customer support. With its advanced features and ease of use, the MT5 trading platform is an excellent choice for both novice and experienced traders looking to take their trading to the next level.</p>  </div>
                     </div>
@@ -172,7 +172,7 @@
                     <div class="col-md-6 col-sm-6 col-xs-12">
                         <div class="about-content">
                             <h3>MT5 Grey Label Solution</h3>
-                            <p class="hidden-sm">Forex Trading provides opportunities for individuals and institutions to participate in the global currency market and potentially generate profits based on their market analysis and trading strategies. Forex Grey Label solution enables businesses or individuals to enter the Forex market under their own brand, utilizing the resources and infrastructure of an established broker.
+                            <p >Forex Trading provides opportunities for individuals and institutions to participate in the global currency market and potentially generate profits based on their market analysis and trading strategies. Forex Grey Label solution enables businesses or individuals to enter the Forex market under their own brand, utilizing the resources and infrastructure of an established broker.
 
 MT5 Grey Label solution empowers brokers to offer a fully branded and customized trading platform to their clients. Our Forex Grey Label Solution comes with various tools which is useful for your Brokerage business.</p>
 <ul class="feature-list-box">

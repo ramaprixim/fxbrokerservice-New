@@ -45,7 +45,7 @@
                         <div class="about-content">
                             <h3>MT4 Grey Label</h3>
                             <p>Metatrader</p>
-                            <p class="hidden-sm">MT4 Greylabel is a popular forex trading platform used by brokers to provide their clients with the best forex trading experience.
+                            <p >MT4 Greylabel is a popular forex trading platform used by brokers to provide their clients with the best forex trading experience.
 						One of the most popular features of the MT4 GreyLabel is the ability to trade on multiple devices,
 						including desktops, laptops, and mobile devices. This allows traders to stay connected to their accounts and make trades on the go. Using the <strong>MT4 Grey Label</strong> trading platform,
 						you can have access to the services and products that are specifically tailored to your needs.</p>
@@ -116,7 +116,7 @@
                     <div class="col-md-6 col-sm-6 col-xs-12">
                         <div class="about-content">
                             <h3>How to Start Forex  Brokerage Business with MT4 Grey Label</h3>
-                            <p class="hidden-sm">Starting a Forex Brokerage Business with MT4 Grey Label can be a lucrative venture, especially with the popularity of MetaTrader 4 (MT4) trading platform.
+                            <p >Starting a Forex Brokerage Business with MT4 Grey Label can be a lucrative venture, especially with the popularity of MetaTrader 4 (MT4) trading platform.
 						The first step is to choose a reliable Forex  broker technology provider that offers MT4 Grey Label.
 						The technology provider should also offer trading tools, back-office support, and access to liquidity providers.
 From setting up your business structure and acquiring licenses, to configuring your MT4 platform and marketing your services,
@@ -249,8 +249,8 @@ With hard work and dedication, starting a <a href="https://fxbrokerservice.com/m
                     <div class="col-md-6 col-sm-6 col-xs-12">
                         <div class="about-content">
                             <h3>MT4 Grey Label Solution</h3>
-                            <p class="hidden-sm">The Forex Market offers immense opportunities for individuals and organizations to establish their own Brokerage businesses. However, starting a Forex Brokerage from scratch can be a complex and time-consuming process. That's where the Forex Grey Label solution comes in. </p>
-                       <p class="hidden-sm">You can use our Forex Grey Label Solution to build your Brokerage business because it comes with various tools. You can use our Forex Grey Label Solution to build your Brokerage business because it comes with various tools.</p>
+                            <p >The Forex Market offers immense opportunities for individuals and organizations to establish their own Brokerage businesses. However, starting a Forex Brokerage from scratch can be a complex and time-consuming process. That's where the Forex Grey Label solution comes in. </p>
+                       <p >You can use our Forex Grey Label Solution to build your Brokerage business because it comes with various tools. You can use our Forex Grey Label Solution to build your Brokerage business because it comes with various tools.</p>
                         </div>
                     </div>
                     <!-- End column-->
