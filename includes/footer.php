@@ -185,7 +185,7 @@
         
 		
 		<!-- all js here -->
-
+        <script src='https://code.jquery.com/jquery-1.8.2.js'></script>
 		<!-- jquery latest version -->
 		<script src="js/vendor/jquery-1.12.4.min.js"></script>
 		<!-- bootstrap js -->
