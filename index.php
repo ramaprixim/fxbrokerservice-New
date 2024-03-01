@@ -8,6 +8,8 @@ header .carousel-inner .item{
 header .carousel-inner .item img{
   width: 100%;
 }
+
+
 .carousel-caption{
   padding-bottom: 150px;
   text-align: left;
@@ -138,6 +140,22 @@ cursor: pointer;
     box-shadow: 3px 4px 20px #cecece;
     margin: 10px 0px 0px 0px;
 }
+@media (max-width: 1300px){
+.header .carousel-inner .item {
+    height: 57vh;
+    margin-top: 75px;
+}
+
+}
+@media (max-width: 1000px){
+.content{
+    margin: 30px 0px 0px 0px;
+}
+header .carousel-inner .item img {
+    width: 100%;
+    height: 100%;
+}
+}
 @media (max-width: 700px){
 .tagimg{
     height: 120px !important;
@@ -160,18 +178,14 @@ margin: 32px auto;
 header .carousel-inner .item {
     height: 110vh;
 }
-header .carousel-inner .item img {
-    width: 100%;
-    height: 100%;
-}
 .carousel-caption {
-    padding-bottom: 240px;
+    padding-bottom: 40px;
     text-align: left;
 }
 }
 @media (max-width: 400px){
 header .carousel-inner .item {
-    height: 116vh;
+    height: 100vh;
 }}
 </style>
 <script type='text/javascript'>
@@ -294,7 +308,7 @@ return false;
                         How to Start Forex Brokerage Firm at
                         <span class="color-text">a Low Cost?</span>
                     </h2>
-                    <p class="hidden-sm"> Starting a Forex Brokerage firm is a great opportunity for those
+                    <p > Starting a Forex Brokerage firm is a great opportunity for those
                         looking to enter the financial industry. However, it is not an easy
                         task. You will need to have a sound understanding of the Forex
                         industry, trading platforms, regulations, and risk management. To
@@ -303,7 +317,7 @@ return false;
                         is crucial for the growth of your business, and providing excellent
                         customer service is a vital component.</p>
 
-                    <p class="hidden-sm"> Forex Brokers can start small with
+                    <p > Forex Brokers can start small with
                         <a href="" style="color: #5764ec"><b>MT5</b></a>
                         Forex trading Solutions at an affordable cost and scale up as their
                         business grows. This is a great way to start a small Online Forex

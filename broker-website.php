@@ -36,18 +36,18 @@
                     <h2>
                         <span class="color-text">BrokerWebsite</span>
                     </h2>
-                    <p class="hidden-sm"> FXBrokerService will work with you to create a forex website that meets your
+                    <p> FXBrokerService will work with you to create a forex website that meets your
                         company's specific needs. Our custom-designed websites exceed expectations and are built to
                         last. In addition, FXBrokerService equips its website with various tools specifically designed
                         for use by FX brokers.</p>
 
-                    <p class="hidden-sm"> The Forex broker website needs a special design and appearance to attract the
+                    <p> The Forex broker website needs a special design and appearance to attract the
                         attention of customers. FXBrokerService has developed many forex broker websites for the forex
                         industry. Every website has its own professional look, usability, and user experience. Website
                         design is a work of art.
                     </p>
 
-                    <p class="hidden-sm">It is the result of collaboration between marketing, sales teams, and
+                    <p>It is the result of collaboration between marketing, sales teams, and
                         designers. We can help you build your site from scratch and help you create a fully functional
                         website.
                     </p>
@@ -211,7 +211,7 @@
             <div class="col-md-12 col-sm-12 col-xs-12">
                 <div class="section-headline text-center">
                     <h3>We’re here to help and answer any question you might have.</h3>
-                    <a class="hire-btn" href="contact-us.php">Let's Talk Now</a>
+                    <a class="hire-btn" href="contact-us.phpsm">Let's Talk Now</a>
                 </div>
             </div>
         </div>

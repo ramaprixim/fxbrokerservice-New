@@ -35,16 +35,16 @@
                     <h2>
                         <span class="color-text">Maximize your profits with our Forex Services</span>
                     </h2>
-                    <p class="hidden-sm">Today, online marketing services are essential to any business. Everyone is
+                    <p >Today, online marketing services are essential to any business. Everyone is
                         moving their business online. SEO services for Forex Brokers help to grow their forex brokerage businesses.</p>
 
-                    <p class="hidden-sm"> The internet is a crowded place with many websites related to forex services,
+                    <p > The internet is a crowded place with many websites related to forex services,
                         so it can be quite difficult to reach customers at the same time. You should outgrow your
                         competitors and their SEO helps your business. FXBrokerService is the best SEO provider for
                         Forex Brokers;
                     </p>
 
-                    <p class="hidden-sm">We always focus on growing online business by providing best SEO solutions to
+                    <p >We always focus on growing online business by providing best SEO solutions to
                         our clients. We are an experienced SEO service provider in the forex business world.
                     </p>
                 </div>

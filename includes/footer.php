@@ -1,8 +1,9 @@
 <style>
-    .footer-social-icon>li{
+    .footer-social-icon>li {
         padding: 0px 7px;
     }
-    .footer-content{
+
+    .footer-content {
         margin-left: 25px;
     }
 </style>
@@ -40,9 +41,25 @@
     <li><a href="https://www.facebook.com/fxbrokerservice" target="_blank"><i class="fa fa-facebook"></i></a>
     </li>
 
-    <li><a href="https://join.skype.com/invite/uXpRdZJUgs4i" target="_blank"><i class="fa fa-skype"></i></a>
-    </li>
-    <li><a href="https://twitter.com/fxbrokerservice
+                                            <strong>FXBrokerService</strong> <br>
+                                            Ground Floor, 60 Hindma Square Block
+                                            Third Floor, Kingstown, Saint Vincent & the Grenadines,
+                                        </li>
+                                        <li><span>Phone:</span> <a href="tel:+14087094360">+14087094360</a>
+                                        </li>
+                                        <li><span>Email:</span> <a
+                                                href="mailto:sales@priximglobal.com">sales@priximglobal.com</a>
+                                        </li>
+                                    </ul>
+                                    <ul class="footer-social-icon" style="display: flex;">
+                                        <li><a href="https://www.facebook.com/fxbrokerservice" target="_blank"><i
+                                                    class="fa fa-facebook"></i></a>
+                                        </li>
+
+                                        <li><a href="https://join.skype.com/invite/uXpRdZJUgs4i" target="_blank"><i
+                                                    class="fa fa-skype"></i></a>
+                                        </li>
+                                        <li><a href="https://twitter.com/fxbrokerservice
         " target="_blank"><i class="fa-brands fa-x-twitter"></i></a>
     </li>
    
@@ -211,7 +228,7 @@
         <script src="https://dashboard.chatfuel.com/integration/landing-wa-widget.js" async defer data-prefilled="Hey" data-welcome="Hello" data-phone="14087094360"></script>
 <script src="https://www.google.com/recaptcha/api.js"></script> 
 
-    <script type="application/ld+json">
+<script type="application/ld+json">
         {
           "@context": "https://schema.org",
           "@type": "Organization",
@@ -240,28 +257,29 @@
     s0.parentNode.insertBefore(s1,s0);
     })();
     </script> -->
-    <!--End of Tawk.to Script-->
+<!--End of Tawk.to Script-->
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-2VR9HMYS9H"></script>
 <script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
 
-  gtag('config', 'G-2VR9HMYS9H');
+    gtag('config', 'G-2VR9HMYS9H');
 </script>
 
-    <!-- Google tag (gtag.js) -->
+<!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-261793652-1"></script>
 <script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
 
-  gtag('config', 'UA-261793652-1');
+    gtag('config', 'UA-261793652-1');
 </script>
-	</body>
+</body>
 
 <!-- Mirrored from rockstheme.com/rocks/bultifore-preview/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 27 Dec 2023 11:11:36 GMT -->
+
 </html>
