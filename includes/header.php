@@ -249,10 +249,10 @@
                                                 <li><a href="logodesign.php">Logo Design</a></li>
                                             </ul>
                                         </li>
-                                        <li><a class="pages" href="#">Corporate Services</a>
+                                        <li><a class="pages" href="corporate-services.php">Corporate Services</a>
                                                         
                                            </li>
-                                            <li><a href="#">Blog</a></li>
+                                            <li><a href="">Blog</a></li>
                                             <li><a class="s-menu" href="contact-us.php">Contact Us</a></li>
                                     </ul>
                                 </nav>
