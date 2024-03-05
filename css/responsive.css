@@ -94,20 +94,7 @@
 .single-member .team-img {
     width: 160px;
     height: 160px;
-}    
-
-    
-    
-
-    
-    
-    
-    
-    
-    
-    
-    
-    
+}       
 }
 
 
@@ -310,12 +297,7 @@
 .contact-icon {
     padding: 30px 10px 30px;
 }    
-
-    
-    
-    
-    
-    
+   
 /* Dashboard Responsive */
 .dashboard-side ul li a {
     padding: 10px 10px;
@@ -644,21 +626,7 @@ blockquote::before {
 }
 .money-send::before{
     display: none;
-}    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+}        
 }
 
 /* Large Mobile :480px. */
@@ -667,14 +635,6 @@ blockquote::before {
 .digital-services {
     width: 50%;
     float: left;
-}  
-    
-    
-    
-    
-    
-    
-    
-    
+}      
 }
  
