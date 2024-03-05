@@ -89,7 +89,7 @@
                                             <div class="contact-form-content">
 
                                                 <h5>Phone</h5>
-                                                <p><a style="color: white;" href="tel:+14087094360">+14087094360</a></p>
+                                                <p><a style="color: white;" href="tel:+44 7466242914">+44 7466242914</a></p>
                                             </div>
                                         </div>
                                         <div class="sub-contact-box">
@@ -99,8 +99,8 @@
                                             <div class="contact-form-content">
 
                                                 <h5>WhatsApp</h5>
-                                                <p><a href="https://wa.me/+14087094360?text=Hi"
-                                                    style="color:white;">+14087094360</a></p>
+                                                <p><a href="https://wa.me/+44 7466242914?text=Hi"
+                                                    style="color:white;">+44 7466242914</a></p>
                                             </div>
                                         </div>
                                         <div class="sub-contact-box">
@@ -111,7 +111,7 @@
 
                                                 <h5>Telegram</h5>
                                                 <p><a href="https://t.me/FXBROKERSERVICE"
-                                                    style="color:white;">+14087094360</a></p>
+                                                    style="color:white;">+44 7466242914</a></p>
                                             </div>
                                         </div>
                                         <div class="sub-contact-box">

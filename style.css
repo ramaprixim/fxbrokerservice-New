@@ -2719,7 +2719,7 @@ span.email-notes{
  24. Login And Register page
 ----------------------------------------*/
 .login-area{
-    background:url(img/background/slide1.jpg) no-repeat scroll center center / cover;
+    background:black;
     position: relative;
 }
 .login-overlay {

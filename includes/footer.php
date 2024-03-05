@@ -221,7 +221,7 @@
           "logo": "https://fxbrokerservice.com/assets/img/logo-black.png",
           "contactPoint": {
             "@type": "ContactPoint",
-            "telephone": "+14087094360",
+            "telephone": "+44 7466242914",
             "contactType": "customer service",
             "areaServed": "GB",
             "availableLanguage": "en"
