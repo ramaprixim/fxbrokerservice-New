@@ -139,6 +139,7 @@
                         <div class="service-content">
                             <h4>Offering Instant Quotes</h4>
                             <p>Live Quote plugin makes it easier to get real-time currency rates, making operations more efficient.</p>
+                            <br>
                         </div>
                     </div>
                 </div>
@@ -195,6 +196,7 @@
                         <div class="service-content">
                             <h4>Your Choice Of Landing Pages</h4>
                             <p>We custom design landing pages based on your specifications when it comes to Forex Web Design.</p>
+                            <br>
                         </div>
                     </div>
                 </div>
