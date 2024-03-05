@@ -68,7 +68,6 @@
                             <p>We create a unique and custom logo for your business that represents your brand and sets
                                 you apart from competitors.</p>
                                 <br>
-                                <br>
                         </div>
                     </div>
                 </div>
@@ -133,7 +132,6 @@
                             <h4>Professionalism</h4>
                             <p>FXBrokerService companies specialize in creating logos for businesses, so they have the
                                 expertise and knowledge necessary to create a professional and effective logo.</p>
-                                <br>
                                 <br>
                         </div>
                     </div>

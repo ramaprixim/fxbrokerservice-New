@@ -103,7 +103,7 @@
                             <h4>Secure Transactions</h4>
                             <p>Payment gateways offer secure payment processing that ensures that the customer's
                                 personal and financial information is kept safe during transactions.</p>
-
+                                <br>
                         </div>
                     </div>
                 </div>
@@ -135,8 +135,7 @@
                             <h4>Global Reach</h4>
                             <p>Payment gateways enable businesses to reach customers all over the world, by accepting
                                 payments in multiple currencies.</p>
-                            <br>
-                            <br>
+                                <br>
                         </div>
                     </div>
                 </div>
@@ -152,7 +151,6 @@
                             <h4>Faster Transactions</h4>
                             <p>Payment gateway services enable faster transactions, reducing the time taken to complete
                                 transactions, thereby improving customer satisfaction.</p>
-                            <br>
                         </div>
                     </div>
                 </div>
@@ -168,7 +166,6 @@
                             <h4>Improved Cash Flow</h4>
                             <p>Payment gateways provide fast and secure payment processing, which helps improve cash
                                 flow for businesses by reducing the time taken to receive payments.</p>
-                            <br>
                         </div>
                     </div>
                 </div>

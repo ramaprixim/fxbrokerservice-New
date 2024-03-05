@@ -124,7 +124,7 @@
                             <h4>Analyze Competitors</h4>
                             <p>We create custom SEO analysis for your industry and the latest trends that can keep you
                                 ahead of the competitive forex market.
-                            </p>
+                            </p><br>
                         </div>
                     </div>
                 </div>
